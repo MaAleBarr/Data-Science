@@ -1,0 +1,83 @@
+Airlines,IATA Code,Departures Terminal
+Aer Lingus,EI,Terminal 5
+Aero Mexico,AM,Terminal 4
+Aeroflot,SU,Terminal 1
+Aerolineas Argentinas,AR,Terminal 7
+Air Berlin,AB,Terminal 8
+Air China,CA,Terminal 1
+Air Europa,UX,Terminal 4
+Air France,AF,Terminal 1
+Air India,AI,Terminal 4
+Air Jamaica,JM,Terminal 4
+Air Serbia,JU,Terminal 4
+Alaska Airlines,AS,Terminal 8
+Alitalia,AZ,Terminal 1
+American Airlines,AA,Terminal 8
+American Eagle,AA,Terminal 8
+ANA,NH,Terminal 7
+Arik Air,W3,Terminal 4
+Asiana,OZ,Terminal 4
+Austrian Airlines,OS,Terminal 1
+Avianca,AV,Terminal 4
+Azerbaijan,J2,Terminal 1
+British Airways,BA,Terminal 7
+Brussels Airlines,SN,Terminal 1
+Caribbean,BW,Terminal 4
+Cathay Pacific,CX,Terminal 8
+Cayman Airways,KX,Terminal 1
+China Airlines,CI,Terminal 4
+China Eastern,MU,Terminal 1
+China Southern,CZ,Terminal 4
+Copa Airlines,CM,Terminal 4
+"Delta
+(Domestic)",DL,Terminal 2
+"Delta
+(International, LAX, SFO, SEA)",DL,Terminal 4
+Dynamic International Airways,2D,Terminal 1
+Egyptair,MS,Terminal 4
+El Al,LY,Terminal 4
+Emirates,EK,Terminal 4
+Etihad,EY,Terminal 4
+EVA Airways,BR,Terminal 1
+Finnair,AY,Terminal 8
+Fly Jamaica Airways,OJ,Terminal 1
+Hawaiian Airlines,HA,Terminal 5
+Iberia,IB,Terminal 7
+Icelandair,FI,Terminal 7
+Interjet,4O,Terminal 7
+Japan Airlines,JL,Terminal 1
+JetBlue,B6,Terminal 5
+KLM Royal Dutch Airlines,KL,Terminal 4
+Korean Air,KE,Terminal 1
+Kuwait Airways,KU,Terminal 4
+LATAM,LA,Terminal 8
+LOT,LO,Terminal 7
+Lufthansa,LH,Terminal 1
+Meridiana,IG,Terminal 1
+Miami Air (charter)+,GL,Terminal 4
+Norwegian Air,DY,Terminal 1
+OpenSkies,EC,Terminal 7
+Pakistan International Airlines,PK,Terminal 4
+Philippine Airlines,PR,Terminal 1
+Qantas,QF,Terminal 7
+Qatar Airways,QR,"Terminal 7
+Terminal 8"
+Royal Air Maroc,AT,Terminal 1
+Royal Jordanian,RJ,Terminal 8
+Saudi Arabian Airlines,SV,Terminal 1
+Singapore Airlines,SQ,Terminal 4
+South African Airways,SA,Terminal 4
+Sun Country,SY,Terminal 4
+SWISS,LX,Terminal 4
+TAME,EQ,Terminal 1
+TAP Portugal,TP,Terminal 5
+Thomas Cook Airlines,MT,Terminal 4
+Turkish,TK,Terminal 1
+Ukraine International Airlines,PS,Terminal 7
+Uzbekistan,HY,Terminal 4
+Virgin America,VX,Terminal 4
+Virgin Atlantic,VS,Terminal 4
+Volaris,Y4,Terminal 4
+WestJet,WS,Terminal 4
+Xiamen Airlines,MF,Terminal 4
+XL Airways,SE,Terminal 4

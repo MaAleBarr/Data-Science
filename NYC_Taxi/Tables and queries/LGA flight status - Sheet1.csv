@@ -1,0 +1,506 @@
+Airline,Flight,To,Status,Scheduled,Updated,Term-Gate
+AeroMexico,4686,"Detroit, MI (DTW)",Scheduled,6:00 AM,,Term C - C20
+AeroMexico,5017,"Atlanta, GA (ATL)",Scheduled,6:00 AM,,Term D - D09
+AeroMexico,5619,"Atlanta, GA (ATL)",Scheduled,7:00 AM,,Term D - D09
+Air Canada,701,Toronto (YYZ),Scheduled,6:30 AM,,Term B - A7
+Air Canada,7631,Montreal (YUL),Scheduled,6:40 AM,,Term B - A1
+Air New Zealand,6686,"Houston, TX (IAH)",Scheduled,5:45 AM,5:45 AM,Term B - C5
+Alaska Airlines,3321,"Dallas, TX (DAL)",Scheduled,7:00 AM,7:00 AM,Term B - C6
+Alaska Airlines,6447,"Chicago, IL (ORD)",In Air,8:30 PM,11:15 PM,Term B - D3
+Alaska Airlines,8161,"Chicago, IL (ORD)",Scheduled,6:30 AM,,Term B - D7
+All Nippon Airways,7555,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term B - C7
+American Airlines,125,"Dallas-Fort Worth, TX (DFW)",Scheduled,6:03 AM,,Term B - D10
+American Airlines,129,"Orlando, FL (MCO)",Scheduled,5:59 AM,,Term B - D8
+American Airlines,263,"Dallas-Fort Worth, TX (DFW)",Scheduled,7:00 AM,,Term B - D5
+American Airlines,304,"Chicago, IL (ORD)",Scheduled,6:30 AM,,Term B - D7
+American Airlines,371,"Chicago, IL (ORD)",In Air,8:30 PM,11:15 PM,Term B - D3
+American Airlines,461,"Charlotte, NC (CLT)",Scheduled,6:15 AM,,Term C - C37
+American Airlines,1399,"Miami, FL (MIA)",Scheduled,6:00 AM,,Term B - D1
+American Airlines,1841,"Philadelphia, PA (PHL)",Scheduled,6:29 AM,,Term C - C35
+American Airlines,2115,"Washington, DC (DCA)",Scheduled,5:59 AM,,Term C - C41
+American Airlines,2126,"Boston, MA (BOS)",Scheduled,6:00 AM,,Term C - C39
+American Airlines,2152,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term C - C39
+American Airlines,2266,"Miami, FL (MIA)",Scheduled,6:59 AM,,Term B - D6
+American Airlines,3719,"Detroit, MI (DTW)",Scheduled,6:40 AM,,Term B - C2
+American Airlines,3819,"Raleigh/Durham, NC (RDU)",Scheduled,6:29 AM,,Term B - D2B
+American Airlines,4499,"Columbus, OH (CMH)",Scheduled,5:59 AM,5:59 AM,Term B - D4
+American Airlines,4664,"Minneapolis, MN (MSP)",Scheduled,6:20 AM,6:20 AM,Term B - D2
+American Airlines,4683,"Fayetteville/Springdale/, AR (XNA)",Scheduled,6:59 AM,6:59 AM,Term B - C1
+American Airlines,4724,"Washington, DC (DCA)",Scheduled,6:59 AM,6:59 AM,Term C - C42
+American Airlines,4750,"Atlanta, GA (ATL)",Scheduled,6:20 AM,6:20 AM,Term B - D4
+Avianca,2137,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term B - C7
+British Airways,6627,"Chicago, IL (ORD)",In Air,8:30 PM,11:15 PM,Term B - D3
+British Airways,6951,"Chicago, IL (ORD)",Scheduled,6:30 AM,,Term B - D7
+British Airways,7762,"Miami, FL (MIA)",Scheduled,6:00 AM,,Term B - D1
+British Airways,7804,"Miami, FL (MIA)",Scheduled,6:59 AM,,Term B - D6
+Delta Air Lines,831,"Detroit, MI (DTW)",Scheduled,7:10 AM,,Term C - C18
+Delta Air Lines,904,"Atlanta, GA (ATL)",Scheduled,7:00 AM,,Term D - D09
+Delta Air Lines,964,"Detroit, MI (DTW)",Scheduled,6:00 AM,,Term C - C20
+Delta Air Lines,1447,"Atlanta, GA (ATL)",Scheduled,6:00 AM,,Term D - D09
+Delta Air Lines,1919,"Minneapolis, MN (MSP)",Scheduled,6:10 AM,,Term C - C20
+Delta Air Lines,2285,"Orlando, FL (MCO)",Scheduled,7:00 AM,,Term C - C21
+Delta Air Lines,2665,"Boston, MA (BOS)",Scheduled,6:00 AM,,Term C - C32
+Delta Air Lines,3958,"Buffalo, NY (BUF)",Arrived,9:50 PM,11:22 PM,Term C - C15
+Delta Air Lines,3988,"Raleigh/Durham, NC (RDU)",Scheduled,6:30 AM,,Term C - C29
+Delta Air Lines,4024,"Buffalo, NY (BUF)",Scheduled,7:04 AM,,Term C - C28
+Delta Air Lines,4120,"Cincinnati, OH (CVG)",Scheduled,6:10 AM,,C12
+Delta Air Lines,5394,"Cleveland, OH (CLE)",Scheduled,6:40 AM,,C13
+Delta Air Lines,5554,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term C - C15
+Delta Air Lines,5572,"Charlottesville, VA (CHO)",Arrived,9:05 PM,11:28 PM,Term C - C20
+Delta Air Lines,5898,"Dallas-Fort Worth, TX (DFW)",Scheduled,6:10 AM,,Term C - C24
+Delta Air Lines,5959,"Chicago, IL (ORD)",Scheduled,6:15 AM,,Term A - SH6
+Delta Air Lines,5961,"Chicago, IL (ORD)",Scheduled,7:15 AM,,Term A - SH2
+Delta Air Lines,5991,"Nashville, TN (BNA)",Scheduled,6:35 AM,,Term C - C26
+Delta Air Lines,6048,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term C - C32
+Delta Air Lines,6109,"Houston, TX (IAH)",Scheduled,6:30 AM,,Term D - D10
+Delta Air Lines,6131,"Washington, DC (DCA)",Scheduled,6:00 AM,,Term A - SH5
+Delta Air Lines,6133,"Washington, DC (DCA)",Scheduled,7:00 AM,,Term A - SH3
+Delta Air Lines,7135,Toronto (YYZ),Cancelled,6:00 AM,,Term D - D7
+Delta Air Lines,7147,Toronto (YYZ),Arrived,6:30 PM,11:23 PM,Term D - D8
+Frontier Airlines,509,"Denver, CO (DEN)",In Air,10:45 PM,11:21 PM,Term B - C6
+JetBlue Airways,371,"Fort Lauderdale, FL (FLL)",Scheduled,6:00 AM,6:00 AM,Term B - A5
+JetBlue Airways,1099,"Orlando, FL (MCO)",Scheduled,7:00 AM,7:00 AM,Term B - B4
+JetBlue Airways,1432,"Boston, MA (BOS)",Scheduled,6:30 AM,6:30 AM,Term B - A3
+LAN Ecuador,6231,"Charlotte, NC (CLT)",Scheduled,6:15 AM,,Term C - C37
+LAN Ecuador,6246,"Atlanta, GA (ATL)",Scheduled,6:20 AM,6:20 AM,Term B - D4
+NetJets,648,"Portsmouth, NH (PSM)",Scheduled,6:01 AM,6:01 AM,
+Southwest Airlines,701,"Dallas, TX (DAL)",Scheduled,6:00 AM,6:00 AM,Term B - B8
+Southwest Airlines,1230,"Chicago, IL (MDW)",Scheduled,6:00 AM,,Term B - B5
+Southwest Airlines,1551,"Houston, TX (HOU)",Scheduled,6:20 AM,,Term B - B3
+Southwest Airlines,1724,"Atlanta, GA (ATL)",Scheduled,6:30 AM,6:30 AM,Term B - B7
+Spirit Airlines,705,"Fort Lauderdale, FL (FLL)",Scheduled,6:30 AM,6:30 AM,Term B - B6
+United Airlines,628,"Chicago, IL (ORD)",Scheduled,7:10 AM,7:10 AM,Term B - C5
+United Airlines,657,"Houston, TX (IAH)",Scheduled,5:45 AM,5:45 AM,Term B - C5
+United Airlines,761,"Chicago, IL (ORD)",Scheduled,6:00 AM,6:00 AM,Term B - C12
+United Airlines,1561,"Denver, CO (DEN)",Scheduled,6:20 AM,6:20 AM,Term B - C11
+United Airlines,3475,"Cleveland, OH (CLE)",Scheduled,5:55 AM,5:55 AM,Term B - C10
+United Airlines,6052,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term B - C7
+United Airlines,8431,Montreal (YUL),Scheduled,6:40 AM,,Term B - A1
+United Airlines,8447,Toronto (YYZ),Scheduled,6:30 AM,,Term B - A7
+Virgin Australia,6675,"Detroit, MI (DTW)",Scheduled,7:10 AM,,Term C - C18
+WestJet Airlines,1201,Toronto (YYZ),Cancelled,6:00 AM,,Term D - D7
+WestJet Airlines,1215,Toronto (YYZ),Arrived,6:30 PM,11:23 PM,Term D - D8
+WestJet Airlines,6498,"Atlanta, GA (ATL)",Scheduled,6:00 AM,,Term D - D09
+WestJet Airlines,6500,"Atlanta, GA (ATL)",Scheduled,7:00 AM,,Term D - D09
+WestJet Airlines,6526,"Nashville, TN (BNA)",Scheduled,6:35 AM,,Term C - C26
+WestJet Airlines,6548,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term C - C32
+WestJet Airlines,6550,"Boston, MA (BOS)",Scheduled,6:00 AM,,Term C - C32
+WestJet Airlines,6564,"Charlottesville, VA (CHO)",Arrived,9:05 PM,11:28 PM,Term C - C20
+WestJet Airlines,6580,"Cleveland, OH (CLE)",Scheduled,6:40 AM,,C13
+WestJet Airlines,6588,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term C - C15
+WestJet Airlines,6608,"Cincinnati, OH (CVG)",Scheduled,6:10 AM,,C12
+WestJet Airlines,6640,"Houston, TX (IAH)",Scheduled,6:30 AM,,Term D - D10
+WestJet Airlines,6666,"Orlando, FL (MCO)",Scheduled,7:00 AM,,Term C - C21
+WestJet Airlines,6760,"Raleigh/Durham, NC (RDU)",Scheduled,6:30 AM,,Term C - C29
+WestJet Airlines,8936,"New York, NY (LGA)",Scheduled,6:05 AM,6:05 AM,
+Air New Zealand,6684,"Houston, TX (IAH)",In Air,7:20 AM,7:15 AM,Term B - C7
+Southwest Airlines,388,"St Louis, MO (STL)",In Air,7:20 AM,7:15 AM,Term B
+United Airlines,1156,"Houston, TX (IAH)",In Air,7:20 AM,7:15 AM,Term B - C7
+NetJets,648,"East Hampton, NY (HTO)",In Air,7:25 AM,7:33 AM,
+American Airlines,4560,"Richmond, VA (RIC)",In Air,7:29 AM,7:20 AM,Term B - D2
+Air Canada,703,Toronto (YYZ),In Air,7:30 AM,7:30 AM,Term B - A6
+Alaska Airlines,6439,"Chicago, IL (ORD)",In Air,7:30 AM,7:26 AM,Term B - D1
+American Airlines,289,"Chicago, IL (ORD)",In Air,7:30 AM,7:26 AM,Term B - D1
+American Airlines,1365,"Miami, FL (MIA)",In Air,7:30 AM,7:23 AM,Term B - D8
+British Airways,1633,"Chicago, IL (ORD)",In Air,7:30 AM,7:26 AM,Term B - D1
+British Airways,6929,"Miami, FL (MIA)",In Air,7:30 AM,7:23 AM,Term B - D8
+Delta Air Lines,6080,"Dallas-Fort Worth, TX (DFW)",In Air,7:30 AM,7:35 AM,Term C - C29
+JetBlue Airways,461,"West Palm Beach, FL (PBI)",In Air,7:30 AM,7:18 AM,Term B - A5
+Southwest Airlines,1670,"Nashville, TN (BNA)",In Air,7:30 AM,7:25 AM,Term B - B8
+United Airlines,8229,Toronto (YYZ),In Air,7:30 AM,7:30 AM,Term B - A6
+Delta Air Lines,1472,"Miami, FL (MIA)",In Air,7:40 AM,7:35 AM,Term D - D10
+WestJet Airlines,6694,"Miami, FL (MIA)",In Air,7:40 AM,7:35 AM,Term D - D10
+American Airlines,3775,"Louisville, KY (SDF)",In Air,7:45 AM,7:49 AM,Term B - C8
+Delta Air Lines,3799,"Charlotte, NC (CLT)",In Air,7:45 AM,7:41 AM,Term C - C18
+Delta Air Lines,7137,Toronto (YYZ),Departed,7:45 AM,8:04 AM,Term D - D8
+WestJet Airlines,6594,"Charlotte, NC (CLT)",In Air,7:45 AM,7:41 AM,Term C - C18
+WestJet Airlines,1203,Toronto (YYZ),Departed,7:45 AM,8:04 AM,Term D - D8
+United Airlines,561,"Denver, CO (DEN)",In Air,7:50 AM,7:41 AM,Term B - C11
+American Airlines,149,"Dallas-Fort Worth, TX (DFW)",In Air,7:52 AM,7:45 AM,Term B - D10
+American Airlines,2053,"Charlotte, NC (CLT)",In Air,7:55 AM,7:50 AM,Term C - C38
+AeroMexico,4412,"Atlanta, GA (ATL)",In Air,7:59 AM,7:49 AM,Term D - D01
+American Airlines,3746,Montreal (YUL),In Air,7:59 AM,8:00 AM,Term B - C3
+Delta Air Lines,1998,"Atlanta, GA (ATL)",In Air,7:59 AM,7:49 AM,Term D - D01
+Delta Air Lines,6050,"Boston, MA (BOS)",In Air,7:59 AM,7:57 AM,Term C - C31
+WestJet Airlines,6502,"Atlanta, GA (ATL)",In Air,7:59 AM,7:49 AM,Term D - D01
+WestJet Airlines,6552,"Boston, MA (BOS)",In Air,7:59 AM,7:57 AM,Term C - C31
+Alaska Airlines,6035,"Nashville, TN (BNA)",In Air,8:00 AM,7:57 AM,Term C - C35
+All Nippon Airways,7749,"Chicago, IL (ORD)",In Air,8:00 AM,7:50 AM,Term B - C9
+American Airlines,1410,"Miami, FL (MIA)",In Air,8:00 AM,7:58 AM,Term B - D3
+American Airlines,4501,"Nashville, TN (BNA)",In Air,8:00 AM,7:57 AM,Term C - C35
+American Airlines,4708,"Washington, DC (DCA)",In Air,8:00 AM,7:53 AM,Term C - C42
+American Airlines,4762,"Boston, MA (BOS)",In Air,8:00 AM,7:54 AM,Term C - C41
+British Airways,7773,"Miami, FL (MIA)",In Air,8:00 AM,7:58 AM,Term B - D3
+Delta Air Lines,1879,"Fort Lauderdale, FL (FLL)",In Air,8:00 AM,8:00 AM,Term D - D05
+Delta Air Lines,5463,"St Louis, MO (STL)",In Air,8:00 AM,7:58 AM,Term C - C32
+SXL,23,"Fitchburg, MA (FIT)",In Air,8:00 AM,8:21 AM,
+United Airlines,463,"Chicago, IL (ORD)",In Air,8:00 AM,7:50 AM,Term B - C9
+WestJet Airlines,6624,"Fort Lauderdale, FL (FLL)",In Air,8:00 AM,8:00 AM,Term D - D05
+Delta Air Lines,3445,"Jacksonville, FL (JAX)",Departed,8:05 AM,8:00 AM,Term D - C12
+WestJet Airlines,6654,"Jacksonville, FL (JAX)",Departed,8:05 AM,8:00 AM,Term D - C12
+American Airlines,3534,"Dayton, OH (DAY)",Departed,8:10 AM,8:03 AM,Term B - C2
+Delta Air Lines,121,"Minneapolis, MN (MSP)",Departed,8:10 AM,8:15 AM,Term C - C34
+Delta Air Lines,1965,"Denver, CO (DEN)",Departed,8:10 AM,8:05 AM,Term D - D04
+Delta Air Lines,3849,"Norfolk, VA (ORF)",Departed,8:10 AM,8:08 AM,Term D - C13
+WestJet Airlines,6716,"Norfolk, VA (ORF)",Departed,8:10 AM,8:08 AM,Term D - C13
+American Airlines,3682,"Roanoke, VA (ROA)",Departed,8:12 AM,8:20 AM,Term B - D10
+Delta Air Lines,3947,"Kansas City, MO (MCI)",Departed,8:13 AM,8:13 AM,Term C - C16
+WestJet Airlines,6664,"Kansas City, MO (MCI)",Departed,8:13 AM,8:13 AM,Term C - C16
+Delta Air Lines,3283,"Rochester, NY (ROC)",Departed,8:16 AM,8:10 AM,Term C - C24
+Delta Air Lines,3485,"Cincinnati, OH (CVG)",Departed,8:22 AM,8:18 AM,Term D - D09
+WestJet Airlines,6606,"Cincinnati, OH (CVG)",Departed,8:22 AM,8:18 AM,Term D - D09
+Air New Zealand,6687,"Houston, TX (IAH)",Scheduled,8:30 AM,8:30 AM,Term B - C7
+Alaska Airlines,4402,"Chicago, IL (ORD)",Departed,8:30 AM,8:24 AM,Term B - D7
+American Airlines,1619,"Chicago, IL (ORD)",Departed,8:30 AM,8:24 AM,Term B - D7
+American Airlines,4548,"Detroit, MI (DTW)",Departed,8:30 AM,8:29 AM,Term B - C4
+British Airways,5107,"Chicago, IL (ORD)",Departed,8:30 AM,8:24 AM,Term B - D7
+Delta Air Lines,2280,"Tampa, FL (TPA)",Departed,8:30 AM,8:26 AM,Term C - C20
+Delta Air Lines,5390,"Greensboro, NC (GSO)",Scheduled,8:30 AM,8:45 AM,Term C - C17
+Delta Air Lines,5445,"Richmond, VA (RIC)",Departed,8:30 AM,8:25 AM,Term C - C12
+Etihad Airways,3151,"Chicago, IL (ORD)",Departed,8:30 AM,8:24 AM,Term B - D7
+Japan Airlines,7659,"Chicago, IL (ORD)",Departed,8:30 AM,8:24 AM,Term B - D7
+United Airlines,1401,"Houston, TX (IAH)",Scheduled,8:30 AM,8:30 AM,Term B - C7
+WestJet Airlines,6810,"Tampa, FL (TPA)",Departed,8:30 AM,8:26 AM,Term C - C20
+WestJet Airlines,6626,"Greensboro, NC (GSO)",Scheduled,8:30 AM,8:45 AM,Term C - C17
+WestJet Airlines,6770,"Richmond, VA (RIC)",Departed,8:30 AM,8:25 AM,Term C - C12
+Delta Air Lines,3423,"Columbus, OH (CMH)",Departed,8:33 AM,8:22 AM,Term C - C30
+Delta Air Lines,5270,"Syracuse, NY (SYR)",Departed,8:33 AM,8:27 AM,Term C - C18
+WestJet Airlines,6596,"Columbus, OH (CMH)",Departed,8:33 AM,8:22 AM,Term C - C30
+Air Canada,705,Toronto (YYZ),Scheduled,8:35 AM,8:45 AM,Term B - A6
+American Airlines,879,"Charlotte, NC (CLT)",Departed,8:35 AM,8:28 AM,Term C - C37
+Delta Air Lines,2358,"West Palm Beach, FL (PBI)",Departed,8:35 AM,8:28 AM,Term D - D10
+Delta Air Lines,5414,Montreal (YUL),Delayed,8:35 AM,9:05 AM,Term C - C29
+United Airlines,8469,Toronto (YYZ),Scheduled,8:35 AM,8:45 AM,Term B - A6
+United Airlines,4120,"Cleveland, OH (CLE)",Departed,8:35 AM,8:29 AM,Term B - C12
+WestJet Airlines,6724,"West Palm Beach, FL (PBI)",Departed,8:35 AM,8:28 AM,Term D - D10
+WestJet Airlines,6445,Montreal (YUL),Delayed,8:35 AM,9:05 AM,Term C - C29
+Spirit Airlines,475,"Detroit, MI (DTW)",Scheduled,8:39 AM,8:39 AM,Term B - B6
+Air Canada,7633,Montreal (YUL),Scheduled,8:40 AM,8:45 AM,Term B - A1
+Delta Air Lines,3356,"Savannah, GA (SAV)",Scheduled,8:40 AM,,Term C - C23
+United Airlines,8181,Montreal (YUL),Scheduled,8:40 AM,8:45 AM,Term B - A1
+WestJet Airlines,6788,"Savannah, GA (SAV)",Scheduled,8:40 AM,,Term C - C23
+American Airlines,1669,"Raleigh/Durham, NC (RDU)",Scheduled,8:44 AM,8:50 AM,Term C - C39
+American Airlines,5881,"Indianapolis, IN (IND)",Scheduled,8:45 AM,8:45 AM,
+Delta Air Lines,5881,"Indianapolis, IN (IND)",Scheduled,8:45 AM,,Term D - D01
+Delta Air Lines,6099,"Houston, TX (IAH)",Scheduled,8:45 AM,,Term D - D11
+WestJet Airlines,6652,"Indianapolis, IN (IND)",Scheduled,8:45 AM,,Term D - D01
+American Airlines,5254,"Pittsburgh, PA (PIT)",Delayed,8:46 AM,9:05 AM,Term C - C43
+Delta Air Lines,3458,"Milwaukee, WI (MKE)",Scheduled,8:55 AM,,Term C - C26
+Southwest Airlines,154,"Denver, CO (DEN)",Scheduled,8:55 AM,,Term B - B7
+WestJet Airlines,6702,"Milwaukee, WI (MKE)",Scheduled,8:55 AM,,Term C - C26
+AeroMexico,4413,"Atlanta, GA (ATL)",Scheduled,8:59 AM,,Term D - D06
+Delta Air Lines,2209,"Atlanta, GA (ATL)",Scheduled,8:59 AM,,Term D - D06
+WestJet Airlines,7618,"Atlanta, GA (ATL)",Scheduled,8:59 AM,,Term D - D06
+All Nippon Airways,7571,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term B - C14
+American Airlines,3721,"Cleveland, OH (CLE)",Scheduled,9:00 AM,9:00 AM,Term B - D4
+American Airlines,5894,"Fort Myers, FL (RSW)",Scheduled,9:00 AM,9:00 AM,
+American Airlines,1114,"Dallas-Fort Worth, TX (DFW)",Scheduled,9:00 AM,9:00 AM,Term B - D5
+American Airlines,2121,"Boston, MA (BOS)",Scheduled,9:00 AM,9:00 AM,Term C - C41
+American Airlines,3772,"Columbus, OH (CMH)",Scheduled,9:00 AM,9:00 AM,Term B - C2
+American Airlines,4565,"Washington, DC (DCA)",Scheduled,9:00 AM,9:00 AM,Term C - C42
+American Airlines,4710,"Kansas City, MO (MCI)",Scheduled,9:00 AM,9:00 AM,Term B - C1
+Delta Air Lines,3755,"Portland, ME (PWM)",Scheduled,9:00 AM,,Term C - C13
+Delta Air Lines,5403,"Charlotte, NC (CLT)",Scheduled,9:00 AM,,Term C - C12
+Delta Air Lines,5894,"Fort Myers, FL (RSW)",Scheduled,9:00 AM,,Term C - C28
+Delta Air Lines,6076,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term C - C32
+Delta Air Lines,6137,"Washington, DC (DCA)",Scheduled,9:00 AM,,Term A - SH4
+JetBlue Airways,632,"Boston, MA (BOS)",Scheduled,9:00 AM,9:00 AM,Term B - A3
+United Airlines,519,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term B - C14
+United Airlines,744,"Denver, CO (DEN)",Scheduled,9:00 AM,9:00 AM,Term B - C10
+WestJet Airlines,6748,"Portland, ME (PWM)",Scheduled,9:00 AM,,Term C - C13
+WestJet Airlines,6582,"Charlotte, NC (CLT)",Scheduled,9:00 AM,,Term C - C12
+WestJet Airlines,6780,"Fort Myers, FL (RSW)",Scheduled,9:00 AM,,Term C - C28
+WestJet Airlines,6532,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term C - C32
+American Airlines,3730,"Cincinnati, OH (CVG)",Scheduled,9:05 AM,9:05 AM,Term B - C3
+American Airlines,4748,"Indianapolis, IN (IND)",Scheduled,9:10 AM,9:10 AM,Term B - D2
+Delta Air Lines,925,"Orlando, FL (MCO)",Scheduled,9:10 AM,,Term D - D02
+Frontier Airlines,1463,"Atlanta, GA (ATL)",Scheduled,9:10 AM,9:10 AM,Term B - C6
+Southwest Airlines,1240,"Tampa, FL (TPA)",Scheduled,9:10 AM,,Term B - B5
+WestJet Airlines,7611,"Orlando, FL (MCO)",Scheduled,9:10 AM,,Term D - D02
+Delta Air Lines,5965,"Chicago, IL (ORD)",Scheduled,9:15 AM,,Term A - SH1
+WestJet Airlines,8981,Toronto (YYZ),Scheduled,9:15 AM,9:15 AM,D7
+China Southern Airlines,1085,"Detroit, MI (DTW)",Scheduled,9:20 AM,,Term C - C21
+Delta Air Lines,955,"Detroit, MI (DTW)",Scheduled,9:20 AM,,Term C - C21
+Virgin Australia,6793,"Detroit, MI (DTW)",Scheduled,9:20 AM,,Term C - C21
+American Airlines,4614,"St Louis, MO (STL)",Scheduled,9:24 AM,9:24 AM,Term C - C38
+American Airlines,3748,Toronto (YYZ),Scheduled,9:28 AM,9:28 AM,Term B - C4
+Alaska Airlines,4773,"Chicago, IL (ORD)",Scheduled,9:30 AM,9:30 AM,Term B - D6
+American Airlines,373,"Chicago, IL (ORD)",Scheduled,9:30 AM,9:30 AM,Term B - D6
+American Airlines,3364,"Norfolk, VA (ORF)",Scheduled,9:30 AM,9:30 AM,Term B - C8
+British Airways,5672,"Chicago, IL (ORD)",Scheduled,9:30 AM,9:30 AM,Term B - D6
+Delta Air Lines,3930,"Raleigh/Durham, NC (RDU)",Scheduled,9:30 AM,,Term C - C20
+Delta Air Lines,5376,"Pittsburgh, PA (PIT)",Scheduled,9:30 AM,9:45 AM,Term D - D01
+Etihad Airways,3158,"Chicago, IL (ORD)",Scheduled,9:30 AM,9:30 AM,Term B - D6
+Japan Airlines,7373,"Chicago, IL (ORD)",Scheduled,9:30 AM,9:30 AM,Term B - D6
+JetBlue Airways,199,"Orlando, FL (MCO)",Scheduled,9:30 AM,9:30 AM,Term B - B4
+WestJet Airlines,6754,"Raleigh/Durham, NC (RDU)",Scheduled,9:30 AM,,Term C - C20
+WestJet Airlines,7586,"Pittsburgh, PA (PIT)",Scheduled,9:30 AM,9:45 AM,Term D - D01
+American Airlines,4591,"Atlanta, GA (ATL)",Scheduled,9:32 AM,9:32 AM,Term C - C35
+Delta Air Lines,6106,"Dallas-Fort Worth, TX (DFW)",Scheduled,9:35 AM,,Term C - C34
+JetBlue Airways,971,"Fort Lauderdale, FL (FLL)",Scheduled,9:37 AM,9:37 AM,Term B - A5
+Delta Air Lines,3644,"Charleston, SC (CHS)",Scheduled,9:40 AM,,Term C - C30
+Delta Air Lines,7139,Toronto (YYZ),Scheduled,9:40 AM,9:40 AM,Term D - D8
+WestJet Airlines,6566,"Charleston, SC (CHS)",Scheduled,9:40 AM,,Term C - C30
+WestJet Airlines,1205,Toronto (YYZ),Scheduled,9:40 AM,9:40 AM,Term D - D8
+Delta Air Lines,5885,"Louisville, KY (SDF)",Scheduled,9:45 AM,,Term D - D09
+Southwest Airlines,1524,"Chicago, IL (MDW)",Scheduled,9:45 AM,,Term B - B8
+Spirit Airlines,847,"Chicago, IL (ORD)",Scheduled,9:45 AM,9:45 AM,Term B - B6
+WestJet Airlines,6794,"Louisville, KY (SDF)",Scheduled,9:45 AM,,Term D - D09
+Delta Air Lines,5471,"Greenville, SC (GSP)",Scheduled,9:51 AM,,Term C - C12
+WestJet Airlines,6634,"Greenville, SC (GSP)",Scheduled,9:51 AM,,Term C - C12
+Delta Air Lines,3915,"New Orleans, LA (MSY)",Scheduled,9:55 AM,,Term D - D11
+WestJet Airlines,6708,"New Orleans, LA (MSY)",Scheduled,9:55 AM,,Term D - D11
+AeroMexico,5157,"Atlanta, GA (ATL)",Scheduled,9:59 AM,,Term D - D04
+Alaska Airlines,4150,"Nashville, TN (BNA)",Scheduled,9:59 AM,9:59 AM,Term C - C44
+American Airlines,5174,"Nashville, TN (BNA)",Scheduled,9:59 AM,9:59 AM,Term C - C44
+Delta Air Lines,949,"Atlanta, GA (ATL)",Scheduled,9:59 AM,,Term D - D04
+United Airlines,1953,"Chicago, IL (ORD)",Scheduled,9:59 AM,9:59 AM,Term B - C9
+WestJet Airlines,6494,"Atlanta, GA (ATL)",Scheduled,9:59 AM,,Term D - D04
+American Airlines,2136,"Boston, MA (BOS)",Delayed,10:00 AM,10:20 AM,Term C - C41
+American Airlines,2125,"Washington, DC (DCA)",Scheduled,10:00 AM,,Term C - C42
+Delta Air Lines,1496,"Minneapolis, MN (MSP)",Scheduled,10:00 AM,,Term C - C16
+Delta Air Lines,2666,"Boston, MA (BOS)",Scheduled,10:00 AM,,Term C - C31
+Delta Air Lines,6139,"Washington, DC (DCA)",Delayed,10:00 AM,10:45 AM,Term A - SH5
+Southwest Airlines,1236,"Atlanta, GA (ATL)",Scheduled,10:00 AM,,Term B - B3
+WestJet Airlines,6536,"Boston, MA (BOS)",Scheduled,10:00 AM,,Term C - C31
+Air Canada,707,Toronto (YYZ),Scheduled,10:10 AM,,Term B - A6
+American Airlines,644,"Charlotte, NC (CLT)",Scheduled,10:10 AM,,Term C - C37
+Delta Air Lines,5454,"St Louis, MO (STL)",Scheduled,10:10 AM,,Term C - C24
+United Airlines,8573,Toronto (YYZ),Scheduled,10:10 AM,,Term B - A6
+WestJet Airlines,6808,"St Louis, MO (STL)",Scheduled,10:10 AM,,Term C - C24
+Avianca,2237,"Washington, DC (IAD)",Scheduled,10:12 AM,10:12 AM,Term B - C10
+United Airlines,6260,"Washington, DC (IAD)",Scheduled,10:12 AM,10:12 AM,Term B - C10
+Delta Air Lines,5967,"Chicago, IL (ORD)",Scheduled,10:15 AM,,Term A - SH3
+Delta Air Lines,3289,"West Palm Beach, FL (PBI)",Scheduled,10:23 AM,,Term D - D06
+WestJet Airlines,6722,"West Palm Beach, FL (PBI)",Scheduled,10:23 AM,,Term D - D06
+Delta Air Lines,5340,"Memphis, TN (MEM)",Scheduled,10:25 AM,,Term D - D10
+WestJet Airlines,6678,"Memphis, TN (MEM)",Scheduled,10:25 AM,,Term D - D10
+Air New Zealand,6682,"Houston, TX (IAH)",Scheduled,10:29 AM,10:29 AM,Term B - C11
+American Airlines,3423,"Columbus, OH (CMH)",Scheduled,10:29 AM,,Term B - C2
+American Airlines,4779,"Philadelphia, PA (PHL)",Scheduled,10:29 AM,10:29 AM,Term B - C1
+United Airlines,1973,"Houston, TX (IAH)",Scheduled,10:29 AM,10:29 AM,Term B - C11
+Alaska Airlines,6399,"Chicago, IL (ORD)",Scheduled,10:30 AM,,Term B - D8
+American Airlines,328,"Chicago, IL (ORD)",Scheduled,10:30 AM,,Term B - D8
+American Airlines,3736,"Raleigh/Durham, NC (RDU)",Scheduled,10:30 AM,,Term B - C3
+British Airways,6579,"Chicago, IL (ORD)",Scheduled,10:30 AM,,Term B - D8
+Delta Air Lines,3876,"Burlington, VT (BTV)",Scheduled,10:30 AM,,Term C - C13
+Delta Air Lines,5614,Montreal (YUL),Scheduled,10:30 AM,,Term C - C30
+United Airlines,1135,"Denver, CO (DEN)",Scheduled,10:30 AM,10:30 AM,Term B - C12
+WestJet Airlines,6437,Montreal (YUL),Scheduled,10:30 AM,,Term C - C30
+American Airlines,1131,"Dallas-Fort Worth, TX (DFW)",Scheduled,10:35 AM,,Term B - D1
+Southwest Airlines,5518,"Dallas, TX (DAL)",Scheduled,10:40 AM,,Term B - B7
+Delta Air Lines,3719,"Bangor, ME (BGR)",Scheduled,10:43 AM,,Term C - C18
+Air Canada,7635,Montreal (YUL),Scheduled,10:50 AM,,Term B - A1
+United Airlines,8183,Montreal (YUL),Scheduled,10:50 AM,,Term B - A1
+Delta Air Lines,838,"Miami, FL (MIA)",Scheduled,10:53 AM,,Term C - C23
+WestJet Airlines,6688,"Miami, FL (MIA)",Scheduled,10:53 AM,,Term C - C23
+American Airlines,3952,Montreal (YUL),Scheduled,10:55 AM,,Term B - C8
+Delta Air Lines,3299,"Buffalo, NY (BUF)",Scheduled,10:55 AM,,Term D - D02
+JetBlue Airways,732,"Boston, MA (BOS)",Scheduled,10:55 AM,10:55 AM,Term B - A3
+TAP Portugal,8114,"Boston, MA (BOS)",Scheduled,10:55 AM,10:55 AM,Term B - A3
+AeroMexico,4414,"Atlanta, GA (ATL)",Scheduled,11:00 AM,,Term D - D08
+American Airlines,1011,"Miami, FL (MIA)",Scheduled,11:00 AM,,Term B - D5
+American Airlines,2162,"Boston, MA (BOS)",Cancelled,11:00 AM,,Term C - C41
+British Airways,7794,"Miami, FL (MIA)",Scheduled,11:00 AM,,Term B - D5
+Delta Air Lines,343,"Atlanta, GA (ATL)",Scheduled,11:00 AM,,Term D - D08
+Delta Air Lines,2148,"Detroit, MI (DTW)",Scheduled,11:00 AM,,Term C - C34
+Delta Air Lines,3319,"Cincinnati, OH (CVG)",Scheduled,11:00 AM,,Term C - C28
+Delta Air Lines,5873,"Columbus, OH (CMH)",Scheduled,11:00 AM,,Term D - D04
+Delta Air Lines,6052,"Boston, MA (BOS)",Scheduled,11:00 AM,,Term C - C31
+KLM Royal Dutch Airlines,6551,"Atlanta, GA (ATL)",Scheduled,11:00 AM,,Term D - D08
+LAN Airlines,6865,"Miami, FL (MIA)",Scheduled,11:00 AM,,Term B - D5
+NetJets,677,"Belmar/Farmingdale, NJ (BLM)",Scheduled,11:00 AM,11:00 AM,
+Spirit Airlines,197,"Fort Lauderdale, FL (FLL)",Scheduled,11:00 AM,11:00 AM,Term B - B6
+United Airlines,1697,"Chicago, IL (ORD)",Scheduled,11:00 AM,11:00 AM,Term B - C14
+United Airlines,3973,"Cleveland, OH (CLE)",Scheduled,11:00 AM,11:00 AM,Term B - C7
+Virgin Australia,6688,"Detroit, MI (DTW)",Scheduled,11:00 AM,,Term C - C34
+WestJet Airlines,6508,"Atlanta, GA (ATL)",Scheduled,11:00 AM,,Term D - D08
+WestJet Airlines,6610,"Cincinnati, OH (CVG)",Scheduled,11:00 AM,,Term C - C28
+WestJet Airlines,6600,"Columbus, OH (CMH)",Scheduled,11:00 AM,,Term D - D04
+WestJet Airlines,6544,"Boston, MA (BOS)",Scheduled,11:00 AM,,Term C - C31
+Air Canada,709,Toronto (YYZ),Scheduled,11:05 AM,,Term B - A6
+American Airlines,3815,"Pittsburgh, PA (PIT)",Scheduled,11:05 AM,,Term B - C4
+United Airlines,8231,Toronto (YYZ),Scheduled,11:05 AM,,Term B - A6
+Delta Air Lines,3281,"Portland, ME (PWM)",Scheduled,11:15 AM,,Term D - D05
+Delta Air Lines,5466,"Richmond, VA (RIC)",Scheduled,11:15 AM,,Term C - C13
+Southwest Airlines,1941,"Milwaukee, WI (MKE)",Scheduled,11:15 AM,,Term B
+WestJet Airlines,6744,"Portland, ME (PWM)",Scheduled,11:15 AM,,Term D - D05
+WestJet Airlines,6774,"Richmond, VA (RIC)",Scheduled,11:15 AM,,Term C - C13
+American Airlines,4668,"St Louis, MO (STL)",Scheduled,11:18 AM,11:18 AM,Term B - D4
+Delta Air Lines,5457,"Kansas City, MO (MCI)",Scheduled,11:24 AM,,C13
+WestJet Airlines,7609,"Kansas City, MO (MCI)",Scheduled,11:24 AM,,C13
+American Airlines,4608,"Memphis, TN (MEM)",Scheduled,11:25 AM,11:25 AM,Term C - C35
+American Airlines,3677,"Detroit, MI (DTW)",Scheduled,11:29 AM,,Term B - C2
+Delta Air Lines,1131,"Fort Lauderdale, FL (FLL)",Scheduled,11:29 AM,,Term C - C20
+WestJet Airlines,7606,"Fort Lauderdale, FL (FLL)",Scheduled,11:29 AM,,Term C - C20
+Alaska Airlines,6462,"Chicago, IL (ORD)",Scheduled,11:30 AM,,Term B - D7
+American Airlines,337,"Chicago, IL (ORD)",Scheduled,11:30 AM,,Term B - D7
+British Airways,6605,"Chicago, IL (ORD)",Scheduled,11:30 AM,,Term B - D7
+Delta Air Lines,1635,"Orlando, FL (MCO)",Scheduled,11:30 AM,,Term C - C21
+Delta Air Lines,3646,"Pittsburgh, PA (PIT)",Scheduled,11:30 AM,,Term D - D09
+WestJet Airlines,6676,"Orlando, FL (MCO)",Scheduled,11:30 AM,,Term C - C21
+WestJet Airlines,6734,"Pittsburgh, PA (PIT)",Scheduled,11:30 AM,,Term D - D09
+American Airlines,622,"Charlotte, NC (CLT)",Scheduled,11:32 AM,,Term C - C38
+Delta Air Lines,2149,"Minneapolis, MN (MSP)",Scheduled,11:35 AM,,Term C - C16
+Delta Air Lines,5489,"Syracuse, NY (SYR)",Scheduled,11:35 AM,,Term C - C12
+KLM Royal Dutch Airlines,7815,"Minneapolis, MN (MSP)",Scheduled,11:35 AM,,Term C - C16
+Delta Air Lines,1875,"Tampa, FL (TPA)",Scheduled,11:40 AM,,Term C - C17
+Delta Air Lines,5354,"Cleveland, OH (CLE)",Scheduled,11:40 AM,,Term D - C12
+Southwest Airlines,107,"Nashville, TN (BNA)",Scheduled,11:40 AM,,Term B - B4
+WestJet Airlines,7590,"Tampa, FL (TPA)",Scheduled,11:40 AM,,Term C - C17
+American Airlines,3742,"Charlottesville, VA (CHO)",Scheduled,11:45 AM,,Term B - C3
+Delta Air Lines,5871,"Indianapolis, IN (IND)",Scheduled,11:45 AM,,Term D - D10
+WestJet Airlines,6650,"Indianapolis, IN (IND)",Scheduled,11:45 AM,,Term D - D10
+American Airlines,4682,"Atlanta, GA (ATL)",Scheduled,11:50 AM,11:50 AM,Term B - D2
+Delta Air Lines,3399,"Fort Myers, FL (RSW)",Scheduled,11:55 AM,,Term C - C29
+Delta Air Lines,3666,"Savannah, GA (SAV)",Scheduled,11:55 AM,,Term C - C26
+Delta Air Lines,4015,"Rochester, NY (ROC)",Scheduled,11:55 AM,,Term C - C15
+WestJet Airlines,6782,"Fort Myers, FL (RSW)",Scheduled,11:55 AM,,Term C - C29
+WestJet Airlines,6790,"Savannah, GA (SAV)",Scheduled,11:55 AM,,Term C - C26
+AeroMexico,4408,"Atlanta, GA (ATL)",Scheduled,11:59 AM,,Term D - D11
+Alaska Airlines,4164,"Nashville, TN (BNA)",Scheduled,11:59 AM,11:59 AM,Term B - C1
+American Airlines,4774,"Nashville, TN (BNA)",Scheduled,11:59 AM,11:59 AM,Term B - C1
+Delta Air Lines,502,"Atlanta, GA (ATL)",Scheduled,11:59 AM,,Term D - D11
+Delta Air Lines,6143,"Washington, DC (DCA)",Scheduled,11:59 AM,,Term A - SH4
+WestJet Airlines,6492,"Atlanta, GA (ATL)",Scheduled,11:59 AM,,Term D - D11
+Alaska Airlines,3323,"Dallas, TX (DAL)",Scheduled,12:00 PM,12:00 PM,Term B
+American Airlines,4178,"Norfolk, VA (ORF)",Scheduled,12:00 PM,12:00 PM,Term C - C43
+American Airlines,4550,"Richmond, VA (RIC)",Scheduled,12:00 PM,12:00 PM,Term B - D6
+American Airlines,4754,"Washington, DC (DCA)",Scheduled,12:00 PM,12:00 PM,Term C - C41
+American Airlines,4763,"Boston, MA (BOS)",Scheduled,12:00 PM,12:00 PM,Term C - C39
+Delta Air Lines,6054,"Boston, MA (BOS)",Scheduled,12:00 PM,,Term C - C32
+Delta Air Lines,7141,Toronto (YYZ),Scheduled,12:00 PM,12:00 PM,Term D - D7
+Southwest Airlines,1739,"Chicago, IL (MDW)",Scheduled,12:00 PM,,Term B
+United Airlines,405,"Denver, CO (DEN)",Scheduled,12:00 PM,12:00 PM,Term B - C10
+WestJet Airlines,1207,Toronto (YYZ),Scheduled,12:00 PM,12:00 PM,Term D - D7
+Delta Air Lines,2436,"West Palm Beach, FL (PBI)",Scheduled,12:05 PM,,Term D - D06
+WestJet Airlines,6730,"West Palm Beach, FL (PBI)",Scheduled,12:05 PM,,Term D - D06
+Delta Air Lines,4199,"Nashville, TN (BNA)",Scheduled,12:10 PM,,Term D - D02
+Delta Air Lines,6094,"Dallas-Fort Worth, TX (DFW)",Scheduled,12:10 PM,,Term C - C31
+WestJet Airlines,7560,"Nashville, TN (BNA)",Scheduled,12:10 PM,,Term D - D02
+American Airlines,4426,"Raleigh/Durham, NC (RDU)",Scheduled,12:12 PM,12:12 PM,Term C - C37
+Southwest Airlines,1648,"Kansas City, MO (MCI)",Scheduled,12:15 PM,,Term B - B7
+American Airlines,3449,"Greensboro, NC (GSO)",Scheduled,12:16 PM,,Term B - C8
+Delta Air Lines,5935,"Milwaukee, WI (MKE)",Scheduled,12:20 PM,,Term D - D08
+WestJet Airlines,6696,"Milwaukee, WI (MKE)",Scheduled,12:20 PM,,Term D - D08
+Delta Air Lines,5469,"St Louis, MO (STL)",Scheduled,12:21 PM,12:33 PM,C12
+WestJet Airlines,7588,"St Louis, MO (STL)",Scheduled,12:21 PM,12:33 PM,C12
+Air Canada,711,Toronto (YYZ),Delayed,12:25 PM,1:15 PM,Term B - A7
+Alaska Airlines,4777,"Chicago, IL (ORD)",Scheduled,12:30 PM,,Term B - D3
+American Airlines,390,"Chicago, IL (ORD)",Scheduled,12:30 PM,,Term B - D3
+American Airlines,1311,"Miami, FL (MIA)",Scheduled,12:30 PM,,Term B - D10
+American Airlines,3788,"Louisville, KY (SDF)",Scheduled,12:30 PM,,Term B - D4
+British Airways,6587,"Chicago, IL (ORD)",Scheduled,12:30 PM,,Term B - D3
+British Airways,7745,"Miami, FL (MIA)",Scheduled,12:30 PM,,Term B - D10
+Delta Air Lines,3976,"Raleigh/Durham, NC (RDU)",Scheduled,12:30 PM,,Term C - C23
+Delta Air Lines,6121,"Houston, TX (IAH)",Scheduled,12:30 PM,,Term C - C30
+Spirit Airlines,921,"Myrtle Beach, SC (MYR)",Scheduled,12:30 PM,12:30 PM,Term B - B6
+United Airlines,1102,"Chicago, IL (ORD)",Scheduled,12:30 PM,12:30 PM,Term B - C11
+WestJet Airlines,6758,"Raleigh/Durham, NC (RDU)",Scheduled,12:30 PM,,Term C - C23
+WestJet Airlines,7574,"Houston, TX (IAH)",Scheduled,12:30 PM,,Term C - C30
+AeroMexico,4685,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+Air Canada,7637,Montreal (YUL),Scheduled,12:45 PM,,Term B - A1
+China Southern Airlines,1086,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+Delta Air Lines,583,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+KLM Royal Dutch Airlines,7061,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+United Airlines,8624,Montreal (YUL),Scheduled,12:45 PM,,Term B - A1
+Virgin Atlantic,2448,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+Virgin Australia,6683,"Detroit, MI (DTW)",Scheduled,12:45 PM,,Term C - C21
+American Airlines,1141,"Dallas-Fort Worth, TX (DFW)",Scheduled,12:55 PM,,Term B - D1
+Delta Air Lines,1923,"Miami, FL (MIA)",Scheduled,12:55 PM,,Term C - C34
+Delta Air Lines,3292,"Buffalo, NY (BUF)",Scheduled,12:55 PM,,Term C - C24
+Delta Air Lines,3827,"Manchester, NH (MHT)",Scheduled,12:55 PM,,C12
+WestJet Airlines,6692,"Miami, FL (MIA)",Scheduled,12:55 PM,,Term C - C34
+WestJet Airlines,6682,"Manchester, NH (MHT)",Scheduled,12:55 PM,,C12
+AeroMexico,4409,"Atlanta, GA (ATL)",Scheduled,1:00 PM,,Term D - D05
+American Airlines,2131,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term C - C41
+American Airlines,4453,"Washington, DC (DCA)",Scheduled,1:00 PM,1:00 PM,Term C - C41
+Delta Air Lines,705,"Atlanta, GA (ATL)",Scheduled,1:00 PM,,Term D - D05
+Delta Air Lines,5613,"Charlotte, NC (CLT)",Scheduled,1:00 PM,,Term D - D10
+Delta Air Lines,6072,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term C - C32
+Virgin Atlantic,2220,"Atlanta, GA (ATL)",Scheduled,1:00 PM,,Term D - D05
+WestJet Airlines,6506,"Atlanta, GA (ATL)",Scheduled,1:00 PM,,Term D - D05
+WestJet Airlines,6592,"Charlotte, NC (CLT)",Scheduled,1:00 PM,,Term D - D10
+WestJet Airlines,6542,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term C - C32
+American Airlines,678,"Charlotte, NC (CLT)",Scheduled,1:05 PM,,Term C - C38
+American Airlines,3681,"Pittsburgh, PA (PIT)",Scheduled,1:05 PM,,Term B - C3
+United Airlines,345,"Chicago, IL (ORD)",Scheduled,1:05 PM,1:05 PM,Term B - C9
+American Airlines,5191,"Dayton, OH (DAY)",Scheduled,1:06 PM,1:06 PM,Term C - C44
+Delta Air Lines,3303,"Norfolk, VA (ORF)",Scheduled,1:10 PM,,C13
+United Airlines,4302,"Cleveland, OH (CLE)",Scheduled,1:10 PM,1:10 PM,Term B - C7
+WestJet Airlines,6712,"Norfolk, VA (ORF)",Scheduled,1:10 PM,,C13
+Delta Air Lines,5973,"Chicago, IL (ORD)",Scheduled,1:15 PM,,Term A - SH2
+American Airlines,3310,Toronto (YYZ),Scheduled,1:17 PM,,Term B - C8
+British Airways,4402,Toronto (YYZ),Scheduled,1:17 PM,,Term B - C8
+American Airlines,4484,"St Louis, MO (STL)",Scheduled,1:24 PM,1:24 PM,Term B - C1
+JetBlue Airways,1161,"West Palm Beach, FL (PBI)",Scheduled,1:25 PM,1:25 PM,Term B
+American Airlines,2550,"Miami, FL (MIA)",Scheduled,1:29 PM,,Term B - D8
+American Airlines,3343,"Wilmington, NC (ILM)",Scheduled,1:29 PM,,Term B - C2
+British Airways,7712,"Miami, FL (MIA)",Scheduled,1:29 PM,,Term B - D8
+Delta Air Lines,3641,"Columbus, OH (CMH)",Scheduled,1:29 PM,,Term C - C18
+Spirit Airlines,917,"Dallas-Fort Worth, TX (DFW)",Scheduled,1:29 PM,1:29 PM,Term B - B6
+WestJet Airlines,7566,"Columbus, OH (CMH)",Scheduled,1:29 PM,,Term C - C18
+Alaska Airlines,8384,"Chicago, IL (ORD)",Scheduled,1:30 PM,,Term B - D7
+American Airlines,332,"Chicago, IL (ORD)",Scheduled,1:30 PM,,Term B - D7
+British Airways,6855,"Chicago, IL (ORD)",Scheduled,1:30 PM,,Term B - D7
+Delta Air Lines,5353,"Pittsburgh, PA (PIT)",Scheduled,1:30 PM,,Term D - D09
+WestJet Airlines,6742,"Pittsburgh, PA (PIT)",Scheduled,1:30 PM,,Term D - D09
+Delta Air Lines,3645,"Indianapolis, IN (IND)",Scheduled,1:39 PM,,Term D - D02
+WestJet Airlines,7576,"Indianapolis, IN (IND)",Scheduled,1:39 PM,,Term D - D02
+Delta Air Lines,963,"New Orleans, LA (MSY)",Scheduled,1:45 PM,,Term C - C17
+WestJet Airlines,6706,"New Orleans, LA (MSY)",Scheduled,1:45 PM,,Term C - C17
+Air France,2091,"Cincinnati, OH (CVG)",Scheduled,1:55 PM,,Term D - D06
+American Airlines,1678,"Atlanta, GA (ATL)",Scheduled,1:55 PM,,Term C - C35
+Delta Air Lines,3846,"Cincinnati, OH (CVG)",Scheduled,1:55 PM,,Term D - D06
+El Al Israel Airlines,8583,"Boston, MA (BOS)",Scheduled,1:55 PM,1:55 PM,Term B
+JetBlue Airways,832,"Boston, MA (BOS)",Scheduled,1:55 PM,1:55 PM,Term B
+Southwest Airlines,5541,"Atlanta, GA (ATL)",Scheduled,1:55 PM,,Term B - B4
+WestJet Airlines,7568,"Cincinnati, OH (CVG)",Scheduled,1:55 PM,,Term D - D06
+Delta Air Lines,5543,"Fayetteville/Springdale/, AR (XNA)",Scheduled,1:57 PM,,Term C - C30
+American Airlines,3774,"Columbus, OH (CMH)",Scheduled,1:58 PM,,Term B - D4
+American Airlines,4432,"Minneapolis, MN (MSP)",Scheduled,1:58 PM,1:58 PM,Term C - C37
+Delta Air Lines,870,"Orlando, FL (MCO)",Scheduled,1:58 PM,,Term C - C23
+WestJet Airlines,6670,"Orlando, FL (MCO)",Scheduled,1:58 PM,,Term C - C23
+AeroMexico,5925,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+Air France,5923,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+Air France,2517,"Boston, MA (BOS)",Scheduled,1:59 PM,,Term C - C31
+Air New Zealand,6680,"Houston, TX (IAH)",Scheduled,1:59 PM,1:59 PM,Term B - C12
+Delta Air Lines,1877,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+Delta Air Lines,2669,"Boston, MA (BOS)",Scheduled,1:59 PM,,Term C - C31
+Delta Air Lines,5268,"Nashville, TN (BNA)",Scheduled,1:59 PM,,Term D - D01
+Delta Air Lines,6147,"Washington, DC (DCA)",Scheduled,1:59 PM,,Term A - SH6
+KLM Royal Dutch Airlines,6887,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+KLM Royal Dutch Airlines,5771,"Boston, MA (BOS)",Scheduled,1:59 PM,,Term C - C31
+United Airlines,1188,"Houston, TX (IAH)",Scheduled,1:59 PM,1:59 PM,Term B - C12
+Virgin Atlantic,2221,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+WestJet Airlines,6512,"Atlanta, GA (ATL)",Scheduled,1:59 PM,,Term D - D04
+WestJet Airlines,6540,"Boston, MA (BOS)",Scheduled,1:59 PM,,Term C - C31
+WestJet Airlines,6524,"Nashville, TN (BNA)",Scheduled,1:59 PM,,Term D - D01
+All Nippon Airways,7573,"Chicago, IL (ORD)",Scheduled,2:00 PM,2:00 PM,Term B - C10
+American Airlines,2146,"Boston, MA (BOS)",Scheduled,2:00 PM,,Term C - C41
+United Airlines,5344,"Chicago, IL (ORD)",Scheduled,2:00 PM,2:00 PM,Term B - C10
+American Airlines,3275,"Detroit, MI (DTW)",Scheduled,2:15 PM,,Term B - C3
+Delta Air Lines,5975,"Chicago, IL (ORD)",Scheduled,2:15 PM,,Term A - SH3
+Delta Air Lines,3659,"Jacksonville, FL (JAX)",Scheduled,2:20 PM,,Term C - C28
+Southwest Airlines,6017,"St Louis, MO (STL)",Scheduled,2:20 PM,,Term B - B5
+WestJet Airlines,6656,"Jacksonville, FL (JAX)",Scheduled,2:20 PM,,Term C - C28
+Delta Air Lines,3842,"Bangor, ME (BGR)",Scheduled,2:25 PM,,C13
+Delta Air Lines,3660,Montreal (YUL),Scheduled,2:27 PM,,Term C - C13
+WestJet Airlines,6439,Montreal (YUL),Scheduled,2:27 PM,,Term C - C13
+Air France,8829,"Detroit, MI (DTW)",Scheduled,2:29 PM,,Term C - C34
+American Airlines,1637,"Charlotte, NC (CLT)",Scheduled,2:29 PM,,Term C - C38
+American Airlines,4388,"Fayetteville/Springdale/, AR (XNA)",Scheduled,2:29 PM,2:29 PM,Term B - D2
+American Airlines,1112,"Dallas-Fort Worth, TX (DFW)",Scheduled,2:29 PM,,Term B - D10
+Delta Air Lines,2835,"Detroit, MI (DTW)",Scheduled,2:29 PM,,Term C - C34
+Delta Air Lines,5374,"Raleigh/Durham, NC (RDU)",Scheduled,2:29 PM,,Term C - C12
+KLM Royal Dutch Airlines,6493,"Detroit, MI (DTW)",Scheduled,2:29 PM,,Term C - C34
+Malaysia Airlines,9514,"Charlotte, NC (CLT)",Scheduled,2:29 PM,,Term C - C38
+Qantas Airways,4849,"Dallas-Fort Worth, TX (DFW)",Scheduled,2:29 PM,,Term B - D10
+Virgin Atlantic,2741,"Detroit, MI (DTW)",Scheduled,2:29 PM,,Term C - C34
+Virgin Australia,6556,"Detroit, MI (DTW)",Scheduled,2:29 PM,,Term C - C34
+WestJet Airlines,6756,"Raleigh/Durham, NC (RDU)",Scheduled,2:29 PM,,Term C - C12
+Air Canada,715,Toronto (YYZ),Scheduled,2:30 PM,,Term B - A7
+Alaska Airlines,6446,"Chicago, IL (ORD)",Scheduled,2:30 PM,,Term B - D3
+American Airlines,187,"Chicago, IL (ORD)",Scheduled,2:30 PM,,Term B - D3
+British Airways,6581,"Chicago, IL (ORD)",Scheduled,2:30 PM,,Term B - D3
+United Airlines,745,"Denver, CO (DEN)",Scheduled,2:30 PM,2:30 PM,Term B - C14

@@ -1,0 +1,983 @@
+Airline,Flight,To,Status,Scheduled,Updated,Term-Gate
+Aer Lingus,5016,"Boston, MA (BOS)",Arrived,11:38 PM,11:59 PM,Term 5 - 01
+Aer Lingus,5028,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Aer Lingus,5066,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Aer Lingus,5340,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+Aeroflot Airlines,123,Moscow (SVO),Scheduled,1:00 AM,1:00 AM,Term 1
+AeroMexico,401,Mexico City (MEX),Scheduled,2:01 AM,2:01 AM,Term 4
+AeroMexico,405,Mexico City (MEX),Scheduled,7:01 AM,7:01 AM,Term 4
+AeroMexico,5271,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+AeroMexico,5424,"Baltimore, MD (BWI)",Delayed,9:30 PM,7:00 AM,Term 4 - B48
+AeroMexico,5498,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term 4 - B47
+AeroMexico,5514,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+AeroMexico,7862,Tel Aviv (TLV),In Air,11:50 PM,11:40 PM,Term 4
+Air Europa,3306,"Detroit, MI (DTW)",Delayed,7:00 PM,6:00 AM,Term 4 - B43
+Air Europa,3406,Malaga (AGP),In Air,11:25 PM,11:18 PM,Term 4 - B24
+Air France,9,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+Air France,11,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+Air France,2169,"Detroit, MI (DTW)",Delayed,7:00 PM,6:00 AM,Term 4 - B43
+Air France,3645,Malaga (AGP),In Air,11:25 PM,11:18 PM,Term 4 - B24
+Air France,3657,Dublin (DUB),In Air,10:11 PM,12:35 AM,Term 4 - B25
+Air France,9488,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+Alaska Airlines,1399,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+Alitalia,3122,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+Alitalia,3719,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+Alitalia,3720,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+All Nippon Airways,7817,Bogota (BOG),Departed,1:10 AM,1:14 AM,Term 4
+All Nippon Airways,7833,San Salvador (SAL),Scheduled,4:40 AM,,Term 4
+American Airlines,9,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 8 - 40
+American Airlines,33,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 8 - 4
+American Airlines,171,"Los Angeles, CA (LAX)",Scheduled,6:00 AM,,Term 8 - 38
+American Airlines,1572,"Phoenix, AZ (PHX)",Scheduled,6:23 AM,,Term 8 - 1
+American Airlines,2175,Port Au Prince (PAP),Scheduled,7:10 AM,,Term 8 - 12
+American Airlines,2218,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term 8 - 44
+American Airlines,2230,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+American Airlines,7643,Guayaquil (GYE),In Air,12:45 AM,12:34 AM,Term 8
+American Airlines,7739,Lima (LIM),In Air,11:25 PM,11:15 PM,Term 8
+American Airlines,8646,Madrid (MAD),In Air,9:00 PM,11:16 PM,Term 7
+American Airlines,8927,Hong Kong (HKG),Departed,1:35 AM,1:19 AM,Term 8
+Asiana Airlines,587,Brussels (BRU),Scheduled,3:15 AM,3:15 AM,
+Asiana Airlines,588,Brussels (BRU),Scheduled,3:15 AM,3:15 AM,
+Asiana Airlines,9456,Panama City (PTY),Scheduled,1:55 AM,,Term 4 - B31
+Avianca,245,Bogota (BOG),Departed,1:10 AM,1:14 AM,Term 4
+Avianca,671,San Salvador (SAL),Scheduled,4:40 AM,,Term 4
+Avianca,4506,Taipei (TPE),Scheduled,1:25 AM,1:25 AM,Term 1
+Avianca,5043,Medellin (MDE),Scheduled,2:30 AM,2:30 AM,
+British Airways,2466,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 8 - 40
+British Airways,4268,Madrid (MAD),In Air,9:00 PM,11:16 PM,Term 7
+British Airways,4310,"Los Angeles, CA (LAX)",Scheduled,6:00 AM,,Term 8 - 38
+British Airways,4352,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+Caribbean Airlines Limited,10,Montego Bay (MBJ),Scheduled,7:15 AM,7:15 AM,Term 4
+Caribbean Airlines Limited,16,Kingston (KIN),Scheduled,2:10 AM,2:10 AM,Term 4
+Caribbean Airlines Limited,527,Georgetown (GEO),Scheduled,1:25 AM,1:25 AM,Term 4
+Caribbean Airlines Limited,551,Port Of Spain (POS),In Air,12:50 AM,12:50 AM,Term 4
+Cathay Pacific,845,Hong Kong (HKG),Departed,1:35 AM,1:19 AM,Term 8
+Cathay Pacific,7515,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+Cathay Pacific,7821,Lima (LIM),In Air,11:25 PM,11:15 PM,Term 8
+China Airlines,11,Taipei (TPE),Scheduled,1:35 AM,1:35 AM,Term 4
+China Eastern Airlines,298,Shanghai (PVG),Scheduled,1:45 AM,1:45 AM,Term 1
+China Eastern Airlines,3885,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+China Eastern Airlines,4358,"Salt Lake City, UT (SLC)",Scheduled,7:05 AM,,Term 4 - B23
+China Southern Airlines,600,Guangzhou (CAN),Scheduled,1:45 AM,1:45 AM,Term 4
+China Southern Airlines,1017,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term 4 - B47
+China Southern Airlines,1927,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+Copa Airlines,807,Panama City (PTY),Scheduled,1:55 AM,,Term 4 - B31
+Delta Air Lines,44,Dublin (DUB),In Air,10:11 PM,12:35 AM,Term 4 - B25
+Delta Air Lines,424,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 4 - B32
+Delta Air Lines,426,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 4 - B36
+Delta Air Lines,443,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+Delta Air Lines,468,Tel Aviv (TLV),In Air,10:35 PM,11:03 PM,Term 4 - B41
+Delta Air Lines,470,Malaga (AGP),In Air,11:25 PM,11:18 PM,Term 4 - B24
+Delta Air Lines,498,"Salt Lake City, UT (SLC)",Scheduled,7:05 AM,,Term 4 - B23
+Delta Air Lines,1001,Seoul (ICN),Departed,12:50 AM,12:53 AM,Term 1
+Delta Air Lines,1009,Shanghai (PVG),Scheduled,1:45 AM,1:45 AM,Term 1
+Delta Air Lines,1014,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+Delta Air Lines,1017,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+Delta Air Lines,1026,Mexico City (MEX),Scheduled,7:01 AM,7:01 AM,Term 4
+Delta Air Lines,1033,Mexico City (MEX),Scheduled,2:01 AM,2:01 AM,Term 4
+Delta Air Lines,4004,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+Delta Air Lines,4021,"Detroit, MI (DTW)",Delayed,7:00 PM,6:00 AM,Term 4 - B43
+Delta Air Lines,4046,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term 4 - B47
+Delta Air Lines,4105,"Baltimore, MD (BWI)",Delayed,9:30 PM,7:00 AM,Term 4 - B48
+Delta Air Lines,6783,Guangzhou (CAN),Scheduled,1:45 AM,1:45 AM,Term 4
+Dynamic International Airways,401,Georgetown (GEO),Scheduled,2:00 AM,2:00 AM,Term 1
+El Al Israel Airlines,8,Tel Aviv (TLV),In Air,11:50 PM,11:40 PM,Term 4
+El Al Israel Airlines,8211,Mexico City (MEX),Scheduled,2:01 AM,2:01 AM,Term 4
+El Al Israel Airlines,8607,"Boston, MA (BOS)",Arrived,11:38 PM,11:59 PM,Term 5 - 01
+El Al Israel Airlines,8668,"Los Angeles, CA (LAX)",In Air,11:15 PM,11:14 PM,Term 5 - 21
+El Al Israel Airlines,8700,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+El Al Israel Airlines,8706,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+El Al Israel Airlines,8739,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+Emirates,202,Dubai (DXB),In Air,11:00 PM,11:12 PM,Term 4
+Emirates,6717,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Emirates,6759,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+Emirates,6807,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Emirates,6819,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+Emirates,6855,Santo Domingo (SDQ),In Air,11:59 PM,11:57 PM,Term 5 - 17
+Emirates,6881,"Savannah, GA (SAV)",Scheduled,6:59 AM,6:59 AM,Term 5 - 06
+Emirates,9252,Amsterdam (AMS),Scheduled,4:10 AM,4:10 AM,
+Etihad Airways,8249,"Boston, MA (BOS)",Arrived,11:38 PM,11:59 PM,Term 5 - 01
+Etihad Airways,8262,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Etihad Airways,8284,Aguadilla (BQN),In Air,11:59 PM,11:50 PM,Term 5 - 18
+Etihad Airways,8311,Ponce (PSE),In Air,11:45 PM,11:40 PM,Term 5 - 29
+Etihad Airways,8315,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+Etihad Airways,8316,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Etihad Airways,8318,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+EVA Airways,31,Taipei (TPE),Scheduled,1:25 AM,1:25 AM,Term 1
+Finnair,5656,Madrid (MAD),In Air,9:00 PM,11:16 PM,Term 7
+Finnair,5722,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term 8 - 44
+Finnair,5728,"Phoenix, AZ (PHX)",Scheduled,6:23 AM,,Term 8 - 1
+Hainan Airlines,8901,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 8 - 4
+Hawaiian Airlines,2301,"Los Angeles, CA (LAX)",Scheduled,5:50 AM,5:50 AM,Term 5 - 11
+Hawaiian Airlines,2305,"Los Angeles, CA (LAX)",In Air,11:15 PM,11:14 PM,Term 5 - 21
+Hawaiian Airlines,2519,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+Iberia Airlines,6252,Madrid (MAD),In Air,9:00 PM,11:16 PM,Term 7
+Iberia Airlines,9026,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term 8 - 44
+Iberia Airlines,9038,"Phoenix, AZ (PHX)",Scheduled,6:23 AM,,Term 8 - 1
+Interjet,961,Cancun (CUN),Scheduled,6:55 AM,6:55 AM,Term 7
+Interjet,2993,Mexico City (MEX),In Air,12:50 AM,12:50 AM,Term 7
+Interjet,2995,Mexico City (MEX),Scheduled,7:10 AM,7:10 AM,Term 7
+Japan Airlines,5840,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+Japan Airlines,5920,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Japan Airlines,5934,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Japan Airlines,7575,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 8 - 40
+Jet Airways,4799,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+Jet Airways,4902,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+JetBlue Airways,15,"San Francisco, CA (SFO)",Scheduled,7:00 AM,7:00 AM,Term 5 - 09
+JetBlue Airways,23,"Los Angeles, CA (LAX)",Scheduled,5:50 AM,5:50 AM,Term 5 - 11
+JetBlue Airways,108,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+JetBlue Airways,209,Santo Domingo (SDQ),Scheduled,7:00 AM,7:00 AM,Term 5 - 18
+JetBlue Airways,318,"Boston, MA (BOS)",Scheduled,7:15 AM,7:15 AM,Term 5 - 07
+JetBlue Airways,337,Santiago (STI),Scheduled,5:00 AM,5:00 AM,Term 5 - 19
+JetBlue Airways,437,Santiago (STI),In Air,11:32 PM,11:19 PM,Term 5 - 15
+JetBlue Airways,486,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+JetBlue Airways,501,"Fort Lauderdale, FL (FLL)",Scheduled,5:59 AM,5:59 AM,Term 5 - 04
+JetBlue Airways,559,Kingston (KIN),Scheduled,6:05 AM,6:05 AM,Term 5 - 27
+JetBlue Airways,583,"Orlando, FL (MCO)",Scheduled,6:12 AM,6:12 AM,Term 5 - 29
+JetBlue Airways,609,Santo Domingo (SDQ),In Air,11:59 PM,11:57 PM,Term 5 - 17
+JetBlue Airways,621,Nassau (NAS),Scheduled,6:00 AM,6:00 AM,Term 5 - 02
+JetBlue Airways,675,"New Orleans, LA (MSY)",Scheduled,6:15 AM,6:15 AM,Term 5 - 23
+JetBlue Airways,718,"Boston, MA (BOS)",Arrived,11:38 PM,11:59 PM,Term 5 - 01
+JetBlue Airways,745,Ponce (PSE),In Air,11:45 PM,11:40 PM,Term 5 - 29
+JetBlue Airways,779,Montego Bay (MBJ),Scheduled,7:10 AM,7:10 AM,Term 5 - 05
+JetBlue Airways,837,Santiago (STI),Scheduled,5:53 AM,5:53 AM,Term 5 - 22
+JetBlue Airways,839,Aguadilla (BQN),In Air,11:59 PM,11:50 PM,Term 5 - 18
+JetBlue Airways,841,"Savannah, GA (SAV)",Scheduled,6:59 AM,6:59 AM,Term 5 - 06
+JetBlue Airways,905,"Chicago, IL (ORD)",Scheduled,6:29 AM,6:29 AM,Term 5 - 21
+JetBlue Airways,939,Aguadilla (BQN),Scheduled,5:35 AM,5:35 AM,Term 5 - 05
+JetBlue Airways,1051,Cancun (CUN),Scheduled,6:59 AM,6:59 AM,Term 5 - 16
+JetBlue Airways,1227,Puerto Plata (POP),In Air,10:06 PM,11:51 PM,Term 5 - 14
+JetBlue Airways,1403,San Juan (SJU),Scheduled,5:15 AM,5:15 AM,Term 5 - 24
+JetBlue Airways,1503,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+JetBlue Airways,1835,Port Au Prince (PAP),Scheduled,6:00 AM,6:00 AM,Term 5 - 07
+JetBlue Airways,2002,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+JetBlue Airways,2023,"Los Angeles, CA (LAX)",In Air,11:15 PM,11:14 PM,Term 5 - 21
+JetBlue Airways,2802,"Buffalo, NY (BUF)",Scheduled,6:10 AM,6:10 AM,Term 5 - 10
+JetBlue Airways,5006,Dubai (DXB),In Air,11:00 PM,11:12 PM,Term 4
+Kalitta Air,9977,"Cincinnati, OH (CVG)",In Air,12:00 AM,12:43 AM,
+KLM Royal Dutch Airlines,2377,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+KLM Royal Dutch Airlines,2378,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+KLM Royal Dutch Airlines,5105,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+KLM Royal Dutch Airlines,5418,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 4 - B36
+KLM Royal Dutch Airlines,5851,"Detroit, MI (DTW)",Delayed,7:00 PM,6:00 AM,Term 4 - B43
+KLM Royal Dutch Airlines,5906,"Salt Lake City, UT (SLC)",Scheduled,7:05 AM,,Term 4 - B23
+KLM Royal Dutch Airlines,6004,Malaga (AGP),In Air,11:25 PM,11:18 PM,Term 4 - B24
+KLM Royal Dutch Airlines,6192,Dublin (DUB),In Air,10:11 PM,12:35 AM,Term 4 - B25
+KLM Royal Dutch Airlines,7124,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+KLM Royal Dutch Airlines,7234,"Baltimore, MD (BWI)",Delayed,9:30 PM,7:00 AM,Term 4 - B48
+Korean Air,86,Seoul (ICN),Departed,12:50 AM,12:53 AM,Term 1
+Korean Air,7249,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 4 - B36
+Korean Air,7481,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+Korean Air,7505,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 4 - B32
+Korean Air,8250,Seoul (ICN),Scheduled,2:30 AM,,
+LAN Airlines,531,Lima (LIM),In Air,11:25 PM,11:15 PM,Term 8
+LAN Airlines,6620,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+LAN Ecuador,1439,Guayaquil (GYE),In Air,12:45 AM,12:34 AM,Term 8
+Malaysia Airlines,9331,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+Norwegian Air Shuttle,7016,London (LGW),In Air,11:00 PM,12:38 AM,Term 1
+Norwegian Air Shuttle,7020,Paris (CDG),In Air,10:25 PM,11:33 PM,Term 1
+Philippine Airlines,127,Vancouver (YVR),In Air,12:15 AM,12:30 AM,Term 1
+Qantas Airways,3096,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 8 - 4
+Qantas Airways,3126,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 8 - 40
+Qantas Airways,3212,"Los Angeles, CA (LAX)",Scheduled,6:00 AM,,Term 8 - 38
+Qatar Airways,4059,Aguadilla (BQN),In Air,11:59 PM,11:50 PM,Term 5 - 18
+Qatar Airways,4067,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Qatar Airways,4105,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+Qatar Airways,4119,Ponce (PSE),In Air,11:45 PM,11:40 PM,Term 5 - 29
+Qatar Airways,4129,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Qatar Airways,4155,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+Royal Air Maroc,203,Casablanca (CMN),Scheduled,6:55 AM,6:55 AM,Term 1
+Royal Air Maroc,9506,"Orlando, FL (MCO)",Scheduled,6:12 AM,6:12 AM,Term 5 - 29
+Royal Air Maroc,9512,"Boston, MA (BOS)",Arrived,11:38 PM,11:59 PM,Term 5 - 01
+Royal Air Maroc,9514,"Boston, MA (BOS)",Scheduled,7:15 AM,7:15 AM,Term 5 - 07
+Royal Air Maroc,9534,"Los Angeles, CA (LAX)",Scheduled,5:50 AM,5:50 AM,Term 5 - 11
+Royal Air Maroc,9540,"Los Angeles, CA (LAX)",In Air,11:15 PM,11:14 PM,Term 5 - 21
+Royal Air Maroc,9544,"Chicago, IL (ORD)",Scheduled,6:29 AM,6:29 AM,Term 5 - 21
+Royal Air Maroc,9560,"San Francisco, CA (SFO)",Scheduled,7:00 AM,7:00 AM,Term 5 - 09
+Royal Air Maroc,9574,"Fort Lauderdale, FL (FLL)",Scheduled,5:59 AM,5:59 AM,Term 5 - 04
+Royal Air Maroc,9604,"New Orleans, LA (MSY)",Scheduled,6:15 AM,6:15 AM,Term 5 - 23
+Royal Air Maroc,9616,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Royal Air Maroc,9628,"Buffalo, NY (BUF)",Scheduled,6:10 AM,6:10 AM,Term 5 - 10
+Royal Air Maroc,9636,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Singapore Airlines,1416,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+Singapore Airlines,5831,Taipei (TPE),Scheduled,1:25 AM,1:25 AM,Term 1
+SkyLink Express,9743,Hamilton (YHM),Scheduled,3:15 AM,3:15 AM,
+Sun Country Airlines,240,"Minneapolis, MN (MSP)",Scheduled,7:00 AM,7:00 AM,Term 4
+TAM Brazilian Airlines,2305,"Miami, FL (MIA)",Scheduled,6:30 AM,,Term 8 - 36
+TAM Brazilian Airlines,6607,Lima (LIM),In Air,11:25 PM,11:15 PM,Term 8
+TAP Portugal,208,Lisbon (LIS),In Air,11:25 PM,11:19 PM,Term 5
+TAP Portugal,8004,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+TAP Portugal,8017,"Fort Lauderdale, FL (FLL)",Scheduled,5:59 AM,5:59 AM,Term 5 - 04
+TAP Portugal,8029,"Orlando, FL (MCO)",Scheduled,6:12 AM,6:12 AM,Term 5 - 29
+TAP Portugal,8035,"Chicago, IL (ORD)",Scheduled,6:29 AM,6:29 AM,Term 5 - 21
+TAP Portugal,8036,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+TAP Portugal,8044,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+TAP Portugal,8051,"San Francisco, CA (SFO)",Scheduled,7:00 AM,7:00 AM,Term 5 - 09
+TAP Portugal,8089,"New Orleans, LA (MSY)",Scheduled,6:15 AM,6:15 AM,Term 5 - 23
+TAP Portugal,8095,"Savannah, GA (SAV)",Scheduled,6:59 AM,6:59 AM,Term 5 - 06
+TAP Portugal,8097,San Juan (SJU),Scheduled,5:15 AM,5:15 AM,Term 5 - 24
+TAROM Romanian Air,9528,Paris (CDG),In Air,11:25 PM,11:44 PM,Term 1
+TAROM Romanian Air,9530,Paris (CDG),In Air,9:50 PM,11:32 PM,Term 1
+Thai Airways,6343,Taipei (TPE),Scheduled,1:25 AM,1:25 AM,Term 1
+Turkish Airlines,12,Istanbul (IST),In Air,11:55 PM,1:03 AM,Term 1
+Turkish Airlines,8937,"Buffalo, NY (BUF)",Scheduled,6:10 AM,6:10 AM,Term 5 - 10
+Turkish Airlines,8939,"Buffalo, NY (BUF)",In Air,10:50 PM,12:15 AM,Term 5 - 20
+Turkish Airlines,8947,"Fort Lauderdale, FL (FLL)",Scheduled,5:59 AM,5:59 AM,Term 5 - 04
+Turkish Airlines,8971,"Portland, ME (PWM)",Delayed,10:45 PM,1:30 AM,Term 5 - 06
+Turkish Airlines,8983,"Rochester, NY (ROC)",Landed,10:50 PM,10:47 PM,Term 5 - 16
+Turkish Airlines,8995,San Juan (SJU),Scheduled,5:15 AM,5:15 AM,Term 5 - 24
+Turkish Airlines,8999,San Juan (SJU),In Air,11:50 PM,11:48 PM,Term 5 - 25
+Turkish Airlines,9402,San Salvador (SAL),Scheduled,4:40 AM,,Term 4
+Turkish Airlines,9418,Bogota (BOG),Departed,1:10 AM,1:14 AM,Term 4
+Ukraine International Airline,232,Kiev (KBP),In Air,12:30 AM,12:47 AM,Term 7
+United Airlines,7084,Panama City (PTY),Scheduled,1:55 AM,,Term 4 - B31
+Vietnam Airlines,3009,Taipei (TPE),Scheduled,1:35 AM,1:35 AM,Term 4
+Virgin America,399,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term T4 - A2
+Virgin Atlantic,3157,"Rochester, NY (ROC)",In Air,9:10 PM,10:47 PM,Term 4 - B53
+Virgin Atlantic,4603,"Detroit, MI (DTW)",Delayed,7:00 PM,6:00 AM,Term 4 - B43
+Virgin Atlantic,4657,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term 4 - B47
+Virgin Atlantic,4705,"Baltimore, MD (BWI)",Delayed,9:30 PM,7:00 AM,Term 4 - B48
+Virgin Atlantic,4729,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+Virgin Atlantic,4739,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 4 - B32
+Virgin Atlantic,4753,"San Francisco, CA (SFO)",Scheduled,7:00 AM,,Term 4 - B36
+Virgin Atlantic,4783,"Salt Lake City, UT (SLC)",Scheduled,7:05 AM,,Term 4 - B23
+Virgin Australia,6837,"Los Angeles, CA (LAX)",Scheduled,7:00 AM,,Term 4 - B32
+Volaris,859,Mexico City (MEX),Departed,1:21 AM,1:07 AM,Term 4 - A7
+WestJet Airlines,6834,"Baltimore, MD (BWI)",Delayed,9:30 PM,7:00 AM,Term 4 - B48
+WestJet Airlines,7646,"Atlanta, GA (ATL)",Scheduled,6:10 AM,,Term 4 - B39
+WestJet Airlines,7658,"Boston, MA (BOS)",Scheduled,7:00 AM,,Term 4 - B47
+Xiamen Airlines,9286,Guangzhou (CAN),Scheduled,1:45 AM,1:45 AM,Term 4
+XL Airways France,11,Paris (CDG),In Air,11:55 PM,11:55 PM,Term 4
+JetBlue Airways,123,"Los Angeles, CA (LAX)",In Air,7:24 AM,7:22 AM,Term 5 - 19
+Royal Air Maroc,9536,"Los Angeles, CA (LAX)",In Air,7:24 AM,7:22 AM,Term 5 - 19
+Alaska Airlines,7,"Seattle, WA (SEA)",In Air,7:25 AM,7:20 AM,Term 8 - 35
+China Eastern Airlines,8813,"Seattle, WA (SEA)",In Air,7:29 AM,7:28 AM,Term 4 - B28
+Delta Air Lines,436,"Seattle, WA (SEA)",In Air,7:29 AM,7:28 AM,Term 4 - B28
+GOL Transportes Aereos,8318,"Seattle, WA (SEA)",In Air,7:29 AM,7:28 AM,Term 4 - B28
+Jet Airways,8423,"Seattle, WA (SEA)",In Air,7:29 AM,7:28 AM,Term 4 - B28
+JetBlue Airways,1491,"Nantucket, MA (ACK)",Landed,7:29 AM,7:21 AM,Term 5 - 02
+Royal Air Maroc,9651,"Nantucket, MA (ACK)",Landed,7:29 AM,7:21 AM,Term 5 - 02
+Virgin Atlantic,4747,"Seattle, WA (SEA)",In Air,7:29 AM,7:28 AM,Term 4 - B28
+Alaska Airlines,1011,"San Francisco, CA (SFO)",In Air,7:30 AM,7:24 AM,Term T4 - A2
+American Airlines,4361,"Raleigh/Durham, NC (RDU)",In Air,7:30 AM,7:23 AM,Term 8 - 32G
+Caribbean Airlines Limited,521,Port Of Spain (POS),No Takeoff Info - Call Airline,7:30 AM,7:30 AM,Term 4
+China Eastern Airlines,8031,"San Francisco, CA (SFO)",In Air,7:30 AM,7:24 AM,Term T4 - A2
+China Southern Airlines,1975,"San Francisco, CA (SFO)",In Air,7:30 AM,7:24 AM,Term T4 - A2
+Singapore Airlines,1417,"San Francisco, CA (SFO)",In Air,7:30 AM,7:24 AM,Term T4 - A2
+Virgin America,11,"San Francisco, CA (SFO)",In Air,7:30 AM,7:24 AM,Term T4 - A2
+JetBlue Airways,163,"Sarasota/Bradenton, FL (SRQ)",In Air,7:32 AM,7:27 AM,Term 5 - 10
+JetBlue Airways,508,"Portland, ME (PWM)",Landed,7:34 AM,7:29 AM,Term 5 - 23
+All Nippon Airways,7819,Bogota (BOG),In Air,7:35 AM,7:29 AM,Term 4
+Avianca,21,Bogota (BOG),In Air,7:35 AM,7:29 AM,Term 4
+United Airlines,6658,Bogota (BOG),In Air,7:35 AM,7:29 AM,Term 4
+El Al Israel Airlines,8629,"Charleston, SC (CHS)",In Air,7:38 AM,7:48 AM,Term 5 - 12
+JetBlue Airways,1273,"Charleston, SC (CHS)",In Air,7:38 AM,7:48 AM,Term 5 - 12
+Royal Air Maroc,9626,"Charleston, SC (CHS)",In Air,7:38 AM,7:48 AM,Term 5 - 12
+TAP Portugal,8085,"Charleston, SC (CHS)",In Air,7:38 AM,7:48 AM,Term 5 - 12
+El Al Israel Airlines,8716,"Fort Myers, FL (RSW)",In Air,7:40 AM,7:33 AM,Term 5 - 14
+JetBlue Airways,929,"Fort Myers, FL (RSW)",In Air,7:40 AM,7:33 AM,Term 5 - 14
+TAP Portugal,8093,"Fort Myers, FL (RSW)",In Air,7:40 AM,7:33 AM,Term 5 - 14
+AeroMexico,5728,"Pittsburgh, PA (PIT)",In Air,7:44 AM,7:39 AM,Term 4 - B53
+China Airlines,9111,"Pittsburgh, PA (PIT)",In Air,7:44 AM,7:39 AM,Term 4 - B53
+China Southern Airlines,1284,"Pittsburgh, PA (PIT)",In Air,7:44 AM,7:39 AM,Term 4 - B53
+Delta Air Lines,4102,"Pittsburgh, PA (PIT)",In Air,7:44 AM,7:39 AM,Term 4 - B53
+Virgin Atlantic,4613,"Pittsburgh, PA (PIT)",In Air,7:44 AM,7:39 AM,Term 4 - B53
+American Airlines,1263,"Las Vegas, NV (LAS)",In Air,7:45 AM,7:38 AM,Term 8 - 42
+British Airways,8665,"Las Vegas, NV (LAS)",In Air,7:45 AM,7:38 AM,Term 8 - 42
+China Airlines,9094,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+China Eastern Airlines,8835,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+China Southern Airlines,1274,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+Delta Air Lines,4048,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+Korean Air,7349,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+Virgin Atlantic,2032,"Chicago, IL (ORD)",In Air,7:45 AM,7:44 AM,Term 4 - B47
+JetBlue Airways,1533,Cartagena (CTG),In Air,7:48 AM,7:44 AM,Term 5 - 24
+El Al Israel Airlines,8657,"Jacksonville, FL (JAX)",In Air,7:49 AM,7:44 AM,Term 5 - 26
+Hawaiian Airlines,2098,"Jacksonville, FL (JAX)",In Air,7:49 AM,7:44 AM,Term 5 - 26
+JetBlue Airways,677,"Jacksonville, FL (JAX)",In Air,7:49 AM,7:44 AM,Term 5 - 26
+JetBlue Airways,1669,Punta Cana (PUJ),Departed,7:49 AM,8:17 AM,Term 5 - 27
+Royal Air Maroc,9592,"Jacksonville, FL (JAX)",In Air,7:49 AM,7:44 AM,Term 5 - 26
+TAP Portugal,8087,"Jacksonville, FL (JAX)",In Air,7:49 AM,7:44 AM,Term 5 - 26
+Aer Lingus,8878,London (LHR),In Air,7:55 AM,7:52 AM,Term 7
+American Airlines,6143,London (LHR),In Air,7:55 AM,7:52 AM,Term 7
+British Airways,178,London (LHR),In Air,7:55 AM,7:52 AM,Term 7
+Finnair,5478,London (LHR),In Air,7:55 AM,7:52 AM,Term 7
+Iberia Airlines,4618,London (LHR),In Air,7:55 AM,7:52 AM,Term 7
+JetBlue Airways,881,Vieux Fort (UVF),Departed,7:55 AM,7:48 AM,Term 5 - 15
+China Southern Airlines,1292,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+Delta Air Lines,4067,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+GOL Transportes Aereos,8415,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+Korean Air,7409,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+Virgin Atlantic,2921,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+WestJet Airlines,6335,Toronto (YYZ),Departed,7:59 AM,7:56 AM,Term 4 - B42
+Air Tahiti Nui,1101,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:50 AM,Term 8 - 7
+American Airlines,1,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:50 AM,Term 8 - 7
+American Airlines,947,"Miami, FL (MIA)",In Air,8:00 AM,7:57 AM,Term 8 - 6
+British Airways,4337,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:50 AM,Term 8 - 7
+British Airways,4362,"Miami, FL (MIA)",In Air,8:00 AM,7:57 AM,Term 8 - 6
+El Al Israel Airlines,8623,"Buffalo, NY (BUF)",In Air,8:00 AM,7:52 AM,Term 5 - 06
+Hawaiian Airlines,2022,"Buffalo, NY (BUF)",In Air,8:00 AM,7:52 AM,Term 5 - 06
+Japan Airlines,7515,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:50 AM,Term 8 - 7
+JetBlue Airways,1261,Bridgetown (BGI),In Air,8:00 AM,7:59 AM,Term 5 - 28
+JetBlue Airways,1731,St George (BDA),In Air,8:00 AM,7:58 AM,Term 5 - 03
+JetBlue Airways,2702,"Buffalo, NY (BUF)",In Air,8:00 AM,7:52 AM,Term 5 - 06
+LAN Airlines,6546,"Miami, FL (MIA)",In Air,8:00 AM,7:57 AM,Term 8 - 6
+Malaysia Airlines,9466,"Miami, FL (MIA)",In Air,8:00 AM,7:57 AM,Term 8 - 6
+Qantas Airways,3100,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:50 AM,Term 8 - 7
+Royal Air Maroc,9630,"Buffalo, NY (BUF)",In Air,8:00 AM,7:52 AM,Term 5 - 06
+TAM Brazilian Airlines,7849,"Miami, FL (MIA)",In Air,8:00 AM,7:57 AM,Term 8 - 6
+El Al Israel Airlines,8639,"Fort Lauderdale, FL (FLL)",Delayed,8:03 AM,8:45 AM,Term 5 - 21
+Hawaiian Airlines,2036,"Fort Lauderdale, FL (FLL)",Delayed,8:03 AM,8:45 AM,Term 5 - 21
+JetBlue Airways,201,"Fort Lauderdale, FL (FLL)",Delayed,8:03 AM,8:45 AM,Term 5 - 21
+Royal Air Maroc,9572,"Fort Lauderdale, FL (FLL)",Delayed,8:03 AM,8:45 AM,Term 5 - 21
+China Eastern Airlines,8834,"Los Angeles, CA (LAX)",Departed,8:05 AM,8:03 AM,Term 4 - B34
+China Eastern Airlines,8863,"Washington, DC (DCA)",In Air,8:05 AM,8:01 AM,Term 4 - B51
+China Eastern Airlines,4354,"Raleigh/Durham, NC (RDU)",Departed,8:05 AM,8:02 AM,Term 4 - B46
+China Southern Airlines,1137,"Orlando, FL (MCO)",In Air,8:05 AM,8:02 AM,Term 2 - C67
+China Southern Airlines,1276,"Washington, DC (DCA)",In Air,8:05 AM,8:01 AM,Term 4 - B51
+China Southern Airlines,1280,"Raleigh/Durham, NC (RDU)",Departed,8:05 AM,8:02 AM,Term 4 - B46
+Delta Air Lines,472,"Los Angeles, CA (LAX)",Departed,8:05 AM,8:03 AM,Term 4 - B34
+Delta Air Lines,2474,San Juan (SJU),In Air,8:05 AM,7:59 AM,Term 2 - C64
+Delta Air Lines,2804,"Orlando, FL (MCO)",In Air,8:05 AM,8:02 AM,Term 2 - C67
+Delta Air Lines,4014,"Washington, DC (DCA)",In Air,8:05 AM,8:01 AM,Term 4 - B51
+Delta Air Lines,4038,"Raleigh/Durham, NC (RDU)",Departed,8:05 AM,8:02 AM,Term 4 - B46
+Delta Air Lines,4246,"Jacksonville, FL (JAX)",Departed,8:05 AM,8:00 AM,Term 2 - C60
+GOL Transportes Aereos,8072,"Los Angeles, CA (LAX)",Departed,8:05 AM,8:03 AM,Term 4 - B34
+GOL Transportes Aereos,8074,"Orlando, FL (MCO)",In Air,8:05 AM,8:02 AM,Term 2 - C67
+Virgin Atlantic,4867,"Los Angeles, CA (LAX)",Departed,8:05 AM,8:03 AM,Term 4 - B34
+Virgin Atlantic,2755,San Juan (SJU),In Air,8:05 AM,7:59 AM,Term 2 - C64
+Virgin Atlantic,5467,"Orlando, FL (MCO)",In Air,8:05 AM,8:02 AM,Term 2 - C67
+Virgin Atlantic,4649,"Washington, DC (DCA)",In Air,8:05 AM,8:01 AM,Term 4 - B51
+Virgin Atlantic,4647,"Raleigh/Durham, NC (RDU)",Departed,8:05 AM,8:02 AM,Term 4 - B46
+Virgin Atlantic,4605,"Jacksonville, FL (JAX)",Departed,8:05 AM,8:00 AM,Term 2 - C60
+Virgin Australia,6569,"Los Angeles, CA (LAX)",Departed,8:05 AM,8:03 AM,Term 4 - B34
+WestJet Airlines,7692,San Juan (SJU),In Air,8:05 AM,7:59 AM,Term 2 - C64
+WestJet Airlines,6460,"Orlando, FL (MCO)",In Air,8:05 AM,8:02 AM,Term 2 - C67
+WestJet Airlines,6424,"Washington, DC (DCA)",In Air,8:05 AM,8:01 AM,Term 4 - B51
+WestJet Airlines,6880,"Raleigh/Durham, NC (RDU)",Departed,8:05 AM,8:02 AM,Term 4 - B46
+China Eastern Airlines,8815,"Tampa, FL (TPA)",In Air,8:07 AM,7:57 AM,Term 2 - C61
+Delta Air Lines,2598,"Tampa, FL (TPA)",In Air,8:07 AM,7:57 AM,Term 2 - C61
+Virgin Atlantic,4837,"Tampa, FL (TPA)",In Air,8:07 AM,7:57 AM,Term 2 - C61
+El Al Israel Airlines,8633,"Charlotte, NC (CLT)",Departed,8:09 AM,8:02 AM,Term 5 - 18
+Hawaiian Airlines,2006,"Charlotte, NC (CLT)",Departed,8:09 AM,8:02 AM,Term 5 - 18
+JetBlue Airways,219,"Charlotte, NC (CLT)",Departed,8:09 AM,8:02 AM,Term 5 - 18
+JetBlue Airways,393,"Daytona Beach, FL (DAB)",In Air,8:09 AM,8:03 AM,Term 5 - 04
+Royal Air Maroc,9612,"Charlotte, NC (CLT)",Departed,8:09 AM,8:02 AM,Term 5 - 18
+Delta Air Lines,2154,"Phoenix, AZ (PHX)",Departed,8:10 AM,8:02 AM,Term 2 - C70
+Virgin Atlantic,4839,"Phoenix, AZ (PHX)",Departed,8:10 AM,8:02 AM,Term 2 - C70
+El Al Israel Airlines,8704,"Raleigh/Durham, NC (RDU)",Departed,8:12 AM,8:14 AM,Term 5 - 20
+Hawaiian Airlines,2016,"Raleigh/Durham, NC (RDU)",Departed,8:12 AM,8:14 AM,Term 5 - 20
+JetBlue Airways,885,"Raleigh/Durham, NC (RDU)",Departed,8:12 AM,8:14 AM,Term 5 - 20
+AeroMexico,5719,"Buffalo, NY (BUF)",Departed,8:15 AM,8:05 AM,Term 4 - B43
+American Airlines,1153,"Charlotte, NC (CLT)",Departed,8:15 AM,8:13 AM,Term 8 - 2
+China Southern Airlines,1278,"Buffalo, NY (BUF)",Departed,8:15 AM,8:05 AM,Term 4 - B43
+Delta Air Lines,459,"San Francisco, CA (SFO)",Departed,8:15 AM,8:10 AM,Term 4 - B39
+Delta Air Lines,2498,"Charleston, SC (CHS)",Departed,8:15 AM,8:03 AM,Term 2 - C69
+Delta Air Lines,4018,"Buffalo, NY (BUF)",Departed,8:15 AM,8:05 AM,Term 4 - B43
+Delta Air Lines,4371,London (LHR),Departed,8:15 AM,8:03 AM,Term 4 - AO5
+Delta Air Lines,3574,"Des Moines, IA (DSM)",Departed,8:15 AM,8:23 AM,Term 4 - B48
+DHL Air,971,East Midlands (EMA),Scheduled,8:15 AM,8:15 AM,
+GOL Transportes Aereos,8156,"San Francisco, CA (SFO)",Departed,8:15 AM,8:10 AM,Term 4 - B39
+Jet Airways,5809,London (LHR),Departed,8:15 AM,8:03 AM,Term 4 - AO5
+Singapore Airlines,2526,London (LHR),Departed,8:15 AM,8:03 AM,Term 4 - AO5
+Virgin Atlantic,4767,"San Francisco, CA (SFO)",Departed,8:15 AM,8:10 AM,Term 4 - B39
+Virgin Atlantic,2722,"Charleston, SC (CHS)",Departed,8:15 AM,8:03 AM,Term 2 - C69
+Virgin Atlantic,3147,"Buffalo, NY (BUF)",Departed,8:15 AM,8:05 AM,Term 4 - B43
+Virgin Atlantic,26,London (LHR),Departed,8:15 AM,8:03 AM,Term 4 - AO5
+WestJet Airlines,7671,"Buffalo, NY (BUF)",Departed,8:15 AM,8:05 AM,Term 4 - B43
+Delta Air Lines,435,"Minneapolis, MN (MSP)",Departed,8:20 AM,8:11 AM,Term 4 - B37
+GOL Transportes Aereos,8228,"Minneapolis, MN (MSP)",Departed,8:20 AM,8:11 AM,Term 4 - B37
+Virgin Atlantic,4669,"Minneapolis, MN (MSP)",Departed,8:20 AM,8:11 AM,Term 4 - B37
+China Southern Airlines,1145,"New Orleans, LA (MSY)",Departed,8:21 AM,8:18 AM,Term 4 - B49
+Delta Air Lines,4005,"New Orleans, LA (MSY)",Departed,8:21 AM,8:18 AM,Term 4 - B49
+Virgin Atlantic,4665,"New Orleans, LA (MSY)",Departed,8:21 AM,8:18 AM,Term 4 - B49
+AeroMexico,5517,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+China Southern Airlines,1001,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+Delta Air Lines,469,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+Korean Air,7305,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+Virgin Atlantic,4382,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+WestJet Airlines,7631,"Atlanta, GA (ATL)",Departed,8:25 AM,8:20 AM,Term 4 - B41
+El Al Israel Airlines,8674,"Orlando, FL (MCO)",Departed,8:26 AM,8:21 AM,Term 5 - 25
+Hawaiian Airlines,2068,"Orlando, FL (MCO)",Departed,8:26 AM,8:21 AM,Term 5 - 25
+JetBlue Airways,289,"Orlando, FL (MCO)",Departed,8:26 AM,8:21 AM,Term 5 - 25
+Royal Air Maroc,9502,"Orlando, FL (MCO)",Departed,8:26 AM,8:21 AM,Term 5 - 25
+JetBlue Airways,509,Santo Domingo (SDQ),Scheduled,8:29 AM,8:40 AM,Term 5 - 19
+China Eastern Airlines,4395,"Las Vegas, NV (LAS)",Departed,8:30 AM,8:25 AM,Term 4 - B38
+Delta Air Lines,439,"Las Vegas, NV (LAS)",Departed,8:30 AM,8:25 AM,Term 4 - B38
+Delta Air Lines,4093,"Charlotte, NC (CLT)",Departed,8:30 AM,8:24 AM,Term 4 - B55
+GOL Transportes Aereos,8068,"Las Vegas, NV (LAS)",Departed,8:30 AM,8:25 AM,Term 4 - B38
+Virgin Atlantic,4813,"Las Vegas, NV (LAS)",Departed,8:30 AM,8:25 AM,Term 4 - B38
+Virgin Atlantic,2777,"Charlotte, NC (CLT)",Departed,8:30 AM,8:24 AM,Term 4 - B55
+WestJet Airlines,7697,"Charlotte, NC (CLT)",Departed,8:30 AM,8:24 AM,Term 4 - B55
+Delta Air Lines,482,Punta Cana (PUJ),Departed,8:35 AM,8:29 AM,Term 4 - B24
+Delta Air Lines,493,Santo Domingo (SDQ),Departed,8:35 AM,8:26 AM,Term 4 - B25
+Delta Air Lines,2288,"San Diego, CA (SAN)",Departed,8:35 AM,8:26 AM,Term 2 - C65
+JetBlue Airways,935,Port Au Prince (PAP),Scheduled,8:35 AM,8:35 AM,Term 5 - 08
+Virgin Atlantic,4771,"San Diego, CA (SAN)",Departed,8:35 AM,8:26 AM,Term 2 - C65
+China Southern Airlines,1122,"Fort Lauderdale, FL (FLL)",Departed,8:37 AM,8:30 AM,Term 2 - C62
+Delta Air Lines,2324,"Fort Lauderdale, FL (FLL)",Departed,8:37 AM,8:30 AM,Term 2 - C62
+Virgin Atlantic,3151,"Fort Lauderdale, FL (FLL)",Departed,8:37 AM,8:30 AM,Term 2 - C62
+Delta Air Lines,2836,"Denver, CO (DEN)",Departed,8:40 AM,8:30 AM,Term 2 - C66
+JetBlue Airways,787,St. Maarten (SXM),Departed,8:40 AM,8:20 AM,Term 5 - 11
+Virgin Atlantic,3275,"Denver, CO (DEN)",Departed,8:40 AM,8:30 AM,Term 2 - C66
+Delta Air Lines,437,St George (BDA),Departed,8:41 AM,8:35 AM,Term 4 - B26
+Delta Air Lines,484,Aruba (AUA),Departed,8:41 AM,8:35 AM,Term 4 - B35
+Delta Air Lines,450,Santiago (STI),Departed,8:45 AM,8:38 AM,Term 4 - B20
+American Airlines,1327,Cancun (CUN),Scheduled,8:50 AM,8:50 AM,Term 8 - 43
+All Nippon Airways,7815,Medellin (MDE),Scheduled,8:55 AM,,Term 4
+Avianca,43,Medellin (MDE),Scheduled,8:55 AM,,Term 4
+El Al Israel Airlines,8666,"Los Angeles, CA (LAX)",Scheduled,8:55 AM,8:55 AM,Term 5 - 09
+JetBlue Airways,223,"Los Angeles, CA (LAX)",Scheduled,8:55 AM,8:55 AM,Term 5 - 09
+South African Airways,7364,"Los Angeles, CA (LAX)",Scheduled,8:55 AM,8:55 AM,Term 5 - 09
+El Al Israel Airlines,8661,"Las Vegas, NV (LAS)",Scheduled,8:59 AM,8:59 AM,Term 5 - 05
+Hawaiian Airlines,2323,"Las Vegas, NV (LAS)",Scheduled,8:59 AM,8:59 AM,Term 5 - 05
+JetBlue Airways,1611,"Las Vegas, NV (LAS)",Scheduled,8:59 AM,8:59 AM,Term 5 - 05
+Royal Air Maroc,9640,"Las Vegas, NV (LAS)",Scheduled,8:59 AM,8:59 AM,Term 5 - 05
+South African Airways,7362,"Las Vegas, NV (LAS)",Scheduled,8:59 AM,8:59 AM,Term 5 - 05
+AeroMexico,5496,"Philadelphia, PA (PHL)",Delayed,9:00 AM,9:18 AM,Term 4 - B46
+AeroMexico,5718,"Baltimore, MD (BWI)",Scheduled,9:00 AM,,Term 4 - B42
+AeroMexico,5235,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+American Airlines,3543,Montreal (YUL),Scheduled,9:00 AM,9:00 AM,Term 8 - 32G
+British Airways,5771,Montreal (YUL),Scheduled,9:00 AM,9:00 AM,Term 8 - 32G
+China Airlines,9088,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+China Southern Airlines,1268,"Philadelphia, PA (PHL)",Delayed,9:00 AM,9:18 AM,Term 4 - B46
+China Southern Airlines,1270,"Baltimore, MD (BWI)",Scheduled,9:00 AM,,Term 4 - B42
+China Southern Airlines,1266,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+Delta Air Lines,4052,"Philadelphia, PA (PHL)",Delayed,9:00 AM,9:18 AM,Term 4 - B46
+Delta Air Lines,4076,"Baltimore, MD (BWI)",Scheduled,9:00 AM,,Term 4 - B42
+Delta Air Lines,4077,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term 4 - B47
+Delta Air Lines,4103,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+El Al Israel Airlines,8710,"Rochester, NY (ROC)",Scheduled,9:00 AM,9:00 AM,Term 5 - 02
+El Al Israel Airlines,8691,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term 5 - 16
+El Al Israel Airlines,8635,"Denver, CO (DEN)",Scheduled,9:00 AM,9:00 AM,Term 5 - 14
+GOL Transportes Aereos,8238,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term 4 - B47
+Hawaiian Airlines,2026,"Rochester, NY (ROC)",Scheduled,9:00 AM,9:00 AM,Term 5 - 02
+Japan Airlines,7466,Montreal (YUL),Scheduled,9:00 AM,9:00 AM,Term 8 - 32G
+JetBlue Airways,8043,St Johns (ANU),Scheduled,9:00 AM,9:00 AM,23
+JetBlue Airways,286,"Rochester, NY (ROC)",Scheduled,9:00 AM,9:00 AM,Term 5 - 02
+JetBlue Airways,1105,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term 5 - 16
+JetBlue Airways,1297,"Denver, CO (DEN)",Scheduled,9:00 AM,9:00 AM,Term 5 - 14
+Korean Air,7331,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+Royal Air Maroc,9618,"Rochester, NY (ROC)",Scheduled,9:00 AM,9:00 AM,Term 5 - 02
+Royal Air Maroc,9546,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term 5 - 16
+South African Airways,7370,"Chicago, IL (ORD)",Scheduled,9:00 AM,9:00 AM,Term 5 - 16
+South African Airways,7358,"Denver, CO (DEN)",Scheduled,9:00 AM,9:00 AM,Term 5 - 14
+Virgin Atlantic,4639,"Philadelphia, PA (PHL)",Delayed,9:00 AM,9:18 AM,Term 4 - B46
+Virgin Atlantic,4607,"Baltimore, MD (BWI)",Scheduled,9:00 AM,,Term 4 - B42
+Virgin Atlantic,2716,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term 4 - B47
+Virgin Atlantic,4717,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+WestJet Airlines,7675,"Baltimore, MD (BWI)",Scheduled,9:00 AM,,Term 4 - B42
+WestJet Airlines,7699,"Boston, MA (BOS)",Scheduled,9:00 AM,,Term 4 - B47
+WestJet Airlines,6854,"Washington, DC (IAD)",Scheduled,9:00 AM,,Term 4 - B45
+JetBlue Airways,869,Punta Cana (PUJ),Scheduled,9:02 AM,9:02 AM,Term 5 - 07
+AeroMexico,4593,Cancun (CUN),Scheduled,9:05 AM,9:00 AM,Term 4 - B22
+AeroMexico,4682,"Detroit, MI (DTW)",Scheduled,9:05 AM,9:00 AM,Term 2 - C68
+Alaska Airlines,1407,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,,Term T4 - A2
+China Airlines,9613,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,,Term T4 - A2
+China Southern Airlines,1077,"Detroit, MI (DTW)",Scheduled,9:05 AM,9:00 AM,Term 2 - C68
+Delta Air Lines,438,Cancun (CUN),Scheduled,9:05 AM,9:00 AM,Term 4 - B22
+Delta Air Lines,441,Montego Bay (MBJ),Scheduled,9:05 AM,9:00 AM,Term 4 - B30
+Delta Air Lines,462,"Detroit, MI (DTW)",Scheduled,9:05 AM,9:00 AM,Term 2 - C68
+Delta Air Lines,4123,"Savannah, GA (SAV)",Scheduled,9:05 AM,,Term 4 - B53
+El Al Israel Airlines,8613,"Burlington, VT (BTV)",Scheduled,9:05 AM,9:05 AM,Term 5 - 10
+Hawaiian Airlines,2060,"Burlington, VT (BTV)",Scheduled,9:05 AM,9:05 AM,Term 5 - 10
+Hawaiian Airlines,2521,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,,Term T4 - A2
+Jet Airways,8415,"Detroit, MI (DTW)",Scheduled,9:05 AM,9:00 AM,Term 2 - C68
+JetBlue Airways,1634,"Burlington, VT (BTV)",Scheduled,9:05 AM,9:05 AM,Term 5 - 10
+Singapore Airlines,1415,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,,Term T4 - A2
+Virgin America,407,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,,Term T4 - A2
+Virgin Atlantic,4853,Montego Bay (MBJ),Scheduled,9:05 AM,9:00 AM,Term 4 - B30
+Virgin Atlantic,2907,"Detroit, MI (DTW)",Scheduled,9:05 AM,9:00 AM,Term 2 - C68
+Virgin Atlantic,4905,"Savannah, GA (SAV)",Scheduled,9:05 AM,,Term 4 - B53
+El Al Israel Airlines,8737,San Juan (SJU),Scheduled,9:09 AM,9:09 AM,Term 5 - 29
+JetBlue Airways,403,San Juan (SJU),Scheduled,9:09 AM,9:09 AM,Term 5 - 29
+JetBlue Airways,421,Nassau (NAS),Scheduled,9:14 AM,9:14 AM,Term 5 - 12
+El Al Israel Airlines,8694,"West Palm Beach, FL (PBI)",Scheduled,9:19 AM,9:19 AM,Term 5 - 06
+Hawaiian Airlines,2048,"West Palm Beach, FL (PBI)",Scheduled,9:19 AM,9:19 AM,Term 5 - 06
+JetBlue Airways,53,"West Palm Beach, FL (PBI)",Scheduled,9:19 AM,9:19 AM,Term 5 - 06
+JetBlue Airways,765,Grand Cayman (GCM),Scheduled,9:19 AM,9:19 AM,Term 5 - 01
+Delta Air Lines,2355,"Austin, TX (AUS)",Scheduled,9:20 AM,9:15 AM,Term 2 - C63
+Virgin Atlantic,4803,"Austin, TX (AUS)",Scheduled,9:20 AM,9:15 AM,Term 2 - C63
+El Al Israel Airlines,8726,"Seattle, WA (SEA)",Scheduled,9:24 AM,9:24 AM,Term 5 - 22
+JetBlue Airways,63,"Seattle, WA (SEA)",Scheduled,9:24 AM,9:24 AM,Term 5 - 22
+JetBlue Airways,243,Havana (HAV),Scheduled,9:24 AM,9:24 AM,Term 5 - 26
+Royal Air Maroc,9600,"Seattle, WA (SEA)",Scheduled,9:24 AM,9:24 AM,Term 5 - 22
+South African Airways,7382,"Seattle, WA (SEA)",Scheduled,9:24 AM,9:24 AM,Term 5 - 22
+El Al Israel Airlines,8731,"San Francisco, CA (SFO)",Scheduled,9:25 AM,9:25 AM,Term 5 - 15
+JetBlue Airways,415,"San Francisco, CA (SFO)",Scheduled,9:25 AM,9:25 AM,Term 5 - 15
+Royal Air Maroc,9556,"San Francisco, CA (SFO)",Scheduled,9:25 AM,9:25 AM,Term 5 - 15
+South African Airways,7384,"San Francisco, CA (SFO)",Scheduled,9:25 AM,9:25 AM,Term 5 - 15
+Alaska Airlines,1251,"Las Vegas, NV (LAS)",Scheduled,9:30 AM,,Term T4 - A2
+Hawaiian Airlines,2517,"Las Vegas, NV (LAS)",Scheduled,9:30 AM,,Term T4 - A2
+Virgin America,251,"Las Vegas, NV (LAS)",Scheduled,9:30 AM,,Term T4 - A2
+AeroMexico,5279,Mexico City (MEX),Scheduled,9:35 AM,9:30 AM,Term 4 - B32
+AeroMexico,5208,"Rochester, NY (ROC)",Scheduled,9:35 AM,,Term 4 - B44
+AeroMexico,5129,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+China Airlines,9177,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+China Southern Airlines,1288,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+Delta Air Lines,481,Mexico City (MEX),Scheduled,9:35 AM,9:30 AM,Term 4 - B32
+Delta Air Lines,3818,"Rochester, NY (ROC)",Scheduled,9:35 AM,,Term 4 - B44
+Delta Air Lines,4143,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+Virgin Atlantic,4963,Mexico City (MEX),Scheduled,9:35 AM,9:30 AM,Term 4 - B32
+Virgin Atlantic,3156,"Rochester, NY (ROC)",Scheduled,9:35 AM,,Term 4 - B44
+Virgin Atlantic,2914,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+WestJet Airlines,7698,"Richmond, VA (RIC)",Delayed,9:35 AM,10:28 AM,Term 2 - C60
+AeroMexico,5011,"Cleveland, OH (CLE)",Scheduled,9:40 AM,,Term 4 - B51
+China Airlines,9085,"Cleveland, OH (CLE)",Scheduled,9:40 AM,,Term 4 - B51
+China Southern Airlines,1272,"Syracuse, NY (SYR)",Scheduled,9:40 AM,,Term 2 - C61
+China Southern Airlines,1294,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+Delta Air Lines,3821,"Syracuse, NY (SYR)",Scheduled,9:40 AM,,Term 2 - C61
+Delta Air Lines,4043,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+Delta Air Lines,4244,"Cleveland, OH (CLE)",Scheduled,9:40 AM,,Term 4 - B51
+GOL Transportes Aereos,8418,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+Hawaiian Airlines,2066,"Orlando, FL (MCO)",Scheduled,9:40 AM,9:40 AM,Term 5 - 25
+JetBlue Airways,789,"Orlando, FL (MCO)",Scheduled,9:40 AM,9:40 AM,Term 5 - 25
+Korean Air,7371,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+South African Airways,7366,"Orlando, FL (MCO)",Scheduled,9:40 AM,9:40 AM,Term 5 - 25
+Virgin Atlantic,4743,"Syracuse, NY (SYR)",Scheduled,9:40 AM,,Term 2 - C61
+Virgin Atlantic,4723,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+Virgin Atlantic,2911,"Cleveland, OH (CLE)",Scheduled,9:40 AM,,Term 4 - B51
+WestJet Airlines,6429,Montreal (YUL),Scheduled,9:40 AM,,Term 4 - B43
+WestJet Airlines,7693,"Cleveland, OH (CLE)",Scheduled,9:40 AM,,Term 4 - B51
+JetBlue Airways,1057,Aruba (AUA),Scheduled,9:42 AM,9:42 AM,Term 5 - 18
+American Airlines,3725,Toronto (YYZ),Cancelled,9:45 AM,,Term 8 - 32F
+Asiana Airlines,9458,Panama City (PTY),Scheduled,9:45 AM,,Term 4 - A4
+China Eastern Airlines,4153,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,,Term 4 - B36
+Copa Airlines,803,Panama City (PTY),Scheduled,9:45 AM,,Term 4 - A4
+Delta Air Lines,428,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,,Term 4 - B36
+Delta Air Lines,4023,"Chicago, IL (ORD)",Scheduled,9:45 AM,,Term 4 - B49
+Dynamic International Airways,421,Guayaquil (GYE),Scheduled,9:45 AM,9:45 AM,Term 1
+GOL Transportes Aereos,8316,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,,Term 4 - B36
+LAN Airlines,7004,Toronto (YYZ),Cancelled,9:45 AM,,Term 8 - 32F
+Qantas Airways,3269,Toronto (YYZ),Cancelled,9:45 AM,,Term 8 - 32F
+United Airlines,7153,Panama City (PTY),Scheduled,9:45 AM,,Term 4 - A4
+Virgin Atlantic,4773,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,,Term 4 - B36
+Virgin Atlantic,4881,"Chicago, IL (ORD)",Scheduled,9:45 AM,,Term 4 - B49
+Virgin Australia,6568,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,,Term 4 - B36
+El Al Israel Airlines,8718,"San Diego, CA (SAN)",Scheduled,9:51 AM,9:51 AM,Term 5 - 17
+JetBlue Airways,189,"San Diego, CA (SAN)",Scheduled,9:51 AM,9:51 AM,Term 5 - 17
+South African Airways,7380,"San Diego, CA (SAN)",Scheduled,9:51 AM,9:51 AM,Term 5 - 17
+Aer Lingus,5014,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+El Al Israel Airlines,8533,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+Hawaiian Airlines,2078,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+JetBlue Airways,518,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+Royal Air Maroc,9508,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+South African Airways,7354,"Boston, MA (BOS)",Scheduled,9:52 AM,9:52 AM,Term 5 - 20
+Delta Air Lines,448,Havana (HAV),Scheduled,9:55 AM,,Term 4 - B25
+El Al Israel Airlines,8752,"Syracuse, NY (SYR)",Scheduled,9:56 AM,9:56 AM,Term 5 - 05
+Hawaiian Airlines,2030,"Syracuse, NY (SYR)",Scheduled,9:56 AM,9:56 AM,Term 5 - 05
+JetBlue Airways,116,"Syracuse, NY (SYR)",Scheduled,9:56 AM,9:56 AM,Term 5 - 05
+American Airlines,255,"Los Angeles, CA (LAX)",Scheduled,10:00 AM,,Term 8 - 46
+American Airlines,8926,Hong Kong (HKG),Scheduled,10:00 AM,10:00 AM,Term 8
+British Airways,2430,"Los Angeles, CA (LAX)",Scheduled,10:00 AM,,Term 8 - 46
+Cathay Pacific,841,Hong Kong (HKG),Scheduled,10:00 AM,10:00 AM,Term 8
+Hawaiian Airlines,51,"Honolulu, HI (HNL)",Scheduled,10:00 AM,10:00 AM,Term 5 - 30A
+JetBlue Airways,5851,"Honolulu, HI (HNL)",Scheduled,10:00 AM,10:00 AM,Term 5 - 30A
+Korean Air,7846,"Honolulu, HI (HNL)",Scheduled,10:00 AM,10:00 AM,Term 5 - 30A
+Qantas Airways,3218,"Los Angeles, CA (LAX)",Scheduled,10:00 AM,,Term 8 - 46
+TAM Brazilian Airlines,2042,"Los Angeles, CA (LAX)",Scheduled,10:00 AM,,Term 8 - 46
+TAM Brazilian Airlines,4801,Hong Kong (HKG),Scheduled,10:00 AM,10:00 AM,Term 8
+TAME,551,Quito (UIO),Delayed,10:00 AM,10:00 AM,Term 1
+TNT Airways,11,Liege (LGG),Scheduled,10:00 AM,10:00 AM,
+JetBlue Airways,1537,Santiago (STI),Scheduled,10:09 AM,10:09 AM,Term 5 - 28
+AeroMexico,4405,"Atlanta, GA (ATL)",Scheduled,10:15 AM,,Term 4 - B37
+American Airlines,142,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+British Airways,1594,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+Delta Air Lines,453,"Atlanta, GA (ATL)",Scheduled,10:15 AM,,Term 4 - B37
+El Al Israel Airlines,8010,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+Finnair,4036,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+Iberia Airlines,9728,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+JetBlue Airways,1817,Port Of Spain (POS),Scheduled,10:15 AM,10:15 AM,Term 5 - 11
+KLM Royal Dutch Airlines,5569,"Atlanta, GA (ATL)",Scheduled,10:15 AM,,Term 4 - B37
+Qatar Airways,5450,London (LHR),Scheduled,10:15 AM,10:15 AM,Term 8 - 8
+Virgin Atlantic,4769,"Atlanta, GA (ATL)",Scheduled,10:15 AM,,Term 4 - B37
+WestJet Airlines,7624,"Atlanta, GA (ATL)",Scheduled,10:15 AM,,Term 4 - B37
+JetBlue Airways,1335,Port Au Prince (PAP),Scheduled,10:18 AM,10:18 AM,Term 5 - 08
+All Nippon Airways,7835,San Salvador (SAL),Scheduled,10:20 AM,,Term 4
+Avianca,571,San Salvador (SAL),Scheduled,10:20 AM,,Term 4
+EVA Airways,3121,San Salvador (SAL),Scheduled,10:20 AM,,Term 4
+United Airlines,6632,San Salvador (SAL),Scheduled,10:20 AM,,Term 4
+Alaska Airlines,1023,"San Francisco, CA (SFO)",Scheduled,10:30 AM,,Term T4 - A2
+Hawaiian Airlines,2555,"San Francisco, CA (SFO)",Scheduled,10:30 AM,,Term T4 - A2
+Virgin America,23,"San Francisco, CA (SFO)",Scheduled,10:30 AM,,Term T4 - A2
+American Airlines,338,"Charlotte, NC (CLT)",Scheduled,10:31 AM,,Term 8 - 43
+Finnair,5720,"Charlotte, NC (CLT)",Scheduled,10:31 AM,,Term 8 - 43
+LAN Airlines,6784,"Charlotte, NC (CLT)",Scheduled,10:31 AM,,Term 8 - 43
+American Airlines,4332,"Washington, DC (DCA)",Scheduled,10:40 AM,10:40 AM,Term 8 - 32H
+Cathay Pacific,7565,"Washington, DC (DCA)",Scheduled,10:40 AM,10:40 AM,Term 8 - 32H
+JetBlue Airways,479,Montego Bay (MBJ),Scheduled,10:40 AM,10:40 AM,Term 5 - 09
+LAN Airlines,6922,"Washington, DC (DCA)",Scheduled,10:40 AM,10:40 AM,Term 8 - 32H
+Qatar Airways,5434,"Washington, DC (DCA)",Scheduled,10:40 AM,10:40 AM,Term 8 - 32H
+TAM Brazilian Airlines,7823,"Washington, DC (DCA)",Scheduled,10:40 AM,10:40 AM,Term 8 - 32H
+American Airlines,2407,"Phoenix, AZ (PHX)",Scheduled,10:45 AM,,Term 8 - 40
+JetBlue Airways,751,Cancun (CUN),Scheduled,10:45 AM,10:45 AM,Term 5 - 27
+JetBlue Airways,949,St Georges (GND),Scheduled,10:56 AM,10:56 AM,Term 5 - 14
+JetBlue Airways,627,Puerto Plata (POP),Scheduled,10:58 AM,10:58 AM,Term 5 - 19
+Emirates,6713,"Buffalo, NY (BUF)",Scheduled,10:59 AM,10:59 AM,Term 5 - 02
+Hawaiian Airlines,2018,"Buffalo, NY (BUF)",Scheduled,10:59 AM,10:59 AM,Term 5 - 02
+JetBlue Airways,702,"Buffalo, NY (BUF)",Scheduled,10:59 AM,10:59 AM,Term 5 - 02
+Qatar Airways,4171,"Buffalo, NY (BUF)",Scheduled,10:59 AM,10:59 AM,Term 5 - 02
+Air Tahiti Nui,1177,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,,Term 8 - 41
+American Airlines,163,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,,Term 8 - 41
+American Airlines,179,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+British Airways,4347,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+Emirates,6389,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,11:00 AM,Term 5 - 24
+Hawaiian Airlines,2303,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,11:00 AM,Term 5 - 24
+Japan Airlines,7545,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+JetBlue Airways,423,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,11:00 AM,Term 5 - 24
+Qantas Airways,3156,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,,Term 8 - 41
+Qantas Airways,3088,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+Qatar Airways,5368,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,,Term 8 - 41
+Qatar Airways,5410,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+TAM Brazilian Airlines,2000,"Los Angeles, CA (LAX)",Scheduled,11:00 AM,,Term 8 - 41
+TAM Brazilian Airlines,2012,"San Francisco, CA (SFO)",Scheduled,11:00 AM,,Term 8 - 1
+JetBlue Airways,743,St Johns (ANU),Cancelled,11:02 AM,,Term 5 - CXLD
+American Airlines,942,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+British Airways,2501,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+Cathay Pacific,7538,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+LAN Airlines,6975,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+LAN Argentina,6384,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+Malaysia Airlines,9446,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+Qatar Airways,5344,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+TAM Brazilian Airlines,2321,"Miami, FL (MIA)",Scheduled,11:05 AM,,Term 8 - 6
+Emirates,6729,"Fort Lauderdale, FL (FLL)",Scheduled,11:06 AM,11:06 AM,Term 5 - 12
+Hawaiian Airlines,2082,"Fort Lauderdale, FL (FLL)",Scheduled,11:06 AM,11:06 AM,Term 5 - 12
+JetBlue Airways,1,"Fort Lauderdale, FL (FLL)",Scheduled,11:06 AM,11:06 AM,Term 5 - 12
+Qatar Airways,4087,"Fort Lauderdale, FL (FLL)",Scheduled,11:06 AM,11:06 AM,Term 5 - 12
+South African Airways,7360,"Fort Lauderdale, FL (FLL)",Scheduled,11:06 AM,11:06 AM,Term 5 - 12
+China Eastern Airlines,8805,"Las Vegas, NV (LAS)",Scheduled,11:10 AM,,Term 4 - B22
+Delta Air Lines,449,"Las Vegas, NV (LAS)",Scheduled,11:10 AM,,Term 4 - B22
+GOL Transportes Aereos,8066,"Las Vegas, NV (LAS)",Scheduled,11:10 AM,,Term 4 - B22
+Virgin Atlantic,4805,"Las Vegas, NV (LAS)",Scheduled,11:10 AM,,Term 4 - B22
+JetBlue Airways,864,"Hyannis, MA (HYA)",Scheduled,11:11 AM,11:11 AM,Term 5 - 07
+Qatar Airways,4249,"Hyannis, MA (HYA)",Scheduled,11:11 AM,11:11 AM,Term 5 - 07
+Air Canada,6850,Johannesburg (JNB),Scheduled,11:15 AM,11:15 AM,Term 4
+China Southern Airlines,300,Guangzhou (CAN),Scheduled,11:15 AM,11:15 AM,Term 4
+Delta Air Lines,7750,Guangzhou (CAN),Scheduled,11:15 AM,11:15 AM,Term 4
+JetBlue Airways,5201,Johannesburg (JNB),Scheduled,11:15 AM,11:15 AM,Term 4
+Norwegian Air Shuttle,7014,London (LGW),Scheduled,11:15 AM,11:15 AM,Term 1
+Qatar Airways,704,Doha (DOH),Scheduled,11:15 AM,11:15 AM,Term 7
+South African Airways,204,Johannesburg (JNB),Scheduled,11:15 AM,11:15 AM,Term 4
+SriLankan Airlines,3514,Doha (DOH),Scheduled,11:15 AM,11:15 AM,Term 7
+United Airlines,7226,Johannesburg (JNB),Scheduled,11:15 AM,11:15 AM,Term 4
+Xiamen Airlines,9284,Guangzhou (CAN),Scheduled,11:15 AM,11:15 AM,Term 4
+Delta Air Lines,2175,"Miami, FL (MIA)",Scheduled,11:20 AM,,Term 2 - C63
+Emirates,6129,"Las Vegas, NV (LAS)",Scheduled,11:20 AM,11:20 AM,Term 5 - 16
+Emirates,204,Dubai (DXB),Scheduled,11:20 AM,11:20 AM,Term 4
+GOL Transportes Aereos,8078,"Miami, FL (MIA)",Scheduled,11:20 AM,,Term 2 - C63
+Hawaiian Airlines,2321,"Las Vegas, NV (LAS)",Scheduled,11:20 AM,11:20 AM,Term 5 - 16
+JetBlue Airways,411,"Las Vegas, NV (LAS)",Scheduled,11:20 AM,11:20 AM,Term 5 - 16
+JetBlue Airways,5008,Dubai (DXB),Scheduled,11:20 AM,11:20 AM,Term 4
+Virgin Atlantic,4831,"Miami, FL (MIA)",Scheduled,11:20 AM,,Term 2 - C63
+Air France,7926,"Salt Lake City, UT (SLC)",Scheduled,11:25 AM,,Term 4 - B24
+Delta Air Lines,433,"Seattle, WA (SEA)",Scheduled,11:25 AM,,Term 4 - B28
+Delta Air Lines,456,"Salt Lake City, UT (SLC)",Scheduled,11:25 AM,,Term 4 - B24
+Delta Air Lines,2634,"Orlando, FL (MCO)",Scheduled,11:25 AM,,Term 2 - C66
+Delta Air Lines,2785,"Minneapolis, MN (MSP)",Scheduled,11:25 AM,,Term 2 - C62
+Delta Air Lines,4051,"Boston, MA (BOS)",Scheduled,11:25 AM,,Term 4 - B46
+GOL Transportes Aereos,8154,"Seattle, WA (SEA)",Scheduled,11:25 AM,,Term 4 - B28
+GOL Transportes Aereos,8076,"Orlando, FL (MCO)",Scheduled,11:25 AM,,Term 2 - C66
+GOL Transportes Aereos,8216,"Minneapolis, MN (MSP)",Scheduled,11:25 AM,,Term 2 - C62
+GOL Transportes Aereos,8202,"Boston, MA (BOS)",Scheduled,11:25 AM,,Term 4 - B46
+Jet Airways,8422,"Seattle, WA (SEA)",Scheduled,11:25 AM,,Term 4 - B28
+JetBlue Airways,855,Providenciales (PLS),Scheduled,11:25 AM,11:25 AM,Term 5 - 25
+KLM Royal Dutch Airlines,6601,"Minneapolis, MN (MSP)",Scheduled,11:25 AM,,Term 2 - C62
+Virgin Atlantic,4749,"Seattle, WA (SEA)",Scheduled,11:25 AM,,Term 4 - B28
+Virgin Atlantic,3164,"Salt Lake City, UT (SLC)",Scheduled,11:25 AM,,Term 4 - B24
+Virgin Atlantic,4825,"Orlando, FL (MCO)",Scheduled,11:25 AM,,Term 2 - C66
+Virgin Atlantic,3154,"Minneapolis, MN (MSP)",Scheduled,11:25 AM,,Term 2 - C62
+Virgin Atlantic,5989,"Boston, MA (BOS)",Scheduled,11:25 AM,,Term 4 - B46
+WestJet Airlines,6866,"Orlando, FL (MCO)",Scheduled,11:25 AM,,Term 2 - C66
+WestJet Airlines,7653,"Boston, MA (BOS)",Scheduled,11:25 AM,,Term 4 - B46
+Emirates,6815,San Juan (SJU),Scheduled,11:27 AM,11:27 AM,Term 5 - 04
+JetBlue Airways,3,San Juan (SJU),Scheduled,11:27 AM,11:27 AM,Term 5 - 04
+Qatar Airways,4159,San Juan (SJU),Scheduled,11:27 AM,11:27 AM,Term 5 - 04
+Delta Air Lines,4145,"Raleigh/Durham, NC (RDU)",Scheduled,11:29 AM,,Term 4 - B51
+Virgin Atlantic,3381,"Raleigh/Durham, NC (RDU)",Scheduled,11:29 AM,,Term 4 - B51
+WestJet Airlines,6884,"Raleigh/Durham, NC (RDU)",Scheduled,11:29 AM,,Term 4 - B51
+Alaska Airlines,1409,"Los Angeles, CA (LAX)",Scheduled,11:30 AM,,Term T4 - A2
+American Airlines,8495,Tokyo (NRT),Scheduled,11:30 AM,11:30 AM,Term 1 - 2
+China Airlines,9665,"Los Angeles, CA (LAX)",Scheduled,11:30 AM,,Term T4 - A2
+China Southern Airlines,1919,"Los Angeles, CA (LAX)",Scheduled,11:30 AM,,Term T4 - A2
+Hawaiian Airlines,2523,"Los Angeles, CA (LAX)",Scheduled,11:30 AM,,Term T4 - A2
+Japan Airlines,3,Tokyo (NRT),Scheduled,11:30 AM,11:30 AM,Term 1 - 2
+LAN Airlines,7465,Tokyo (NRT),Scheduled,11:30 AM,11:30 AM,Term 1 - 2
+Malaysia Airlines,9103,Tokyo (NRT),Scheduled,11:30 AM,11:30 AM,Term 1 - 2
+TAM Brazilian Airlines,8336,Tokyo (NRT),Scheduled,11:30 AM,11:30 AM,Term 1 - 2
+Virgin America,409,"Los Angeles, CA (LAX)",Scheduled,11:30 AM,,Term T4 - A2
+Hawaiian Airlines,2092,"Nantucket, MA (ACK)",Scheduled,11:34 AM,11:34 AM,Term 5 - 06
+JetBlue Airways,1591,"Nantucket, MA (ACK)",Scheduled,11:34 AM,11:34 AM,Term 5 - 06
+Qatar Airways,4009,"Nantucket, MA (ACK)",Scheduled,11:34 AM,11:34 AM,Term 5 - 06
+Sun Country Airlines,244,"Minneapolis, MN (MSP)",Scheduled,11:35 AM,11:35 AM,Term 4
+Air China,1078,Shanghai (PVG),Scheduled,11:40 AM,,
+Delta Air Lines,4001,Quebec (YQB),Scheduled,11:40 AM,,Term 2 - C65
+Korean Air,7495,Quebec (YQB),Scheduled,11:40 AM,,Term 2 - C65
+Virgin Atlantic,4861,Quebec (YQB),Scheduled,11:40 AM,,Term 2 - C65
+WestJet Airlines,6469,Quebec (YQB),Scheduled,11:40 AM,,Term 2 - C65
+AeroMexico,5717,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+Air France,6861,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+Delta Air Lines,430,"San Francisco, CA (SFO)",Scheduled,11:45 AM,,Term 4 - B38
+Delta Air Lines,488,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+GOL Transportes Aereos,8158,"San Francisco, CA (SFO)",Scheduled,11:45 AM,,Term 4 - B38
+KLM Royal Dutch Airlines,5249,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+Virgin Atlantic,4819,"San Francisco, CA (SFO)",Scheduled,11:45 AM,,Term 4 - B38
+Virgin Atlantic,4737,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+WestJet Airlines,7647,"Atlanta, GA (ATL)",Scheduled,11:45 AM,,Term 4 - B34
+JetBlue Airways,1338,"Vineyard Haven, MA (MVY)",Scheduled,11:52 AM,11:52 AM,Term 5 - 01
+Qatar Airways,4281,"Vineyard Haven, MA (MVY)",Scheduled,11:52 AM,11:52 AM,Term 5 - 01
+Aerolineas Argentinas,7028,"Washington, DC (DCA)",Scheduled,11:55 AM,,Term 4 - B43
+Alaska Airlines,1025,"San Francisco, CA (SFO)",Scheduled,11:55 AM,,Term T4 - A2
+China Southern Airlines,1977,"San Francisco, CA (SFO)",Scheduled,11:55 AM,,Term T4 - A2
+Delta Air Lines,4010,"Washington, DC (DCA)",Scheduled,11:55 AM,,Term 4 - B43
+Virgin America,25,"San Francisco, CA (SFO)",Scheduled,11:55 AM,,Term T4 - A2
+Virgin Atlantic,3150,"Washington, DC (DCA)",Scheduled,11:55 AM,,Term 4 - B43
+WestJet Airlines,6846,"Washington, DC (DCA)",Scheduled,11:55 AM,,Term 4 - B43
+Delta Air Lines,4070,Toronto (YYZ),Scheduled,11:57 AM,,Term 4 - B44
+GOL Transportes Aereos,8360,Toronto (YYZ),Scheduled,11:57 AM,,Term 4 - B44
+Korean Air,7382,Toronto (YYZ),Scheduled,11:57 AM,,Term 4 - B44
+Virgin Atlantic,4719,Toronto (YYZ),Scheduled,11:57 AM,,Term 4 - B44
+WestJet Airlines,6339,Toronto (YYZ),Scheduled,11:57 AM,,Term 4 - B44
+Etihad Airways,8276,"Los Angeles, CA (LAX)",Scheduled,11:59 AM,11:59 AM,Term 5 - 29
+Hawaiian Airlines,2309,"Los Angeles, CA (LAX)",Scheduled,11:59 AM,11:59 AM,Term 5 - 29
+JetBlue Airways,523,"Los Angeles, CA (LAX)",Scheduled,11:59 AM,11:59 AM,Term 5 - 29
+Air Tahiti Nui,1103,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+All Nippon Airways,9,Tokyo (NRT),Scheduled,12:00 PM,12:00 PM,Term 7
+American Airlines,3,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+British Airways,2524,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+Delta Air Lines,2571,San Juan (SJU),Scheduled,12:00 PM,,Term 2 - C64
+Etihad Airways,3102,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+Qantas Airways,3094,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+TAM Brazilian Airlines,7814,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,,Term 8 - 39
+Thai Airways,6097,Tokyo (NRT),Scheduled,12:00 PM,12:00 PM,Term 7
+United Airlines,7998,Tokyo (NRT),Scheduled,12:00 PM,12:00 PM,Term 7
+Virgin Atlantic,3161,San Juan (SJU),Scheduled,12:00 PM,,Term 2 - C64
+Delta Air Lines,487,Santo Domingo (SDQ),Scheduled,12:19 PM,,Term 4 - B26
+American Airlines,4641,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+Emirates,6851,Santo Domingo (SDQ),Scheduled,12:20 PM,12:20 PM,Term 5 - 26
+Etihad Airways,3453,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+Japan Airlines,7478,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+JetBlue Airways,409,Santo Domingo (SDQ),Scheduled,12:20 PM,12:20 PM,Term 5 - 26
+Qantas Airways,4638,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+Qatar Airways,5466,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+TAM Brazilian Airlines,2129,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term 8 - 31A
+China Eastern Airlines,4382,"Los Angeles, CA (LAX)",Scheduled,12:21 PM,,Term 4 - B30
+Delta Air Lines,423,"Los Angeles, CA (LAX)",Scheduled,12:21 PM,,Term 4 - B30
+Virgin Atlantic,4727,"Los Angeles, CA (LAX)",Scheduled,12:21 PM,,Term 4 - B30
+Virgin Australia,6566,"Los Angeles, CA (LAX)",Scheduled,12:21 PM,,Term 4 - B30
+Avianca,6624,Istanbul (IST),Scheduled,12:25 PM,12:35 PM,Term 1
+Interjet,2991,Mexico City (MEX),Scheduled,12:25 PM,12:25 PM,Term 7
+Singapore Airlines,6202,Istanbul (IST),Scheduled,12:25 PM,12:35 PM,Term 1
+Turkish Airlines,4,Istanbul (IST),Scheduled,12:25 PM,12:35 PM,Term 1
+Aer Lingus,5018,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+Emirates,6705,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+Etihad Airways,8273,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+Hawaiian Airlines,2004,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+JetBlue Airways,1318,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+South African Airways,7336,"Boston, MA (BOS)",Scheduled,12:29 PM,12:29 PM,Term 5 - 03
+El Al Israel Airlines,8653,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+Emirates,6733,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+Etihad Airways,8289,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+Hawaiian Airlines,2128,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+JetBlue Airways,1407,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+South African Airways,7343,"Washington, DC (IAD)",Scheduled,12:40 PM,12:40 PM,Term 5 - 07
+El Al Israel Airlines,8698,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+Emirates,6755,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+Etihad Airways,8297,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+Hawaiian Airlines,2058,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+JetBlue Airways,208,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+Qatar Airways,4125,"Portland, ME (PWM)",Scheduled,12:41 PM,12:41 PM,Term 5 - 20
+Air China,990,Beijing (PEK),Scheduled,12:50 PM,,Term 1
+Air France,2755,"Detroit, MI (DTW)",Scheduled,12:50 PM,,Term 4 - B46
+China Southern Airlines,1078,"Detroit, MI (DTW)",Scheduled,12:50 PM,,Term 4 - B46
+Delta Air Lines,4007,"Detroit, MI (DTW)",Scheduled,12:50 PM,,Term 4 - B46
+El Al Israel Airlines,8605,"Austin, TX (AUS)",Scheduled,12:50 PM,12:50 PM,Term 5 - 18
+Emirates,6773,"Austin, TX (AUS)",Scheduled,12:50 PM,12:50 PM,Term 5 - 18
+Etihad Airways,8255,"Austin, TX (AUS)",Scheduled,12:50 PM,12:50 PM,Term 5 - 18
+JetBlue Airways,795,"Austin, TX (AUS)",Scheduled,12:50 PM,12:50 PM,Term 5 - 18
+KLM Royal Dutch Airlines,5109,"Detroit, MI (DTW)",Scheduled,12:50 PM,,Term 4 - B46
+South African Airways,7352,"Austin, TX (AUS)",Scheduled,12:50 PM,12:50 PM,Term 5 - 18
+Virgin Atlantic,4625,"Detroit, MI (DTW)",Scheduled,12:50 PM,,Term 4 - B46
+Air France,5999,"Buffalo, NY (BUF)",Delayed,12:52 PM,1:17 PM,Term 4 - B48
+Alitalia,5855,"Buffalo, NY (BUF)",Delayed,12:52 PM,1:17 PM,Term 4 - B48
+Delta Air Lines,4031,"Buffalo, NY (BUF)",Delayed,12:52 PM,1:17 PM,Term 4 - B48
+Virgin Atlantic,5995,"Buffalo, NY (BUF)",Delayed,12:52 PM,1:17 PM,Term 4 - B48
+WestJet Airlines,7670,"Buffalo, NY (BUF)",Delayed,12:52 PM,1:17 PM,Term 4 - B48
+Emirates,6127,"San Francisco, CA (SFO)",Scheduled,12:55 PM,12:55 PM,Term 5 - 17
+Etihad Airways,8358,"San Francisco, CA (SFO)",Scheduled,12:55 PM,12:55 PM,Term 5 - 17
+JetBlue Airways,615,"San Francisco, CA (SFO)",Scheduled,12:55 PM,12:55 PM,Term 5 - 17
+Etihad Airways,8372,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+Hawaiian Airlines,2020,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+Japan Airlines,5820,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+JetBlue Airways,2302,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+Qatar Airways,4169,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+Turkish Airlines,8933,"Buffalo, NY (BUF)",Scheduled,12:56 PM,12:56 PM,Term 5 - 23
+American Airlines,1236,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+American Airlines,1397,"Charlotte, NC (CLT)",Scheduled,12:59 PM,,Term 8 - 40
+British Airways,1687,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+Etihad Airways,3439,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+Finnair,4072,"Charlotte, NC (CLT)",Scheduled,12:59 PM,,Term 8 - 40
+Hawaiian Airlines,2094,"Nantucket, MA (ACK)",Scheduled,12:59 PM,12:59 PM,Term 5 - 01
+Japan Airlines,7470,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+Japan Airlines,7458,"Charlotte, NC (CLT)",Scheduled,12:59 PM,,Term 8 - 40
+JetBlue Airways,1791,"Nantucket, MA (ACK)",Scheduled,12:59 PM,12:59 PM,Term 5 - 01
+LAN Airlines,6889,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+LAN Airlines,6583,"Charlotte, NC (CLT)",Scheduled,12:59 PM,,Term 8 - 40
+LAN Argentina,6413,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+Malaysia Airlines,9471,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+TAM Brazilian Airlines,2441,"Miami, FL (MIA)",Scheduled,12:59 PM,,Term 8 - 35
+Aerolineas Argentinas,7026,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+Air France,2554,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+Alaska Airlines,1411,"Los Angeles, CA (LAX)",Scheduled,1:00 PM,,Term T4 - A2
+Alitalia,3523,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+Delta Air Lines,4073,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+Hawaiian Airlines,2549,"Los Angeles, CA (LAX)",Scheduled,1:00 PM,,Term T4 - A2
+Singapore Airlines,1329,"Los Angeles, CA (LAX)",Scheduled,1:00 PM,,Term T4 - A2
+Virgin America,411,"Los Angeles, CA (LAX)",Scheduled,1:00 PM,,Term T4 - A2
+Virgin Atlantic,4877,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+WestJet Airlines,7659,"Boston, MA (BOS)",Scheduled,1:00 PM,,Term 4 - B45
+American Airlines,8402,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+British Airways,4605,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+Japan Airlines,5,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+LAN Airlines,7464,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+Malaysia Airlines,9145,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+TAM Brazilian Airlines,8338,Tokyo (HND),Delayed,1:10 PM,6:40 PM,Term 1 - 3
+EVA Airways,29,Taipei (TPE),Scheduled,1:15 PM,1:15 PM,Term 1
+Singapore Airlines,5833,Taipei (TPE),Scheduled,1:15 PM,1:15 PM,Term 1
+Thai Airways,6341,Taipei (TPE),Scheduled,1:15 PM,1:15 PM,Term 1
+Azul Airlines,7383,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+Emirates,6743,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+Etihad Airways,8288,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+Hawaiian Airlines,2070,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+Japan Airlines,5926,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+JetBlue Airways,1089,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+Singapore Airlines,1479,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+South African Airways,7392,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term 5 - 08
+El Al Israel Airlines,8760,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Emirates,6767,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Etihad Airways,8326,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Hawaiian Airlines,2074,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+JetBlue Airways,325,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Qatar Airways,4163,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Singapore Airlines,1471,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+South African Airways,7386,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Turkish Airlines,8511,"Tampa, FL (TPA)",Scheduled,1:21 PM,1:21 PM,Term 5 - 27
+Etihad Airways,8329,"Los Angeles, CA (LAX)",Scheduled,1:25 PM,1:25 PM,Term 5 - 22
+Hawaiian Airlines,2307,"Los Angeles, CA (LAX)",Scheduled,1:25 PM,1:25 PM,Term 5 - 22
+JetBlue Airways,1523,"Los Angeles, CA (LAX)",Scheduled,1:25 PM,1:25 PM,Term 5 - 22
+Singapore Airlines,1498,"Los Angeles, CA (LAX)",Scheduled,1:25 PM,1:25 PM,Term 5 - 22
+American Airlines,1151,"Phoenix, AZ (PHX)",Scheduled,1:30 PM,,Term 8 - 38
+Bombardier Business Jet Solutions,525,Quebec (YQB),Scheduled,1:30 PM,1:30 PM,
+Air France,2692,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+Alitalia,3097,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+Delta Air Lines,4039,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+KLM Royal Dutch Airlines,6714,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+Korean Air,7317,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+Virgin Atlantic,4697,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+WestJet Airlines,7691,"Cleveland, OH (CLE)",Scheduled,1:35 PM,,Term 2 - C61
+Delta Air Lines,458,"Los Angeles, CA (LAX)",Scheduled,1:45 PM,,Term 4 - B35
+Emirates,6707,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+Etihad Airways,8286,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+Hawaiian Airlines,2064,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+Japan Airlines,5822,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+JetBlue Airways,34,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+KLM Royal Dutch Airlines,6362,"Los Angeles, CA (LAX)",Scheduled,1:45 PM,,Term 4 - B35
+Qatar Airways,4063,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+Turkish Airlines,8931,"Burlington, VT (BTV)",Scheduled,1:45 PM,1:45 PM,Term 5 - 24
+Virgin Atlantic,4741,"Los Angeles, CA (LAX)",Scheduled,1:45 PM,,Term 4 - B35
+Virgin Australia,6540,"Los Angeles, CA (LAX)",Scheduled,1:45 PM,,Term 4 - B35
+Aer Lingus,5008,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+Etihad Airways,8378,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+Hawaiian Airlines,2002,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+JetBlue Airways,118,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+Singapore Airlines,1450,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+TAP Portugal,8000,"Boston, MA (BOS)",Scheduled,1:49 PM,1:49 PM,Term 5 - 02
+Asiana Airlines,221,Seoul (ICN),Scheduled,1:50 PM,1:50 PM,Term 4
+Copa Airlines,8005,Seoul (ICN),Scheduled,1:50 PM,1:50 PM,Term 4
+El Al Israel Airlines,8672,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+Emirates,6785,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+Etihad Airways,8300,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+JetBlue Airways,213,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+Qatar Airways,4095,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+Singapore Airlines,5721,Seoul (ICN),Scheduled,1:50 PM,1:50 PM,Term 4
+Thai Airways,6746,Seoul (ICN),Scheduled,1:50 PM,1:50 PM,Term 4
+Turkish Airlines,8959,"Long Beach, CA (LGB)",Scheduled,1:50 PM,1:50 PM,Term 5 - 06
+United Airlines,7294,Seoul (ICN),Scheduled,1:50 PM,1:50 PM,Term 4
+Emirates,6803,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Etihad Airways,8299,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Hawaiian Airlines,2028,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Japan Airlines,5842,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+JetBlue Airways,686,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Qatar Airways,4181,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Singapore Airlines,1466,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Turkish Airlines,8985,"Rochester, NY (ROC)",Scheduled,1:55 PM,1:55 PM,Term 5 - 21
+Delta Air Lines,2810,"Bangor, ME (BGR)",Scheduled,1:56 PM,,Term 2 - C62
+KLM Royal Dutch Airlines,6626,"Bangor, ME (BGR)",Scheduled,1:56 PM,,Term 2 - C62
+Air France,2367,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+Air France,5801,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+Alitalia,3405,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+Delta Air Lines,4045,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+Delta Air Lines,4156,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+Emirates,6833,Cancun (CUN),Scheduled,1:59 PM,1:59 PM,Term 5 - 14
+Etihad Airways,8359,San Juan (SJU),Scheduled,1:59 PM,1:59 PM,Term 5 - 09
+Japan Airlines,5482,San Juan (SJU),Scheduled,1:59 PM,1:59 PM,Term 5 - 09
+JetBlue Airways,351,Cancun (CUN),Scheduled,1:59 PM,1:59 PM,Term 5 - 14
+JetBlue Airways,803,San Juan (SJU),Scheduled,1:59 PM,1:59 PM,Term 5 - 09
+JetBlue Airways,1221,Nassau (NAS),Scheduled,1:59 PM,1:59 PM,Term 5 - 05
+KLM Royal Dutch Airlines,5552,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+KLM Royal Dutch Airlines,7623,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+Korean Air,7359,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+Korean Air,7499,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+Qatar Airways,4161,San Juan (SJU),Scheduled,1:59 PM,1:59 PM,Term 5 - 09
+Turkish Airlines,8991,San Juan (SJU),Scheduled,1:59 PM,1:59 PM,Term 5 - 09
+Virgin Atlantic,4641,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+Virgin Atlantic,5849,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+WestJet Airlines,6878,"Raleigh/Durham, NC (RDU)",Scheduled,1:59 PM,,Term 4 - B55
+WestJet Airlines,6856,"Washington, DC (IAD)",Scheduled,1:59 PM,,Term 4 - B42
+Aerolineas Argentinas,7860,Seoul (ICN),Scheduled,2:00 PM,2:00 PM,Term 1
+Delta Air Lines,1000,Seoul (ICN),Scheduled,2:00 PM,2:00 PM,Term 1
+Korean Air,82,Seoul (ICN),Scheduled,2:00 PM,2:00 PM,Term 1
+Delta Air Lines,452,Santiago (STI),Scheduled,2:05 PM,,Term 4 - B24
+KLM Royal Dutch Airlines,7614,Santiago (STI),Scheduled,2:05 PM,,Term 4 - B24
+Icelandair,612,Reykjavik (KEF),Scheduled,2:10 PM,2:10 PM,Term 7
+JetBlue Airways,5612,Reykjavik (KEF),Scheduled,2:10 PM,2:10 PM,Term 7
+Aerolineas Argentinas,7032,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Air France,3524,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Alitalia,3152,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Delta Air Lines,4020,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+KLM Royal Dutch Airlines,5612,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Korean Air,7511,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Virgin Atlantic,4629,"Chicago, IL (ORD)",Scheduled,2:20 PM,,Term 2 - C65
+Aeroflot Airlines,101,Moscow (SVO),Scheduled,2:25 PM,2:25 PM,Term 1
+Aer Lingus,5080,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Emirates,6827,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Etihad Airways,8301,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Hawaiian Airlines,2034,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+JetBlue Airways,2402,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Qatar Airways,4151,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Singapore Airlines,1468,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Turkish Airlines,8507,"Syracuse, NY (SYR)",Scheduled,2:27 PM,2:27 PM,Term 5 - 01
+Emirates,6737,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Etihad Airways,8293,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Hawaiian Airlines,2096,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Japan Airlines,5832,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+JetBlue Airways,477,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Qatar Airways,4093,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Singapore Airlines,1465,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Turkish Airlines,8955,"Jacksonville, FL (JAX)",Scheduled,2:29 PM,2:29 PM,Term 5 - 30
+Volaris,881,Mexico City (MEX),Scheduled,2:29 PM,,Term 4
+Air France,9172,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Air France,5768,"Charleston, SC (CHS)",Scheduled,2:30 PM,,Term 4 - B45
+Air Tahiti Nui,1197,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+Alitalia,5991,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Alitalia,3208,"Charleston, SC (CHS)",Scheduled,2:30 PM,,Term 4 - B45
+American Airlines,23,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+British Airways,8684,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+Delta Air Lines,4029,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Delta Air Lines,4243,"Charleston, SC (CHS)",Scheduled,2:30 PM,,Term 4 - B45
+Etihad Airways,3330,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+Gulf Air,4333,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+KLM Royal Dutch Airlines,5624,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Korean Air,7369,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Korean Air,7315,"Charleston, SC (CHS)",Scheduled,2:30 PM,,Term 4 - B45
+Qantas Airways,3112,"Los Angeles, CA (LAX)",Scheduled,2:30 PM,,Term 8 - 42
+Virgin Atlantic,2492,"Savannah, GA (SAV)",Scheduled,2:30 PM,,Term 4 - B53
+Virgin Atlantic,4695,"Charleston, SC (CHS)",Scheduled,2:30 PM,,Term 4 - B45

@@ -1,0 +1,550 @@
+Airline,Flight,To,Status,Scheduled,Updated,Term-Gate
+AeroMexico,5125,"Atlanta, GA (ATL)",Scheduled,6:00 AM,6:00 AM,Term TB - 41
+Air Canada,585,Calgary (YYC),Scheduled,6:55 AM,,Term A - A12
+Air Canada,2402,"Savannah, GA (SAV)",Scheduled,6:50 AM,6:50 AM,Term C - C98
+Air Canada,2976,"Norfolk, VA (ORF)",Scheduled,6:00 AM,6:00 AM,Term A - A20
+Air Canada,3043,"Memphis, TN (MEM)",Scheduled,6:30 AM,6:30 AM,Term A - A24
+Air Canada,3444,"Greensboro, NC (GSO)",Scheduled,6:05 AM,6:05 AM,Term A - A20A
+Air Canada,3620,"Portland, ME (PWM)",Scheduled,6:00 AM,6:00 AM,Term A - A26X
+Air Canada,5205,"Chicago, IL (ORD)",Scheduled,5:25 AM,5:25 AM,Term C - C72
+Air Canada,5299,"West Palm Beach, FL (PBI)",Scheduled,6:00 AM,6:00 AM,Term C - C97
+Air Canada,5925,"Chicago, IL (ORD)",Scheduled,6:35 AM,6:35 AM,Term C - C135
+Air Canada,7605,Toronto (YYZ),In Air,9:35 PM,11:45 PM,Term A - A11
+Air Canada,7649,Toronto (YYZ),Scheduled,6:00 AM,,Term A - A11
+Air China,7359,"Los Angeles, CA (LAX)",Scheduled,6:30 AM,6:30 AM,Term C - C137
+Air New Zealand,6596,"Houston, TX (IAH)",Cancelled,6:35 AM,,Term C
+Air New Zealand,6604,"Houston, TX (IAH)",Scheduled,5:30 AM,5:30 AM,Term C - C75
+Air New Zealand,9130,"San Francisco, CA (SFO)",Scheduled,6:00 AM,6:00 AM,Term C - C134
+Air New Zealand,9135,"San Francisco, CA (SFO)",Scheduled,6:35 AM,6:35 AM,Term C - C102
+Air New Zealand,9535,"Los Angeles, CA (LAX)",Scheduled,6:30 AM,6:30 AM,Term C - C137
+Alaska Airlines,31,"Seattle, WA (SEA)",Scheduled,7:00 AM,7:00 AM,Term A - A30
+Alaska Airlines,8248,"Chicago, IL (ORD)",Scheduled,7:00 AM,,Term A - A39
+American Airlines,227,"Phoenix, AZ (PHX)",Scheduled,6:50 AM,,Term A - A38
+American Airlines,1301,"Miami, FL (MIA)",Scheduled,6:00 AM,,Term A - 35
+American Airlines,1723,"Charlotte, NC (CLT)",Scheduled,6:30 AM,,Term A - A37
+American Airlines,2316,"Chicago, IL (ORD)",Scheduled,7:00 AM,,Term A - A39
+American Airlines,2321,"Dallas-Fort Worth, TX (DFW)",Scheduled,6:25 AM,,Term A - 34
+American Airlines,2622,"Charlotte, NC (CLT)",Scheduled,5:00 AM,,Term A - A37
+American Airlines,8942,Hong Kong (HKG),Scheduled,1:45 AM,1:45 AM,Term TB - 55
+Asiana Airlines,6261,"Los Angeles, CA (LAX)",Scheduled,6:30 AM,6:30 AM,Term C - C137
+Asiana Airlines,9544,"Seattle, WA (SEA)",Scheduled,6:00 AM,6:00 AM,Term C - C81
+Avianca,2135,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term C - C109
+British Airways,2537,"Miami, FL (MIA)",Scheduled,6:00 AM,,Term A - 35
+Cathay Pacific,899,Hong Kong (HKG),Scheduled,1:45 AM,1:45 AM,Term TB - 55
+Copa Airlines,1154,"Albany, NY (ALB)",Departed,9:20 PM,1:00 AM,Term C - C130V
+Copa Airlines,1368,"Portland, ME (PWM)",Scheduled,6:00 AM,6:00 AM,Term A - A26X
+Copa Airlines,2094,"Ithaca, NY (ITH)",Arrived,8:40 PM,11:21 PM,Term C - C130V
+Delta Air Lines,575,"Atlanta, GA (ATL)",Scheduled,6:00 AM,6:00 AM,Term TB - 41
+Delta Air Lines,1723,"Minneapolis, MN (MSP)",Scheduled,6:15 AM,6:15 AM,Term TB - 40
+Delta Air Lines,6235,"Detroit, MI (DTW)",Scheduled,6:00 AM,6:00 AM,Term TB - 47
+Delta Air Lines,6284,"Cincinnati, OH (CVG)",Cancelled,7:57 PM,,Term TB - 41
+Emirates,210,Athens (ATH),In Air,11:55 PM,11:41 PM,Term TB - 62
+Ethiopian Airlines,1387,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term C - C109
+Etihad Airways,3660,"Chicago, IL (ORD)",Scheduled,7:00 AM,,Term A - A39
+JetBlue Airways,27,"Orlando, FL (MCO)",Scheduled,5:44 AM,5:44 AM,Term TA - 18
+JetBlue Airways,1143,"West Palm Beach, FL (PBI)",Scheduled,6:20 AM,6:20 AM,Term TA - 16A
+JetBlue Airways,1505,"Fort Lauderdale, FL (FLL)",Scheduled,6:00 AM,6:00 AM,Term TA - 17
+KLM Royal Dutch Airlines,6816,"Cincinnati, OH (CVG)",Cancelled,7:57 PM,,Term TB - 41
+Lufthansa,7698,"Albany, NY (ALB)",Departed,9:20 PM,1:00 AM,Term C - C130V
+Lufthansa,7714,"Baltimore, MD (BWI)",Arrived,10:40 PM,11:21 PM,Term C - C87
+Mountain Air Cargo,7304,"Baltimore, MD (BWI)",Scheduled,12:45 AM,12:45 AM,
+Porter Airlines,116,Toronto (YTZ),Scheduled,6:00 AM,6:00 AM,Term B - B51
+Porter Airlines,118,Toronto (YTZ),Cancelled,6:55 AM,,Term B - B51
+Scandinavian Airlines,902,Copenhagen (CPH),In Air,11:30 PM,11:14 PM,Term TB - 65
+Scandinavian Airlines,3923,"San Francisco, CA (SFO)",Scheduled,6:35 AM,6:35 AM,Term C - C102
+Scandinavian Airlines,3942,"Chicago, IL (ORD)",Scheduled,6:35 AM,6:35 AM,Term C - C135
+Scandinavian Airlines,3968,"Chicago, IL (ORD)",Scheduled,5:25 AM,5:25 AM,Term C - C72
+Scandinavian Airlines,6710,"Raleigh/Durham, NC (RDU)",Cancelled,6:17 AM,,Term C
+Scandinavian Airlines,6722,"Atlanta, GA (ATL)",Scheduled,6:35 AM,6:35 AM,Term C - C131
+Scandinavian Airlines,6746,"Phoenix, AZ (PHX)",Scheduled,7:05 AM,7:05 AM,Term C - C128
+Scandinavian Airlines,6776,"Fort Lauderdale, FL (FLL)",Scheduled,6:03 AM,6:03 AM,Term C - C94
+Scandinavian Airlines,6784,"Tampa, FL (TPA)",Scheduled,7:10 AM,7:10 AM,Term C - C111
+Scandinavian Airlines,6796,"Memphis, TN (MEM)",Scheduled,6:30 AM,6:30 AM,Term A - A24
+Scandinavian Airlines,6820,"Houston, TX (IAH)",Scheduled,5:30 AM,5:30 AM,Term C - C75
+Scandinavian Airlines,6826,"Las Vegas, NV (LAS)",Scheduled,6:16 AM,6:16 AM,Term C - C107
+Southwest Airlines,1981,"Fort Lauderdale, FL (FLL)",Scheduled,6:35 AM,,Term TA
+Southwest Airlines,2012,"Chicago, IL (MDW)",Scheduled,6:00 AM,,Term TA
+Spirit Airlines,521,"Fort Lauderdale, FL (FLL)",Scheduled,6:00 AM,6:00 AM,Term B - 56
+TAM Brazilian Airlines,2073,"Miami, FL (MIA)",Scheduled,6:00 AM,,Term A - 35
+TAP Portugal,8626,"Baltimore, MD (BWI)",Arrived,10:40 PM,11:21 PM,Term C - C87
+United Airlines,100,"Denver, CO (DEN)",Scheduled,5:00 AM,5:00 AM,Term C - C73
+United Airlines,241,"Atlanta, GA (ATL)",Scheduled,6:35 AM,6:35 AM,Term C - C131
+United Airlines,510,"Seattle, WA (SEA)",Scheduled,6:00 AM,6:00 AM,Term C - C81
+United Airlines,581,"Phoenix, AZ (PHX)",Scheduled,7:05 AM,7:05 AM,Term C - C128
+United Airlines,1115,"Las Vegas, NV (LAS)",Scheduled,6:16 AM,6:16 AM,Term C - C107
+United Airlines,1161,"Houston, TX (IAH)",Scheduled,5:30 AM,5:30 AM,Term C - C75
+United Airlines,1168,"Washington, DC (IAD)",Scheduled,6:05 AM,6:05 AM,Term C - C109
+United Airlines,1290,"Fort Lauderdale, FL (FLL)",Scheduled,6:03 AM,6:03 AM,Term C - C94
+United Airlines,1406,"Raleigh/Durham, NC (RDU)",Cancelled,6:17 AM,,Term C
+United Airlines,1483,"San Francisco, CA (SFO)",Scheduled,6:00 AM,6:00 AM,Term C - C134
+United Airlines,1629,"Boston, MA (BOS)",Scheduled,6:35 AM,6:35 AM,Term C - C105
+United Airlines,1741,"Chicago, IL (ORD)",Scheduled,5:25 AM,5:25 AM,Term C - C72
+United Airlines,1747,"Savannah, GA (SAV)",Scheduled,6:50 AM,6:50 AM,Term C - C98
+United Airlines,1753,"Los Angeles, CA (LAX)",Scheduled,6:30 AM,6:30 AM,Term C - C137
+United Airlines,1784,"Orlando, FL (MCO)",Scheduled,6:50 AM,6:50 AM,Term C - C113
+United Airlines,1797,"Tampa, FL (TPA)",Scheduled,7:10 AM,7:10 AM,Term C - C111
+United Airlines,1848,"San Francisco, CA (SFO)",Scheduled,6:35 AM,6:35 AM,Term C - C102
+United Airlines,1912,"Dallas-Fort Worth, TX (DFW)",Scheduled,6:05 AM,6:05 AM,Term C - C88
+United Airlines,2001,"Chicago, IL (ORD)",Scheduled,6:35 AM,6:35 AM,Term C - C135
+United Airlines,2037,"Houston, TX (IAH)",Cancelled,6:35 AM,,Term C
+United Airlines,2041,"West Palm Beach, FL (PBI)",Scheduled,6:00 AM,6:00 AM,Term C - C97
+United Airlines,2415,"Portland, OR (PDX)",Scheduled,6:50 AM,6:50 AM,Term C - C103
+United Airlines,2915,"Stamford, CT (ZTF)",Scheduled,6:16 AM,,Term TN
+United Airlines,3415,"Cincinnati, OH (CVG)",Scheduled,6:05 AM,6:05 AM,Term C - C84
+United Airlines,3488,"Pittsburgh, PA (PIT)",Scheduled,6:10 AM,6:10 AM,Term C - C85
+United Airlines,3599,"Minneapolis, MN (MSP)",Scheduled,7:05 AM,7:05 AM,Term C - C115
+United Airlines,3623,"Kansas City, MO (MCI)",Scheduled,6:50 AM,6:50 AM,Term A - A22
+United Airlines,3672,"Baltimore, MD (BWI)",Arrived,10:40 PM,11:21 PM,Term C - C87
+United Airlines,3725,"Detroit, MI (DTW)",Scheduled,6:05 AM,6:05 AM,Term A - A24A
+United Airlines,3781,"Greensboro, NC (GSO)",Scheduled,6:05 AM,6:05 AM,Term A - A20A
+United Airlines,3811,"Memphis, TN (MEM)",Scheduled,6:30 AM,6:30 AM,Term A - A24
+United Airlines,4106,"Norfolk, VA (ORF)",Scheduled,6:00 AM,6:00 AM,Term A - A20
+United Airlines,4136,"Columbus, OH (CMH)",Scheduled,6:10 AM,6:10 AM,Term A - A27A
+United Airlines,4327,"Portland, ME (PWM)",Scheduled,6:00 AM,6:00 AM,Term A - A26X
+United Airlines,4393,"Washington, DC (DCA)",Scheduled,6:00 AM,6:00 AM,Term A - A26
+United Airlines,4921,"Ithaca, NY (ITH)",Arrived,8:40 PM,11:21 PM,Term C - C130V
+United Airlines,4931,"Albany, NY (ALB)",Departed,9:20 PM,1:00 AM,Term C - C130V
+United Airlines,8505,Toronto (YYZ),Scheduled,6:00 AM,,Term A - A11
+United Airlines,8507,Calgary (YYC),Scheduled,6:55 AM,,Term A - A12
+United Airlines,8567,Toronto (YYZ),In Air,9:35 PM,11:45 PM,Term A - A11
+Virgin Atlantic,4429,"Detroit, MI (DTW)",Scheduled,6:00 AM,6:00 AM,Term TB - 47
+Virgin Atlantic,4453,"Atlanta, GA (ATL)",Scheduled,6:00 AM,6:00 AM,Term TB - 41
+Virgin Atlantic,4469,"Minneapolis, MN (MSP)",Scheduled,6:15 AM,6:15 AM,Term TB - 40
+Wiggins Airways,8303,"Hartford, CT (BDL)",Scheduled,3:45 AM,3:45 AM,
+Wiggins Airways,8307,"Harrisburg, PA (MDT)",Scheduled,3:30 AM,3:30 AM,
+Wiggins Airways,8413,"Albany, NY (ALB)",Scheduled,3:08 AM,,
+United Airlines,2394,"San Diego, CA (SAN)",In Air,7:15 AM,7:07 AM,Term C - C95
+United Airlines,754,"Miami, FL (MIA)",In Air,7:20 AM,7:11 AM,Term B - B41
+AeroMexico,5399,"Atlanta, GA (ATL)",In Air,7:15 AM,7:12 AM,Term TB - 46
+Delta Air Lines,2389,"Atlanta, GA (ATL)",In Air,7:15 AM,7:12 AM,Term TB - 46
+Virgin Atlantic,4495,"Atlanta, GA (ATL)",In Air,7:15 AM,7:12 AM,Term TB - 46
+United Airlines,475,"Atlanta, GA (ATL)",In Air,7:20 AM,7:14 AM,Term C - C101
+FedEx Air,421,"Memphis, TN (MEM)",In Air,7:00 AM,7:15 AM,
+AeroMexico,4044,"Detroit, MI (DTW)",In Air,7:20 AM,7:17 AM,Term TB - 42
+Delta Air Lines,2392,"Detroit, MI (DTW)",In Air,7:20 AM,7:17 AM,Term TB - 42
+Jet Airways,8409,"Detroit, MI (DTW)",In Air,7:20 AM,7:17 AM,Term TB - 42
+United Airlines,699,"Fort Lauderdale, FL (FLL)",In Air,7:23 AM,7:17 AM,Term C - C82
+Virgin Atlantic,3134,"Detroit, MI (DTW)",In Air,7:20 AM,7:17 AM,Term TB - 42
+JetBlue Airways,1289,San Juan (SJU),In Air,7:24 AM,7:19 AM,Term TA - 16
+Alaska Airlines,1183,"San Francisco, CA (SFO)",In Air,7:30 AM,7:20 AM,Term A - A32
+China Eastern Airlines,8025,"San Francisco, CA (SFO)",In Air,7:30 AM,7:20 AM,Term A - A32
+China Southern Airlines,1963,"San Francisco, CA (SFO)",In Air,7:30 AM,7:20 AM,Term A - A32
+Singapore Airlines,1421,"San Francisco, CA (SFO)",In Air,7:30 AM,7:20 AM,Term A - A32
+Virgin America,183,"San Francisco, CA (SFO)",In Air,7:30 AM,7:20 AM,Term A - A32
+Copa Airlines,1358,"Manchester, NH (MHT)",Arrived,7:24 AM,7:21 AM,Term A - A28
+United Airlines,4847,"Manchester, NH (MHT)",Arrived,7:24 AM,7:21 AM,Term A - A28
+Air Canada,2783,"Portland, ME (PWM)",Arrived,7:35 AM,7:28 AM,Term A - A26
+Copa Airlines,1370,"Portland, ME (PWM)",Arrived,7:35 AM,7:28 AM,Term A - A26
+United Airlines,4977,"Portland, ME (PWM)",Arrived,7:35 AM,7:28 AM,Term A - A26
+United Airlines,1778,Vancouver (YVR),In Air,7:30 AM,7:31 AM,Term C - C70
+Air Canada,2896,Toronto (YYZ),In Air,7:25 AM,7:35 AM,Term A - A20A
+United Airlines,4199,Toronto (YYZ),In Air,7:25 AM,7:35 AM,Term A - A20A
+United Airlines,4870,"Providence, RI (PVD)",In Air,7:35 AM,7:35 AM,Term C - C130X
+Air New Zealand,9129,"San Francisco, CA (SFO)",In Air,7:50 AM,7:44 AM,Term C - C136
+Azul Airlines,7038,"San Francisco, CA (SFO)",In Air,7:50 AM,7:44 AM,Term C - C136
+United Airlines,2380,"San Francisco, CA (SFO)",In Air,7:50 AM,7:44 AM,Term C - C136
+United Airlines,3577,Montreal (YUL),In Air,7:45 AM,7:45 AM,Term C - C84
+United Airlines,4426,"Burlington, VT (BTV)",In Air,7:51 AM,7:45 AM,Term A - A20
+Wiggins Airways,8310,"Boston, MA (BOS)",No Takeoff Info - Call Airline,7:45 AM,7:45 AM,
+Wiggins Airways,8304,"Hartford, CT (BDL)",No Takeoff Info - Call Airline,7:45 AM,7:45 AM,
+Azul Airlines,7044,"Boston, MA (BOS)",In Air,7:35 AM,7:46 AM,Term C - C86
+United Airlines,1464,"Boston, MA (BOS)",In Air,7:35 AM,7:46 AM,Term C - C86
+United Airlines,508,"Houston, TX (IAH)",In Air,7:56 AM,7:46 AM,Term C - C73
+United Airlines,1048,Cancun (CUN),In Air,7:55 AM,7:47 AM,Term C - C132
+United Airlines,1486,"Cleveland, OH (CLE)",In Air,7:55 AM,7:48 AM,Term C - C127
+United Airlines,4893,"St Louis, MO (STL)",In Air,7:55 AM,7:48 AM,Term A - A25A
+Air Canada,3013,"Charleston, SC (CHS)",In Air,8:03 AM,7:52 AM,Term A - A24
+Porter Airlines,120,Toronto (YTZ),In Air,7:55 AM,7:52 AM,Term B - B51
+Southwest Airlines,931,"St Louis, MO (STL)",In Air,7:50 AM,7:52 AM,Term TA - A15
+United Airlines,3954,"Charleston, SC (CHS)",In Air,8:03 AM,7:52 AM,Term A - A24
+United Airlines,366,"Fort Myers, FL (RSW)",In Air,8:00 AM,7:53 AM,Term C - C112
+United Airlines,1939,"Orlando, FL (MCO)",In Air,8:00 AM,7:53 AM,Term C - C83
+Alaska Airlines,1161,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+China Airlines,9609,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+China Eastern Airlines,8057,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+FedEx Air,453,"Memphis, TN (MEM)",In Air,8:00 AM,7:58 AM,
+Hawaiian Airlines,2583,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+Singapore Airlines,1420,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+Virgin America,161,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+Virgin Australia,5267,"Los Angeles, CA (LAX)",In Air,8:00 AM,7:58 AM,Term A - A31
+Air New Zealand,9537,"Los Angeles, CA (LAX)",In Air,8:05 AM,8:00 AM,Term C - C80
+All Nippon Airways,7229,"Los Angeles, CA (LAX)",In Air,8:05 AM,8:00 AM,Term C - C80
+Asiana Airlines,6265,"Los Angeles, CA (LAX)",In Air,8:05 AM,8:00 AM,Term C - C80
+Azul Airlines,7040,"Los Angeles, CA (LAX)",In Air,8:05 AM,8:00 AM,Term C - C80
+United Airlines,703,"Los Angeles, CA (LAX)",In Air,8:05 AM,8:00 AM,Term C - C80
+United Airlines,4885,"Richmond, VA (RIC)",Departed,8:10 AM,8:00 AM,Term C - C130W
+American Airlines,885,"Charlotte, NC (CLT)",In Air,8:10 AM,8:01 AM,Term A - A36
+Air New Zealand,9123,"San Francisco, CA (SFO)",In Air,8:05 AM,8:03 AM,Term C - C121
+All Nippon Airways,7007,"San Francisco, CA (SFO)",In Air,8:05 AM,8:03 AM,Term C - C121
+Azul Airlines,7036,"San Francisco, CA (SFO)",In Air,8:05 AM,8:03 AM,Term C - C121
+United Airlines,497,"San Francisco, CA (SFO)",In Air,8:05 AM,8:03 AM,Term C - C121
+United Airlines,4160,"Buffalo, NY (BUF)",Departed,8:04 AM,8:07 AM,Term A - A22
+United Airlines,3602,"Fayetteville/Springdale/, AR (XNA)",In Air,8:14 AM,8:07 AM,Term C - C87
+United Airlines,4116,"Washington, DC (DCA)",In Air,8:15 AM,8:08 AM,Term A - A26X
+United Airlines,282,"Denver, CO (DEN)",Departed,7:59 AM,8:14 AM,Term C - C96
+Air Canada,3161,"Greenville, SC (GSP)",In Air,8:25 AM,8:15 AM,Term A - A25
+Mountain Air Cargo,8313,"Washington, DC (IAD)",Scheduled,8:15 AM,8:15 AM,
+United Airlines,3556,"Cincinnati, OH (CVG)",Departed,8:20 AM,8:15 AM,Term C - C99
+United Airlines,4279,"Greenville, SC (GSP)",In Air,8:25 AM,8:15 AM,Term A - A25
+El Al Israel Airlines,8765,"Fort Lauderdale, FL (FLL)",Departed,8:19 AM,8:16 AM,Term TA - 18
+JetBlue Airways,5,"Fort Lauderdale, FL (FLL)",Departed,8:19 AM,8:16 AM,Term TA - 18
+United Airlines,3890,"Syracuse, NY (SYR)",Departed,8:25 AM,8:20 AM,Term A - A27
+Air Canada,2262,San Juan (SJU),Departed,8:25 AM,8:21 AM,Term C - C74
+Scandinavian Airlines,6894,San Juan (SJU),Departed,8:25 AM,8:21 AM,Term C - C74
+United Airlines,1523,San Juan (SJU),Departed,8:25 AM,8:21 AM,Term C - C74
+Air Canada,2883,"Memphis, TN (MEM)",Departed,8:26 AM,8:22 AM,Term C - C85
+United Airlines,3615,"Memphis, TN (MEM)",Departed,8:26 AM,8:22 AM,Term C - C85
+United Airlines,4292,Halifax (YHZ),Departed,8:27 AM,8:22 AM,Term A - A26A
+Delta Air Lines,1993,"Minneapolis, MN (MSP)",Departed,8:30 AM,8:23 AM,Term TB - 45
+Jet Airways,8410,"Minneapolis, MN (MSP)",Departed,8:30 AM,8:23 AM,Term TB - 45
+Virgin Atlantic,4477,"Minneapolis, MN (MSP)",Departed,8:30 AM,8:23 AM,Term TB - 45
+United Airlines,3589,"Omaha, NE (OMA)",Departed,8:30 AM,8:24 AM,Term C - C115
+Air Canada,2488,London (LHR),Departed,8:35 AM,8:27 AM,Term C - C108
+Austrian Airlines,7792,London (LHR),Departed,8:35 AM,8:27 AM,Term C - C108
+Lufthansa,7624,London (LHR),Departed,8:35 AM,8:27 AM,Term C - C108
+United Airlines,934,London (LHR),Departed,8:35 AM,8:27 AM,Term C - C108
+Air Canada,5953,"Chicago, IL (ORD)",Departed,8:30 AM,8:28 AM,Term C - C125
+Air Canada,5944,"Myrtle Beach, SC (MYR)",Departed,8:37 AM,8:28 AM,Term C - C135
+All Nippon Airways,7469,"Chicago, IL (ORD)",Departed,8:30 AM,8:28 AM,Term C - C125
+Scandinavian Airlines,6882,"Chicago, IL (ORD)",Departed,8:30 AM,8:28 AM,Term C - C125
+United Airlines,977,"Chicago, IL (ORD)",Departed,8:30 AM,8:28 AM,Term C - C125
+United Airlines,574,"Myrtle Beach, SC (MYR)",Departed,8:37 AM,8:28 AM,Term C - C135
+Air Canada,3220,"Norfolk, VA (ORF)",Departed,8:39 AM,8:30 AM,Term A - A26
+Scandinavian Airlines,6868,"Austin, TX (AUS)",Departed,8:30 AM,8:30 AM,Term C - C105
+United Airlines,1692,"Austin, TX (AUS)",Departed,8:30 AM,8:30 AM,Term C - C105
+United Airlines,4277,"Norfolk, VA (ORF)",Departed,8:39 AM,8:30 AM,Term A - A26
+Air Canada,7651,Toronto (YYZ),Departed,8:35 AM,8:32 AM,Term A - A12
+United Airlines,8563,Toronto (YYZ),Departed,8:35 AM,8:32 AM,Term A - A12
+United Airlines,1549,"Nashville, TN (BNA)",Departed,8:40 AM,8:32 AM,Term C - C97
+United Airlines,3884,"Dayton, OH (DAY)",Departed,8:26 AM,8:33 AM,Term A - A24A
+El Al Israel Airlines,8763,"Boston, MA (BOS)",Scheduled,8:34 AM,8:34 AM,Term TA - 16A
+Japan Airlines,5479,"Boston, MA (BOS)",Scheduled,8:34 AM,8:34 AM,Term TA - 16A
+JetBlue Airways,2280,"Boston, MA (BOS)",Scheduled,8:34 AM,8:34 AM,Term TA - 16A
+United Airlines,1063,Mexico City (MEX),Departed,8:35 AM,8:34 AM,Term C - C102
+United Airlines,4958,"Rochester, NY (ROC)",Scheduled,8:35 AM,8:35 AM,Term C - C130Z
+United Airlines,4915,"Albany, NY (ALB)",Scheduled,8:35 AM,8:35 AM,Term C - C130Y
+United Airlines,4172,"Grand Rapids, MI (GRR)",Delayed,8:20 AM,8:40 AM,Term A - A23A
+Mountain Air Cargo,8311,"Baltimore, MD (BWI)",Scheduled,8:45 AM,8:45 AM,
+United Airlines,3423,"Minneapolis, MN (MSP)",Scheduled,8:45 AM,8:45 AM,Term C - C82
+United Airlines,3430,"Raleigh/Durham, NC (RDU)",Scheduled,8:45 AM,8:45 AM,Term C - C70
+United Airlines,3487,"Charlotte, NC (CLT)",Scheduled,8:45 AM,8:45 AM,Term C - C88
+W8,245,St George (BDA),Scheduled,8:45 AM,8:45 AM,
+United Parcel Service,235,London (STN),Scheduled,8:49 AM,8:49 AM,
+Air Canada,2422,Aruba (AUA),Scheduled,8:50 AM,8:50 AM,Term C - C107
+United Airlines,1040,Aruba (AUA),Scheduled,8:50 AM,8:50 AM,Term C - C107
+Porter Airlines,122,Toronto (YTZ),Scheduled,8:55 AM,8:55 AM,Term B - B51
+United Airlines,1627,Montego Bay (MBJ),Delayed,8:35 AM,8:55 AM,Term C - C134
+United Airlines,1514,Punta Cana (PUJ),Scheduled,8:55 AM,8:55 AM,Term C - C72
+United Airlines,3807,"Hartford, CT (BDL)",Scheduled,8:55 AM,8:55 AM,Term A - A20
+United Airlines,4059,"Milwaukee, WI (MKE)",Scheduled,8:55 AM,8:55 AM,Term A - A23
+United Airlines,4348,"St Louis, MO (STL)",Scheduled,8:55 AM,8:55 AM,Term A - A24
+United Airlines,1470,Santo Domingo (SDQ),Scheduled,8:59 AM,8:59 AM,Term C - C113
+Air Canada,5667,"New Orleans, LA (MSY)",Delayed,8:25 AM,9:00 AM,Term C - C109
+Air New Zealand,9126,"San Francisco, CA (SFO)",Scheduled,9:00 AM,9:00 AM,Term C - C110
+American Airlines,1134,"Dallas-Fort Worth, TX (DFW)",Scheduled,9:00 AM,9:00 AM,Term A - 35
+Asiana Airlines,9524,"San Francisco, CA (SFO)",Scheduled,9:00 AM,9:00 AM,Term C - C110
+Azul Airlines,7046,"Las Vegas, NV (LAS)",Delayed,8:42 AM,9:00 AM,Term C - C137
+FedEx Air,649,"Memphis, TN (MEM)",Scheduled,9:00 AM,9:00 AM,
+Scandinavian Airlines,6856,"New Orleans, LA (MSY)",Delayed,8:25 AM,9:00 AM,Term C - C109
+United Airlines,1776,"New Orleans, LA (MSY)",Delayed,8:25 AM,9:00 AM,Term C - C109
+United Airlines,1909,"Las Vegas, NV (LAS)",Delayed,8:42 AM,9:00 AM,Term C - C137
+United Airlines,637,"San Francisco, CA (SFO)",Scheduled,9:00 AM,9:00 AM,Term C - C110
+Air France,2722,"Cincinnati, OH (CVG)",Scheduled,9:02 AM,9:02 AM,Term TB - 47
+Delta Air Lines,6222,"Cincinnati, OH (CVG)",Scheduled,9:02 AM,9:02 AM,Term TB - 47
+JetBlue Airways,893,Santiago (STI),Scheduled,9:02 AM,9:02 AM,Term TA - 17
+Air Canada,5530,"Knoxville, TN (TYS)",Scheduled,9:05 AM,9:05 AM,Term C - C103
+Air New Zealand,9530,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,9:05 AM,Term C - C75
+Azul Airlines,7042,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,9:05 AM,Term C - C75
+United Airlines,1241,"Los Angeles, CA (LAX)",Scheduled,9:05 AM,9:05 AM,Term C - C75
+United Airlines,1465,Providenciales (PLS),Scheduled,9:05 AM,9:05 AM,Term C - C131
+United Airlines,2406,"Knoxville, TN (TYS)",Scheduled,9:05 AM,9:05 AM,Term C - C103
+Air Canada,3171,"Louisville, KY (SDF)",Scheduled,9:10 AM,9:10 AM,Term A - A28
+United Airlines,4010,"Louisville, KY (SDF)",Scheduled,9:10 AM,9:10 AM,Term A - A28
+AeroMexico,5124,"Atlanta, GA (ATL)",Delayed,8:30 AM,9:15 AM,Term TB - 44
+Air Canada,2876,"Jacksonville, FL (JAX)",Scheduled,9:15 AM,9:15 AM,Term C - C84
+Delta Air Lines,537,"Atlanta, GA (ATL)",Delayed,8:30 AM,9:15 AM,Term TB - 44
+United Airlines,3436,"Jacksonville, FL (JAX)",Scheduled,9:15 AM,9:15 AM,Term C - C84
+Virgin Atlantic,4499,"Atlanta, GA (ATL)",Delayed,8:30 AM,9:15 AM,Term TB - 44
+United Airlines,1050,Cancun (CUN),Scheduled,9:20 AM,9:20 AM,Term C - C128
+United Airlines,1926,"Atlanta, GA (ATL)",Scheduled,9:30 AM,9:30 AM,Term C - C80
+United Airlines,3767,"Columbus, OH (CMH)",Scheduled,9:30 AM,9:30 AM,Term A - A21
+Alaska Airlines,791,"Seattle, WA (SEA)",Scheduled,9:35 AM,9:35 AM,Term A - A30
+Korean Air,6271,"Seattle, WA (SEA)",Scheduled,9:35 AM,9:35 AM,Term A - A30
+AeroMexico,5039,"Atlanta, GA (ATL)",Scheduled,9:40 AM,9:40 AM,Term TB - 46B
+Delta Air Lines,1089,"Atlanta, GA (ATL)",Scheduled,9:40 AM,9:40 AM,Term TB - 46B
+United Airlines,732,"Orlando, FL (MCO)",Scheduled,9:40 AM,9:40 AM,Term C - C133
+United Airlines,3425,"Pittsburgh, PA (PIT)",Scheduled,9:40 AM,9:40 AM,Term A - A25A
+United Airlines,4458,"Indianapolis, IN (IND)",Scheduled,9:40 AM,9:40 AM,Term A - A22
+Virgin Atlantic,4459,"Atlanta, GA (ATL)",Scheduled,9:40 AM,9:40 AM,Term TB - 46B
+Air China,7361,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,9:45 AM,Term C - C120
+Air New Zealand,9543,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,9:45 AM,Term C - C120
+United Airlines,1456,"Los Angeles, CA (LAX)",Scheduled,9:45 AM,9:45 AM,Term C - C120
+El Al Israel Airlines,8774,"Tampa, FL (TPA)",Scheduled,9:50 AM,9:50 AM,Term TA - 16
+JetBlue Airways,573,"Tampa, FL (TPA)",Scheduled,9:50 AM,9:50 AM,Term TA - 16
+United Airlines,1606,"Orange County, CA (SNA)",Scheduled,9:50 AM,9:50 AM,Term B - B41
+United Airlines,3493,"Kansas City, MO (MCI)",Scheduled,9:50 AM,9:50 AM,Term C - C99
+United Airlines,4110,"Traverse City, MI (TVC)",Scheduled,9:55 AM,9:55 AM,Term A - A23A
+United Airlines,4916,"Baltimore, MD (BWI)",Scheduled,9:55 AM,9:55 AM,Term C - C130V
+El Al Israel Airlines,8766,"Orlando, FL (MCO)",Scheduled,9:57 AM,9:57 AM,Term TA - 18
+JetBlue Airways,1827,"Orlando, FL (MCO)",Scheduled,9:57 AM,9:57 AM,Term TA - 18
+Allegiant Air,1349,"Cincinnati, OH (CVG)",Scheduled,10:00 AM,10:00 AM,Term B - B56
+United Airlines,1480,Nassau (NAS),Scheduled,10:00 AM,10:00 AM,Term C - C101
+United Airlines,3635,"Charlotte, NC (CLT)",Scheduled,10:00 AM,10:00 AM,Term C - C85
+United Airlines,3750,"Raleigh/Durham, NC (RDU)",Scheduled,10:00 AM,10:00 AM,Term C - C115
+United Airlines,4837,"Buffalo, NY (BUF)",Scheduled,10:00 AM,10:00 AM,Term A - A20A
+United Airlines,3419,"Detroit, MI (DTW)",Scheduled,10:03 AM,10:03 AM,Term C - C87
+United Airlines,4414,"Madison, WI (MSN)",Scheduled,10:04 AM,10:04 AM,Term A - A26X
+Air Canada,5206,"Chicago, IL (ORD)",Scheduled,10:05 AM,10:05 AM,Term C - C136
+Scandinavian Airlines,6862,"Chicago, IL (ORD)",Scheduled,10:05 AM,10:05 AM,Term C - C136
+United Airlines,1818,"Chicago, IL (ORD)",Scheduled,10:05 AM,10:05 AM,Term C - C136
+United Airlines,1586,Punta Cana (PUJ),Scheduled,10:06 AM,10:06 AM,Term C - C83
+Air Canada,3521,Quebec (YQB),Scheduled,10:10 AM,10:10 AM,Term A - A25
+Porter Airlines,124,Toronto (YTZ),Scheduled,10:10 AM,10:10 AM,Term B - B51
+Scandinavian Airlines,6895,Quebec (YQB),Scheduled,10:10 AM,10:10 AM,Term A - A25
+United Airlines,4431,Quebec (YQB),Scheduled,10:10 AM,10:10 AM,Term A - A25
+United Airlines,1624,Santiago (STI),Scheduled,10:02 AM,10:13 AM,Term C - C105
+Air Canada,2424,Aruba (AUA),Scheduled,10:15 AM,10:15 AM,Term C - C86
+Spirit Airlines,149,"Orlando, FL (MCO)",Scheduled,10:15 AM,10:15 AM,Term B - 41B
+United Airlines,1042,Aruba (AUA),Scheduled,10:15 AM,10:15 AM,Term C - C86
+China Southern Airlines,1057,"Detroit, MI (DTW)",Delayed,9:33 AM,10:18 AM,Term TB - 45
+Delta Air Lines,4658,"Detroit, MI (DTW)",Delayed,9:33 AM,10:18 AM,Term TB - 45
+Virgin Atlantic,4407,"Detroit, MI (DTW)",Delayed,9:33 AM,10:18 AM,Term TB - 45
+United Airlines,1577,"Boston, MA (BOS)",Scheduled,10:20 AM,10:20 AM,Term C - C132
+United Airlines,1502,Havana (HAV),Scheduled,10:23 AM,10:23 AM,Term C - C95
+Avianca,2233,"Washington, DC (IAD)",Scheduled,10:25 AM,10:25 AM,Term C - C127
+United Airlines,1494,"Washington, DC (IAD)",Scheduled,10:25 AM,10:25 AM,Term C - C127
+United Airlines,3518,"Minneapolis, MN (MSP)",Scheduled,10:25 AM,10:25 AM,Term C - C114
+United Airlines,4022,"Cleveland, OH (CLE)",Scheduled,10:25 AM,10:25 AM,Term A - A20
+United Airlines,1262,"Denver, CO (DEN)",Scheduled,10:26 AM,10:26 AM,Term C - C81
+United Airlines,1052,Cancun (CUN),Scheduled,10:30 AM,10:30 AM,Term C - C121
+United Airlines,1849,"Atlanta, GA (ATL)",Scheduled,10:40 AM,10:40 AM,Term C - C107
+Air Canada,3164,Halifax (YHZ),Scheduled,10:42 AM,10:42 AM,Term A - A26
+United Airlines,4096,Halifax (YHZ),Scheduled,10:42 AM,10:42 AM,Term A - A26
+Azul Airlines,7048,"Las Vegas, NV (LAS)",Scheduled,10:44 AM,10:44 AM,Term B - B40
+United Airlines,1179,"Las Vegas, NV (LAS)",Scheduled,10:44 AM,10:44 AM,Term B - B40
+Air China,7216,Shanghai (PVG),Scheduled,10:45 AM,10:45 AM,Term C - C138
+United Airlines,86,Shanghai (PVG),Scheduled,10:45 AM,10:45 AM,Term C - C138
+United Airlines,3464,"Dallas-Fort Worth, TX (DFW)",Scheduled,10:50 AM,10:50 AM,Term C - C115
+Air Canada,2779,"Jacksonville, FL (JAX)",Scheduled,10:55 AM,10:55 AM,Term A - A26A
+Scandinavian Airlines,6806,"Jacksonville, FL (JAX)",Scheduled,10:55 AM,10:55 AM,Term A - A26A
+United Airlines,4005,"Bangor, ME (BGR)",Scheduled,10:55 AM,10:55 AM,Term A - A28
+United Airlines,4850,"Jacksonville, FL (JAX)",Scheduled,10:55 AM,10:55 AM,Term A - A26A
+Air New Zealand,6597,"Houston, TX (IAH)",Scheduled,10:59 AM,10:59 AM,Term C - C70
+United Airlines,663,"Houston, TX (IAH)",Scheduled,10:59 AM,10:59 AM,Term C - C70
+AeroMexico,5693,"Atlanta, GA (ATL)",Scheduled,11:00 AM,11:00 AM,Term TB - 42
+Air China,7378,"Honolulu, HI (HNL)",Delayed,8:40 AM,11:00 AM,Term C - C90
+Air New Zealand,9124,"San Francisco, CA (SFO)",Scheduled,11:00 AM,11:00 AM,Term C - C92
+Delta Air Lines,2343,"Atlanta, GA (ATL)",Scheduled,11:00 AM,11:00 AM,Term TB - 42
+KLM Royal Dutch Airlines,6209,"Atlanta, GA (ATL)",Scheduled,11:00 AM,11:00 AM,Term TB - 42
+United Airlines,61,"Honolulu, HI (HNL)",Delayed,8:40 AM,11:00 AM,Term C - C90
+United Airlines,912,"San Francisco, CA (SFO)",Scheduled,11:00 AM,11:00 AM,Term C - C92
+Virgin Atlantic,2183,"Atlanta, GA (ATL)",Scheduled,11:00 AM,11:00 AM,Term TB - 42
+United Airlines,4923,"Burlington, VT (BTV)",Scheduled,11:02 AM,11:02 AM,Term A - A24
+Alaska Airlines,4247,"Chicago, IL (ORD)",Scheduled,11:05 AM,11:05 AM,Term A - A39
+American Airlines,3033,"Chicago, IL (ORD)",Scheduled,11:05 AM,11:05 AM,Term A - A39
+All Nippon Airways,6453,Tokyo (NRT),Scheduled,11:10 AM,11:10 AM,Term C - C123
+China Southern Airlines,1238,"Detroit, MI (DTW)",Scheduled,11:10 AM,11:10 AM,Term TB - 44
+Delta Air Lines,3322,"Detroit, MI (DTW)",Scheduled,11:10 AM,11:10 AM,Term TB - 44
+Porter Airlines,126,Toronto (YTZ),Scheduled,11:10 AM,11:10 AM,Term B - B51
+United Airlines,79,Tokyo (NRT),Scheduled,11:10 AM,11:10 AM,Term C - C123
+United Airlines,1449,Montego Bay (MBJ),Scheduled,11:10 AM,11:10 AM,Term C - C111
+United Airlines,3431,"Raleigh/Durham, NC (RDU)",Scheduled,11:10 AM,11:10 AM,Term A - A24A
+Virgin Atlantic,4523,"Detroit, MI (DTW)",Scheduled,11:10 AM,11:10 AM,Term TB - 44
+United Airlines,4917,"Ithaca, NY (ITH)",Scheduled,11:14 AM,11:14 AM,Term C - C130Y
+NetJets,386,"Marquette, MI (MQT)",Scheduled,11:15 AM,11:15 AM,
+JetBlue Airways,2380,"Boston, MA (BOS)",Scheduled,11:16 AM,11:16 AM,Term TA - 16A
+TAP Portugal,8012,"Boston, MA (BOS)",Scheduled,11:16 AM,11:16 AM,Term TA - 16A
+United Airlines,832,"Fort Lauderdale, FL (FLL)",Scheduled,11:23 AM,11:23 AM,Term C - C103
+United Airlines,4810,"Indianapolis, IN (IND)",Scheduled,11:24 AM,11:24 AM,Term A - A25
+Delta Air Lines,2537,"Minneapolis, MN (MSP)",Scheduled,11:25 AM,11:25 AM,Term TB - 46
+United Airlines,1527,"Orlando, FL (MCO)",Scheduled,11:25 AM,11:25 AM,Term C - C134
+United Airlines,4082,"Chattanooga, TN (CHA)",Scheduled,11:25 AM,11:25 AM,Term A - A27A
+Scandinavian Airlines,6892,"Tampa, FL (TPA)",Scheduled,11:30 AM,11:30 AM,Term C - C94
+United Airlines,1890,"Tampa, FL (TPA)",Scheduled,11:30 AM,11:30 AM,Term C - C94
+United Airlines,3745,"Charlotte, NC (CLT)",Scheduled,11:30 AM,11:30 AM,Term C - C86
+Air Canada,3002,"Portland, ME (PWM)",Scheduled,11:35 AM,11:35 AM,Term A - A27
+United Airlines,3758,"Detroit, MI (DTW)",Scheduled,11:35 AM,11:35 AM,Term C - C114
+United Airlines,4085,"Portland, ME (PWM)",Scheduled,11:35 AM,11:35 AM,Term A - A27
+United Airlines,4911,"Syracuse, NY (SYR)",Scheduled,11:40 AM,11:40 AM,Term C - C130X
+JetBlue Airways,327,"Orlando, FL (MCO)",Scheduled,11:43 AM,11:43 AM,Term TA - 17
+Air China,7214,Beijing (PEK),Scheduled,11:45 AM,11:45 AM,Term C - C102
+United Airlines,89,Beijing (PEK),Scheduled,11:45 AM,11:45 AM,Term C - C102
+United Airlines,3815,"Columbus, OH (CMH)",Scheduled,11:45 AM,11:45 AM,Term A - A23
+Air New Zealand,6598,"Houston, TX (IAH)",Scheduled,11:50 AM,11:50 AM,Term C - C135
+United Airlines,1419,St George (BDA),Scheduled,11:50 AM,11:50 AM,Term C - C74
+United Airlines,1534,"Houston, TX (IAH)",Scheduled,11:50 AM,11:50 AM,Term C - C135
+Air Canada,5298,"Charleston, SC (CHS)",Scheduled,11:55 AM,11:55 AM,Term C - C101
+United Airlines,3426,"Pittsburgh, PA (PIT)",Scheduled,11:55 AM,11:55 AM,Term C - C84
+United Airlines,4041,"Richmond, VA (RIC)",Scheduled,11:55 AM,11:55 AM,Term A - A26X
+United Airlines,1191,"Charleston, SC (CHS)",Scheduled,11:55 AM,11:55 AM,Term C - C101
+Air New Zealand,9539,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,12:00 PM,Term C - C73
+Spirit Airlines,523,"Fort Lauderdale, FL (FLL)",Scheduled,12:00 PM,12:00 PM,Term B - 41B
+United Airlines,1093,"Los Angeles, CA (LAX)",Scheduled,12:00 PM,12:00 PM,Term C - C73
+United Airlines,4034,"Grand Rapids, MI (GRR)",Scheduled,12:00 PM,12:00 PM,Term A - A26
+United Airlines,1505,"Denver, CO (DEN)",Scheduled,12:05 PM,12:05 PM,Term C - C105
+Air China,7419,"Boston, MA (BOS)",Scheduled,12:08 PM,12:08 PM,Term C - C96
+United Airlines,1422,"Boston, MA (BOS)",Scheduled,12:08 PM,12:08 PM,Term C - C96
+Porter Airlines,128,Toronto (YTZ),Scheduled,12:10 PM,12:10 PM,Term B - B51
+United Airlines,4261,Toronto (YYZ),Scheduled,12:10 PM,12:10 PM,Term A - A20A
+Air Canada,5939,"Chicago, IL (ORD)",Scheduled,12:20 PM,12:20 PM,Term C - C72
+Air China,7425,"Chicago, IL (ORD)",Scheduled,12:20 PM,12:20 PM,Term C - C72
+Air China,7423,"Las Vegas, NV (LAS)",Scheduled,12:20 PM,12:20 PM,Term B - B41
+Air China,7441,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term C - C87
+United Airlines,755,"Chicago, IL (ORD)",Scheduled,12:20 PM,12:20 PM,Term C - C72
+United Airlines,1533,"Las Vegas, NV (LAS)",Scheduled,12:20 PM,12:20 PM,Term B - B41
+United Airlines,3601,"Raleigh/Durham, NC (RDU)",Scheduled,12:20 PM,12:20 PM,Term C - C87
+Air Canada,3447,"Norfolk, VA (ORF)",Scheduled,12:25 PM,12:25 PM,Term A - A25
+United Airlines,3794,"Norfolk, VA (ORF)",Scheduled,12:25 PM,12:25 PM,Term A - A25
+United Airlines,3892,"Rochester, NY (ROC)",Scheduled,12:25 PM,12:25 PM,Term A - A24
+Air China,7445,"Charlotte, NC (CLT)",Scheduled,12:27 PM,12:27 PM,Term C - C107
+Scandinavian Airlines,6836,"Charlotte, NC (CLT)",Scheduled,12:27 PM,12:27 PM,Term C - C107
+United Airlines,1642,"Charlotte, NC (CLT)",Scheduled,12:27 PM,12:27 PM,Term C - C107
+Air China,7431,"Tampa, FL (TPA)",Scheduled,12:33 PM,12:33 PM,Term C - C137
+United Airlines,1783,"Tampa, FL (TPA)",Scheduled,12:33 PM,12:33 PM,Term C - C137
+AeroMexico,5170,"Atlanta, GA (ATL)",Scheduled,12:35 PM,12:35 PM,Term TB - 45
+Air France,2843,"Atlanta, GA (ATL)",Scheduled,12:35 PM,12:35 PM,Term TB - 45
+Delta Air Lines,1920,"Atlanta, GA (ATL)",Scheduled,12:35 PM,12:35 PM,Term TB - 45
+Virgin Atlantic,4451,"Atlanta, GA (ATL)",Scheduled,12:35 PM,12:35 PM,Term TB - 45
+Air New Zealand,9131,"San Francisco, CA (SFO)",Scheduled,12:40 PM,12:40 PM,Term C - C75
+United Airlines,1878,"San Francisco, CA (SFO)",Scheduled,12:40 PM,12:40 PM,Term C - C75
+United Airlines,4042,"Nashville, TN (BNA)",Scheduled,12:44 PM,12:44 PM,Term A - A22
+RPN,531,"Minneapolis, MN (MSP)",Scheduled,12:54 PM,12:54 PM,
+Air China,7421,"Orlando, FL (MCO)",Scheduled,1:00 PM,1:00 PM,Term C - C83
+Delta Air Lines,6193,"Detroit, MI (DTW)",Scheduled,1:00 PM,1:00 PM,Term TB - 44
+KLM Royal Dutch Airlines,7843,"Detroit, MI (DTW)",Scheduled,1:00 PM,1:00 PM,Term TB - 44
+Lufthansa,8731,"Orlando, FL (MCO)",Scheduled,1:00 PM,1:00 PM,Term C - C83
+United Airlines,1877,"Orange County, CA (SNA)",Scheduled,1:00 PM,1:00 PM,Term C - C112
+United Airlines,380,"Orlando, FL (MCO)",Scheduled,1:00 PM,1:00 PM,Term C - C83
+United Airlines,1298,"Seattle, WA (SEA)",Scheduled,1:00 PM,1:00 PM,Term B - B40
+Virgin Atlantic,4511,"Detroit, MI (DTW)",Scheduled,1:00 PM,1:00 PM,Term TB - 44
+United Airlines,4257,"Washington, DC (DCA)",Scheduled,1:05 PM,1:05 PM,Term A - A23A
+United Airlines,4804,"Burlington, VT (BTV)",Scheduled,1:05 PM,1:05 PM,Term A - A20
+Porter Airlines,130,Toronto (YTZ),Scheduled,1:10 PM,1:10 PM,Term B - B51
+Lufthansa,9332,"Syracuse, NY (SYR)",Scheduled,1:11 PM,1:11 PM,Term C - C130V
+United Airlines,4938,"Syracuse, NY (SYR)",Scheduled,1:11 PM,1:11 PM,Term C - C130V
+Air China,7429,"Miami, FL (MIA)",Scheduled,1:15 PM,1:15 PM,Term C - C103
+Lufthansa,7972,"Miami, FL (MIA)",Scheduled,1:15 PM,1:15 PM,Term C - C103
+United Airlines,1579,"Miami, FL (MIA)",Scheduled,1:15 PM,1:15 PM,Term C - C103
+JetBlue Airways,1527,"Orlando, FL (MCO)",Scheduled,1:19 PM,1:19 PM,Term TA - 18
+JetBlue Airways,2480,"Boston, MA (BOS)",Scheduled,1:20 PM,1:20 PM,Term TA - 16A
+United Airlines,4947,"Wilkes-Barre/Scranton, PA (AVP)",Scheduled,1:23 PM,1:23 PM,Term C - C130Z
+Air China,7443,"Buffalo, NY (BUF)",Scheduled,1:25 PM,1:25 PM,Term A - A21
+Lufthansa,8563,"Buffalo, NY (BUF)",Scheduled,1:25 PM,1:25 PM,Term A - A21
+United Airlines,4212,"Buffalo, NY (BUF)",Scheduled,1:25 PM,1:25 PM,Term A - A21
+Air Canada,2310,"West Palm Beach, FL (PBI)",Scheduled,1:30 PM,1:30 PM,Term C - C86
+Air China,7447,"West Palm Beach, FL (PBI)",Scheduled,1:30 PM,1:30 PM,Term C - C86
+Air China,7435,"Detroit, MI (DTW)",Scheduled,1:30 PM,1:30 PM,Term C - C84
+El Al Israel Airlines,28,Tel Aviv (TLV),Scheduled,1:30 PM,1:30 PM,Term TB - 62
+Lufthansa,7585,"West Palm Beach, FL (PBI)",Scheduled,1:30 PM,1:30 PM,Term C - C86
+Lufthansa,7512,"Raleigh/Durham, NC (RDU)",Scheduled,1:30 PM,1:30 PM,Term C - C74
+Lufthansa,7818,"Cincinnati, OH (CVG)",Scheduled,1:30 PM,1:30 PM,Term C - C85
+United Airlines,343,"West Palm Beach, FL (PBI)",Scheduled,1:30 PM,1:30 PM,Term C - C86
+United Airlines,425,"Raleigh/Durham, NC (RDU)",Scheduled,1:30 PM,1:30 PM,Term C - C74
+United Airlines,3551,"Cincinnati, OH (CVG)",Scheduled,1:30 PM,1:30 PM,Term C - C85
+United Airlines,3723,"Detroit, MI (DTW)",Scheduled,1:30 PM,1:30 PM,Term C - C84
+United Airlines,4063,"Providence, RI (PVD)",Scheduled,1:30 PM,1:30 PM,Term A - A26X
+United Airlines,3862,"Albany, NY (ALB)",Scheduled,1:35 PM,1:35 PM,Term A - A23
+Air Canada,3392,Quebec (YQB),Scheduled,1:40 PM,1:40 PM,Term A - A24
+Spirit Airlines,791,"Myrtle Beach, SC (MYR)",Scheduled,1:40 PM,1:40 PM,Term B - 41B
+United Airlines,4233,Quebec (YQB),Scheduled,1:40 PM,1:40 PM,Term A - A24
+Air Canada,2947,"Greenville, SC (GSP)",Scheduled,1:45 PM,1:45 PM,Term A - A20A
+Air China,7433,"Columbus, OH (CMH)",Scheduled,1:45 PM,1:45 PM,Term A - A26
+Air New Zealand,9127,"San Francisco, CA (SFO)",Scheduled,1:45 PM,1:45 PM,Term C - C136
+Lufthansa,7676,"Columbus, OH (CMH)",Scheduled,1:45 PM,1:45 PM,Term A - A26
+Lufthansa,7862,"Greenville, SC (GSP)",Scheduled,1:45 PM,1:45 PM,Term A - A20A
+United Airlines,4228,"Columbus, OH (CMH)",Scheduled,1:45 PM,1:45 PM,Term A - A26
+United Airlines,1978,"San Francisco, CA (SFO)",Scheduled,1:45 PM,1:45 PM,Term C - C136
+United Airlines,4026,"Greenville, SC (GSP)",Scheduled,1:45 PM,1:45 PM,Term A - A20A
+United Airlines,1275,"Dallas-Fort Worth, TX (DFW)",Scheduled,1:47 PM,1:47 PM,Term C - C72
+Lufthansa,7774,"Tampa, FL (TPA)",Scheduled,1:50 PM,1:50 PM,Term C - C80
+Lufthansa,9022,"Rochester, NY (ROC)",Scheduled,1:50 PM,1:50 PM,Term A - A28
+United Airlines,1991,"Tampa, FL (TPA)",Scheduled,1:50 PM,1:50 PM,Term C - C80
+United Airlines,3808,"Rochester, NY (ROC)",Scheduled,1:50 PM,1:50 PM,Term A - A28
+AeroMexico,4367,"Atlanta, GA (ATL)",Scheduled,2:00 PM,2:00 PM,Term TB - 46B
+Delta Air Lines,673,"Atlanta, GA (ATL)",Scheduled,2:00 PM,2:00 PM,Term TB - 46B
+Jet Airways,8407,"Atlanta, GA (ATL)",Scheduled,2:00 PM,2:00 PM,Term TB - 46B
+KLM Royal Dutch Airlines,7235,"Atlanta, GA (ATL)",Scheduled,2:00 PM,2:00 PM,Term TB - 46B
+South African Airways,7415,"Washington, DC (IAD)",Scheduled,2:00 PM,2:00 PM,Term A - A26A
+United Airlines,4963,"Washington, DC (IAD)",Scheduled,2:00 PM,2:00 PM,Term A - A26A
+Virgin Atlantic,4447,"Atlanta, GA (ATL)",Scheduled,2:00 PM,2:00 PM,Term TB - 46B
+Air China,7449,"Atlanta, GA (ATL)",Scheduled,2:05 PM,2:05 PM,Term C - C95
+United Airlines,1970,"Atlanta, GA (ATL)",Scheduled,2:05 PM,2:05 PM,Term C - C95
+United Airlines,4091,"Akron, OH (CAK)",Scheduled,2:05 PM,2:05 PM,Term A - A25
+Lufthansa,7908,"Austin, TX (AUS)",Scheduled,2:10 PM,2:10 PM,Term C - C101
+Porter Airlines,132,Toronto (YTZ),Scheduled,2:10 PM,2:10 PM,Term B - B51
+United Airlines,1055,"Austin, TX (AUS)",Scheduled,2:10 PM,2:10 PM,Term C - C101
+Air New Zealand,9533,"Los Angeles, CA (LAX)",Scheduled,2:20 PM,2:20 PM,Term C - C96
+Alaska Airlines,4183,"Chicago, IL (ORD)",Scheduled,2:20 PM,2:20 PM,Term A - A39
+American Airlines,3056,"Chicago, IL (ORD)",Scheduled,2:20 PM,2:20 PM,Term A - A39
+British Airways,5275,"Chicago, IL (ORD)",Scheduled,2:20 PM,2:20 PM,Term A - A39
+Qatar Airways,5147,"Chicago, IL (ORD)",Scheduled,2:20 PM,2:20 PM,Term A - A39
+Scandinavian Airlines,6842,"Los Angeles, CA (LAX)",Scheduled,2:20 PM,2:20 PM,Term C - C96
+United Airlines,1165,"Los Angeles, CA (LAX)",Scheduled,2:20 PM,2:20 PM,Term C - C96
+Air Canada,2351,"New Orleans, LA (MSY)",Scheduled,2:30 PM,2:30 PM,Term C - C113
+Lufthansa,8613,"New Orleans, LA (MSY)",Scheduled,2:30 PM,2:30 PM,Term C - C113
+Lufthansa,7682,"Baltimore, MD (BWI)",Scheduled,2:30 PM,2:30 PM,Term C - C130X
+Scandinavian Airlines,6760,"Orlando, FL (MCO)",Scheduled,2:30 PM,2:30 PM,Term C - C73
+Scandinavian Airlines,6744,"New Orleans, LA (MSY)",Scheduled,2:30 PM,2:30 PM,Term C - C113
+United Airlines,730,"Orlando, FL (MCO)",Scheduled,2:30 PM,2:30 PM,Term C - C73
+United Airlines,1563,"New Orleans, LA (MSY)",Scheduled,2:30 PM,2:30 PM,Term C - C113
+United Airlines,4928,"Baltimore, MD (BWI)",Scheduled,2:30 PM,2:30 PM,Term C - C130X
+Air Canada,5204,"Chicago, IL (ORD)",Scheduled,2:34 PM,2:34 PM,Term C - C94
+All Nippon Airways,7569,"Chicago, IL (ORD)",Scheduled,2:34 PM,2:34 PM,Term C - C94
+Scandinavian Airlines,6870,"Chicago, IL (ORD)",Scheduled,2:34 PM,2:34 PM,Term C - C94
+United Airlines,1062,"Chicago, IL (ORD)",Scheduled,2:34 PM,2:34 PM,Term C - C94
+Air Canada,7653,Toronto (YYZ),Scheduled,10:20 AM,,Term A - A12
+Air Canada,8491,Montreal (YUL),Scheduled,10:25 AM,,Term A - A11
+Air Canada,7655,Toronto (YYZ),Scheduled,12:20 PM,,Term A - A12
+Air Canada,8855,Ottawa (YOW),Scheduled,12:20 PM,,Term A - A11
+Air Canada,7657,Toronto (YYZ),Scheduled,2:30 PM,,Term A - A12
+Air China,820,Beijing (PEK),Scheduled,12:40 PM,,Term TB - 63
+Air India,144,Mumbai (BOM),Scheduled,2:15 PM,,Term TB - 54
+Air New Zealand,6596,"Houston, TX (IAH)",Cancelled,6:35 AM,,Term C
+Alaska Airlines,6779,"Chicago, IL (ORD)",Scheduled,9:50 AM,,Term A - 33
+Alaska Airlines,1187,"San Francisco, CA (SFO)",Scheduled,11:05 AM,,Term A - A32
+Alaska Airlines,1165,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
+American Airlines,1348,"Chicago, IL (ORD)",Scheduled,9:50 AM,,Term A - 33
+American Airlines,1808,"Charlotte, NC (CLT)",Scheduled,10:15 AM,,Term A - A37
+American Airlines,1826,"Phoenix, AZ (PHX)",Scheduled,10:30 AM,,Term A - A36
+American Airlines,1273,"Charlotte, NC (CLT)",Scheduled,11:35 AM,,Term A - 34
+American Airlines,1455,"Dallas-Fort Worth, TX (DFW)",Scheduled,12:50 PM,,Term A - A38
+American Airlines,1614,"Miami, FL (MIA)",Scheduled,1:20 PM,,Term A - A37
+American Airlines,621,"Charlotte, NC (CLT)",Scheduled,1:25 PM,,Term A - 35
+American Airlines,1458,"Phoenix, AZ (PHX)",Scheduled,1:35 PM,,Term A - A36
+American Airlines,2376,"Dallas-Fort Worth, TX (DFW)",Scheduled,2:30 PM,,Term A - 33
+British Airways,4952,"Miami, FL (MIA)",Scheduled,1:20 PM,,Term A - A37
+China Airlines,9591,"San Francisco, CA (SFO)",Scheduled,11:05 AM,,Term A - A32
+China Southern Airlines,1965,"San Francisco, CA (SFO)",Scheduled,11:05 AM,,Term A - A32
+China Southern Airlines,1909,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
+Delta Air Lines,6299,"Raleigh/Durham, NC (RDU)",Scheduled,9:16 AM,,Term TB - 46
+Etihad Airways,3240,"Chicago, IL (ORD)",Scheduled,9:50 AM,,Term A - 33
+Hawaiian Airlines,2585,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
+Japan Airlines,7359,"Chicago, IL (ORD)",Scheduled,9:50 AM,,Term A - 33
+LAN Airlines,6987,"Miami, FL (MIA)",Scheduled,1:20 PM,,Term A - A37
+Porter Airlines,118,Toronto (YTZ),Cancelled,6:55 AM,,Term B - B51
+Qantas Airways,4366,"Dallas-Fort Worth, TX (DFW)",Scheduled,2:30 PM,,Term A - 33
+Scandinavian Airlines,3861,Toronto (YYZ),Scheduled,2:30 PM,,Term A - A12
+Singapore Airlines,1375,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
+Southwest Airlines,6252,"Austin, TX (AUS)",Scheduled,8:50 AM,,Term TA - A14
+Southwest Airlines,253,"Denver, CO (DEN)",Scheduled,9:30 AM,,Term TA
+Southwest Airlines,950,"Chicago, IL (MDW)",Scheduled,9:35 AM,,Term TA - A10
+Southwest Airlines,2400,"Indianapolis, IN (IND)",Scheduled,9:55 AM,,Term TA
+Southwest Airlines,4123,"Chicago, IL (MDW)",Scheduled,12:25 PM,,Term TA - A10
+Southwest Airlines,1819,"Orlando, FL (MCO)",Scheduled,1:00 PM,,Term TA
+Southwest Airlines,776,"Austin, TX (AUS)",Scheduled,1:15 PM,,Term TA - A14
+TAM Brazilian Airlines,2075,"Miami, FL (MIA)",Scheduled,1:20 PM,,Term A - A37
+United Airlines,2037,"Houston, TX (IAH)",Cancelled,6:35 AM,,Term C
+United Airlines,2912,"Philadelphia, PA (ZFV)",Scheduled,8:32 AM,,Term TN
+United Airlines,2941,"Allentown, PA (ABE)",Scheduled,9:45 AM,,Term C
+United Airlines,2870,"Philadelphia, PA (ZFV)",Scheduled,9:56 AM,,Term TN
+United Airlines,8565,Toronto (YYZ),Scheduled,10:20 AM,,Term A - A12
+United Airlines,2905,"Stamford, CT (ZTF)",Scheduled,10:20 AM,,Term TN
+United Airlines,8157,Montreal (YUL),Scheduled,10:25 AM,,Term A - A11
+United Airlines,7584,Beijing (PEK),Scheduled,12:40 PM,,Term TB - 63
+United Airlines,2903,"Philadelphia, PA (ZFV)",Scheduled,12:57 PM,,Term TN
+United Airlines,2907,"Stamford, CT (ZTF)",Scheduled,1:09 PM,,Term TN
+United Airlines,8201,Toronto (YYZ),Scheduled,2:30 PM,,Term A - A12
+United Airlines,2931,"Philadelphia, PA (ZFV)",Scheduled,2:34 PM,,Term TN
+Virgin America,187,"San Francisco, CA (SFO)",Scheduled,11:05 AM,,Term A - A32
+Virgin America,165,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
+Virgin Australia,5263,"Los Angeles, CA (LAX)",Scheduled,12:30 PM,,Term A - A32
