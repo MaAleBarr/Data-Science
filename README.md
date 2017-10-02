@@ -11,9 +11,11 @@ execises to query different parameters.
 
 (4) Breat Cancer II : Develop supervised model to predict if cells from biopsy are malignant or benign, different dataset/ parameters than first analysis. Implememt random forest model, balancing training data using SMOTE. Calculate cross validation, confusion matrix, and importance of variables (and variability).
 
-(5) Pricing. 
+(5) Pricing test: princing optimization, evaluate data from pricing test. Data cleaning, plot trends, conlcusions and recommendations.  
 
 (6) Bike share analysis. Analytics, finding trends. 
 
-(7) Airline market share calculated from NYC taxi drop-off traffic at airports. Unsupervised learning. Implemantation of different clystering algorithms. 
+(7) NYC Taxi: Airline market share calculated from NYC taxi drop-off traffic at airports. Unsupervised learning. Implementation of various clustering algorithms. 
+
+(8) CS Challenge: unit test 
 
